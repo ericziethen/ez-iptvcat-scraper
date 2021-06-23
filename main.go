@@ -1,10 +1,14 @@
 package main
 
 import (
+	"bufio"
 	"encoding/json"
 	"fmt"
+	"io"
 	"io/ioutil"
+	"net/http"
 	"os"
+	"strings"
 
 	app "iptvcat-scraper/pkg"
 
@@ -13,10 +17,100 @@ import (
 
 const iptvCatDomain = "iptvcat.com"
 
-// const iptvCatURL = "https://" + iptvCatDomain
-const iptvCatURL = "https://iptvcat.com/indonesia_-_-_-_-"
+const iptvCatURL = "https://" + iptvCatDomain
+
+// const iptvCatURL = "https://iptvcat.com/indonesia_-_-_-_-"
 
 const aHref = "a[href]"
+
+func downloadFile(filepath string, url string) (err error) {
+	fmt.Println("downloadFile from ", url, "to ", filepath)
+
+	// Create the file
+	out, err := os.Create(filepath)
+	if err != nil {
+		return err
+	}
+	defer out.Close()
+
+	// Get the data
+	resp, err := http.Get(url)
+	if err != nil {
+		return err
+	}
+	defer resp.Body.Close()
+
+	// Check server response
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("bad status: %s", resp.Status)
+	}
+
+	// Writer the body to file
+	_, err = io.Copy(out, resp.Body)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func getUrlFromFile(filepath string, origUrl string) (string, error) {
+	f, err := os.Open(filepath)
+	if err != nil {
+		return "", err
+	}
+	defer f.Close()
+
+	// Splits on newlines by default.
+	scanner := bufio.NewScanner(f)
+
+	line := 1
+	// https://golang.org/pkg/bufio/#Scanner.Scan
+	for scanner.Scan() {
+		if strings.HasPrefix(strings.ToLower(scanner.Text()), "http") {
+			return scanner.Text(), nil
+		}
+		line++
+	}
+
+	if err := scanner.Err(); err != nil {
+		// Handle the error
+	}
+
+	return origUrl, err
+}
+
+func checkNestedUrls() {
+	fmt.Println("checkNestedUrls()")
+	for _, stream := range app.Streams.All {
+		if strings.HasSuffix(strings.ToLower(stream.Link), "m3u8") {
+			//fmt.Println("m3u8 found in link: ", stream.Link)
+
+			const tmpFile = "tmp.m3u8"
+			// Download the file
+			downloadFile(tmpFile, stream.Link)
+
+			// Get the Url
+			newUrl, err := getUrlFromFile(tmpFile, stream.Link)
+			if err != nil {
+				fmt.Println(err)
+				//return
+			}
+			//fmt.Println("newUrl found in link: ", newUrl)
+			stream.Link = newUrl
+
+			// Delete the file
+			err2 := os.Remove(tmpFile)
+			if err2 != nil {
+				fmt.Println(err2)
+				return
+			}
+
+		} else {
+			fmt.Println("no m3u8 found in link: ", stream.Link)
+		}
+	}
+}
 
 func writeToFile() {
 	streamsAll, err := json.MarshalIndent(app.Streams.All, "", "    ")
@@ -48,7 +142,7 @@ func main() {
 		fmt.Println("Visited", r.Request.URL)
 	})
 
-	// c.OnHTML(aHref, app.HandleFollowLinks(c))
+	c.OnHTML(aHref, app.HandleFollowLinks(c))
 	c.OnHTML(app.GetStreamTableSelector(), app.HandleStreamTable(c))
 
 	c.OnScraped(func(r *colly.Response) {
@@ -61,5 +155,6 @@ func main() {
 
 	c.Visit(iptvCatURL)
 	c.Wait()
+	checkNestedUrls()
 	writeToFile()
 }
