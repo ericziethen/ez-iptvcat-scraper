@@ -77,8 +77,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "652",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "india_-_-_-_-_-_"
         ]
@@ -162,7 +162,7 @@
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1853, ...",
+        "mbps": "2883, ...",
         "URI": [
             "india_-_-_-_-_-_"
         ]
@@ -204,7 +204,7 @@
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "1357, ...",
         "URI": [
             "india_-_-_-_-_-_"
         ]
@@ -1858,8 +1858,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "652",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "india_-_-_-_-_-_"
         ]
@@ -1943,7 +1943,7 @@
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1853, ...",
+        "mbps": "2883, ...",
         "URI": [
             "india_-_-_-_-_-_"
         ]
@@ -1985,7 +1985,7 @@
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "1357, ...",
         "URI": [
             "india_-_-_-_-_-_"
         ]

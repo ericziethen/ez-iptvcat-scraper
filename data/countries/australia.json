@@ -176,7 +176,7 @@
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "australia_-_-_-"
         ]
@@ -259,8 +259,8 @@
         "liveliness": "88",
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
+        "format": "sd",
+        "mbps": "899, ...",
         "URI": [
             "australia_-_-_-"
         ]
@@ -270,11 +270,11 @@
         "channel": "Sky Thoroughbred Central [Geo-blocked]",
         "link": "https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8?checkedby:iptvcat.com",
         "country": "australia",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853, ...",
+        "format": "hd",
+        "mbps": "3188, ...",
         "URI": [
             "australia_-_-_-"
         ]

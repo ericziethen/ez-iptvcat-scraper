@@ -103,8 +103,8 @@
         "link": "https://live.rte.ie/live/a/channel3/news.isml/news.m3u8?checkedby:iptvcat.com",
         "country": "ireland",
         "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-06-23T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-06-24T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [

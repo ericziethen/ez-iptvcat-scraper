@@ -280,6 +280,20 @@
         ]
     },
     {
+        "id": "683",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2021-06-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "france_-_-_-_-_"
+        ]
+    },
+    {
         "id": "685",
         "channel": "Fashion TV Midnite Secrets",
         "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com",
@@ -289,20 +303,6 @@
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "682",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2021-06-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
         "URI": [
             "france_-_-_-_-_"
         ]
@@ -322,6 +322,20 @@
         ]
     },
     {
+        "id": "682",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2021-06-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "france_-_-_-_-_"
+        ]
+    },
+    {
         "id": "684",
         "channel": "Fashion TV Midnite Secrets",
         "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com",
@@ -331,20 +345,6 @@
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "683",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2021-06-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
         "URI": [
             "france_-_-_-_-_"
         ]
@@ -742,11 +742,11 @@
         ]
     },
     {
-        "id": "729",
+        "id": "726",
         "channel": "TV5Monde Info",
-        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
+        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "fhd 2k",
@@ -756,11 +756,11 @@
         ]
     },
     {
-        "id": "726",
+        "id": "729",
         "channel": "TV5Monde Info",
-        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
+        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2021-06-24T00:00:00Z",
         "format": "fhd 2k",
