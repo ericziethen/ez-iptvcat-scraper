@@ -8,18 +8,13 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
+	"regexp"
 	"strings"
 
 	app "iptvcat-scraper/pkg"
 
 	"github.com/gocolly/colly"
 )
-
-const iptvCatDomain = "iptvcat.com"
-
-const iptvCatURL = "https://" + iptvCatDomain
-
-// const iptvCatURL = "https://iptvcat.com/indonesia_-_-_-_-"
 
 const aHref = "a[href]"
 
@@ -82,9 +77,21 @@ func getUrlFromFile(filepath string, origUrl string) (string, error) {
 
 func checkNestedUrls() {
 	fmt.Println("checkNestedUrls()")
+
+	converted_urls := map[string]string{}
+	ignored := 0
+	processed := 0
+
 	for _, stream := range app.Streams.All {
-		if strings.HasSuffix(strings.ToLower(stream.Link), "m3u8") {
-			//fmt.Println("m3u8 found in link: ", stream.Link)
+		url_lower := strings.ToLower(stream.Link)
+
+		if strings.Contains(url_lower, "list.iptvcat.com") {
+			if _, ok := converted_urls[url_lower]; ok {
+				// stream.Link = converted_urls[url_lower]
+				ignored++
+				fmt.Println(">>> SKIP DUPLICATE: ", ignored)
+				continue
+			}
 
 			const tmpFile = "tmp.m3u8"
 			// Download the file
@@ -98,6 +105,9 @@ func checkNestedUrls() {
 			}
 			//fmt.Println("newUrl found in link: ", newUrl)
 			stream.Link = newUrl
+			converted_urls[url_lower] = newUrl
+
+			processed++
 
 			// Delete the file
 			err2 := os.Remove(tmpFile)
@@ -110,6 +120,11 @@ func checkNestedUrls() {
 			fmt.Println("no m3u8 found in link: ", stream.Link)
 		}
 	}
+
+	fmt.Println("### MAP ", converted_urls)
+	fmt.Println("### ignored ", ignored)
+	fmt.Println("### processed ", processed)
+
 }
 
 func writeToFile() {
@@ -133,9 +148,11 @@ func writeToFile() {
 	}
 }
 
-func main() {
+func processUrl(url string, domain string) {
+	urlFilters := regexp.MustCompile(url + ".*")
 	c := colly.NewCollector(
-		colly.AllowedDomains(iptvCatDomain),
+		colly.AllowedDomains(domain),
+		colly.URLFilters(urlFilters),
 	)
 
 	c.OnResponse(func(r *colly.Response) {
@@ -153,8 +170,40 @@ func main() {
 		fmt.Printf("Error: %d %s\n", r.StatusCode, r.Request.URL)
 	})
 
-	c.Visit(iptvCatURL)
+	c.Visit(url)
 	c.Wait()
 	checkNestedUrls()
 	writeToFile()
+}
+
+func main() {
+	const iptvCatDomain = "iptvcat.com"
+
+	urlList := [...]string{
+		"https://iptvcat.com/china",
+		"https://iptvcat.com/hong_kong",
+		"https://iptvcat.com/india",
+		"https://iptvcat.com/indonesia",
+		"https://iptvcat.com/japan",
+		"https://iptvcat.com/malaysia",
+		"https://iptvcat.com/singapore",
+		"https://iptvcat.com/south_korea",
+		"https://iptvcat.com/austria",
+		"https://iptvcat.com/belgium",
+		"https://iptvcat.com/france",
+		"https://iptvcat.com/germany",
+		"https://iptvcat.com/ireland",
+		"https://iptvcat.com/italy",
+		"https://iptvcat.com/switzerland",
+		"https://iptvcat.com/united_kingdom",
+		"https://iptvcat.com/canada",
+		"https://iptvcat.com/united_states_of_america",
+		"https://iptvcat.com/australia",
+		"https://iptvcat.com/new_zealand",
+	}
+
+	for _, element := range urlList {
+		processUrl(element, iptvCatDomain)
+	}
+
 }
