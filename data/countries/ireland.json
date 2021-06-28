@@ -6,7 +6,7 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "ireland",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -74,9 +74,9 @@
         "channel": "Ireland Parliament (Seanad Eireann) (720p)",
         "link": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8?checkedby:iptvcat.com",
         "country": "ireland",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -102,9 +102,9 @@
         "channel": "RTE News Now",
         "link": "https://live.rte.ie/live/a/channel3/news.isml/news.m3u8?checkedby:iptvcat.com",
         "country": "ireland",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-06-26T00:00:00Z",
+        "lastChecked": "2021-06-27T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -118,9 +118,9 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-06-27T00:00:00Z",
+        "lastChecked": "2021-06-28T00:00:00Z",
         "format": "sd",
-        "mbps": "1008",
+        "mbps": "1688, ...",
         "URI": [
             "ireland_"
         ]
