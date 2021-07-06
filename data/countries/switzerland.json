@@ -1,12 +1,26 @@
 [
     {
+        "id": "1488571",
+        "channel": "3  HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24761?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
         "id": "1449627",
         "channel": "3 HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/14266?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "62",
+        "liveliness": "61",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -19,10 +33,10 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266463?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "70",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -34,7 +48,21 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488580",
+        "channel": "3+  HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24762?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -46,11 +74,11 @@
         "channel": "3+ HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/151508?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "70",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -60,9 +88,9 @@
         "channel": "4 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/14265?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "54",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -74,9 +102,9 @@
         "channel": "4+  HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8894?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "92",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -88,9 +116,9 @@
         "channel": "4+ HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/2809?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "61",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -102,9 +130,9 @@
         "channel": "5  HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54693?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "52",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -117,8 +145,8 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/14262?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "59",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -130,11 +158,11 @@
         "channel": "5+  HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8893?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "97",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -144,11 +172,25 @@
         "channel": "5+ HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/52424?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "69",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488844",
+        "channel": "6+",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/65838?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -158,9 +200,9 @@
         "channel": "6+ FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/193766?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "72",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -172,9 +214,9 @@
         "channel": "Arte HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266460?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -186,9 +228,9 @@
         "channel": "Beatz TV",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/165437?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "57",
+        "liveliness": "54",
         "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -200,9 +242,23 @@
         "channel": "Blue Action",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/225132?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488845",
+        "channel": "Blue Action",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73249?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -214,9 +270,51 @@
         "channel": "Blue Prime",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266681?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488851",
+        "channel": "Blue Prime HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73251?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488854",
+        "channel": "Blue Sport 1 FHD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73252?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488859",
+        "channel": "Blue Sport 2 FHD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73253?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -228,9 +326,23 @@
         "channel": "Blue Star",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/245138?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488860",
+        "channel": "Blue Star FHD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73254?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -242,9 +354,9 @@
         "channel": "CANAL 9",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24718?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -258,7 +370,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -272,9 +384,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188, ...",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -286,7 +398,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -298,9 +410,9 @@
         "channel": "COMEDY CENTRAL",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8892?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -314,7 +426,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -328,7 +440,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -340,9 +452,9 @@
         "channel": "Carton Network HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266465?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "64",
+        "liveliness": "60",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -354,9 +466,9 @@
         "channel": "Comedy Central HD / VIVA HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/169991?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "55",
+        "liveliness": "58",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1488",
         "URI": [
@@ -368,9 +480,9 @@
         "channel": "DIE NEUE ZEIT",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24302?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "78",
+        "liveliness": "77",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -382,11 +494,11 @@
         "channel": "DISNEY CHANNEL HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8891?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -396,11 +508,11 @@
         "channel": "Das Erste HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266458?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
+        "liveliness": "69",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -412,21 +524,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1810",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421959",
-        "channel": "Die Neue Zeit TV",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54714?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -438,11 +536,11 @@
         "channel": "Discovery Channel FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/73992?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
+        "liveliness": "66",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -452,9 +550,9 @@
         "channel": "Discovery WORLD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/151712?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -466,9 +564,9 @@
         "channel": "Disney Channel",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54719?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "62",
+        "liveliness": "58",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -480,9 +578,9 @@
         "channel": "Disney Channel",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/73991?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "69",
+        "liveliness": "74",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -494,11 +592,11 @@
         "channel": "Disney Cinemagic HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266466?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
+        "liveliness": "70",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -508,11 +606,11 @@
         "channel": "Disney Junior HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/83348?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -522,9 +620,9 @@
         "channel": "KABEL 1",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/173100?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -536,9 +634,9 @@
         "channel": "KANAL 10 SWEDEN",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54736?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "38",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -550,11 +648,11 @@
         "channel": "KANAL 10 SWEDEN",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148043?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "47",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -564,9 +662,9 @@
         "channel": "KANAL 11",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148037?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "58",
+        "liveliness": "59",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -578,9 +676,9 @@
         "channel": "KANAL 5 HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148032?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -593,8 +691,8 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/52437?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "48",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -608,7 +706,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -622,8 +720,8 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
             "switzerland_-_-_"
@@ -634,9 +732,9 @@
         "channel": "LFM TV",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/23665?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "47",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -650,7 +748,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -664,7 +762,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -678,7 +776,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -691,10 +789,10 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9658?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -706,7 +804,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -718,11 +816,11 @@
         "channel": "MYSPORTS 3 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9656?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -734,7 +832,7 @@
         "country": "switzerland",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -746,11 +844,11 @@
         "channel": "MYSPORTS 5 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9654?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "92",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -761,8 +859,8 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9653?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -774,9 +872,9 @@
         "channel": "MYSPORTS 7 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9652?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -788,11 +886,11 @@
         "channel": "MYSPORTS 8 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9651?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -803,8 +901,8 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9650?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -817,8 +915,8 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9649?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -830,9 +928,9 @@
         "channel": "MaxTV",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/165429?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -844,9 +942,9 @@
         "channel": "MySports 2 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/35843?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -858,25 +956,11 @@
         "channel": "MySports 2/S 2 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148195?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "74",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421979",
-        "channel": "MySports 3 FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54747?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -886,11 +970,11 @@
         "channel": "MySports 3 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/70853?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "59",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -900,9 +984,9 @@
         "channel": "MySports 3/S 3 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148196?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "55",
+        "liveliness": "56",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -914,9 +998,9 @@
         "channel": "MySports 4 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/23838?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "44",
+        "liveliness": "47",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -928,23 +1012,9 @@
         "channel": "MySports 4/S 4 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148194?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "65",
+        "liveliness": "61",
         "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421983",
-        "channel": "MySports 5 FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54750?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -956,9 +1026,9 @@
         "channel": "MySports 6 HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148193?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "53",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -970,25 +1040,11 @@
         "channel": "MySports 7 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148191?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "73",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "66",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421985",
-        "channel": "MySports 8 HD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54752?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -998,9 +1054,9 @@
         "channel": "MySports DE HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/198883?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "55",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1012,11 +1068,11 @@
         "channel": "NICKELODEON CH",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8890?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1026,9 +1082,9 @@
         "channel": "PROSIEBEN HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54760?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "44",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -1042,7 +1098,7 @@
         "country": "switzerland",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1054,9 +1110,9 @@
         "channel": "RSI 2 HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8900?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1068,9 +1124,9 @@
         "channel": "RTS 1 HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54773?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "59",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1082,9 +1138,9 @@
         "channel": "RTS 2 HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54774?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "40",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1096,11 +1152,11 @@
         "channel": "RTS DEUX HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8899?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1110,9 +1166,9 @@
         "channel": "RTS Deux FHD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54776?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2544",
         "URI": [
@@ -1124,11 +1180,11 @@
         "channel": "RTS UN HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8897?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "94",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1138,11 +1194,25 @@
         "channel": "RTS UN HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54777?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488725",
+        "channel": "RTS UN HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24774?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1154,7 +1224,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1168,7 +1238,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1182,7 +1252,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1196,7 +1266,7 @@
         "country": "switzerland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1210,7 +1280,7 @@
         "country": "switzerland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1222,39 +1292,11 @@
         "channel": "S1 HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54778?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "36",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422015",
-        "channel": "SAT.1 HD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54780?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422023",
-        "channel": "SRF 1 FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54787?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1265,10 +1307,10 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/8910?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1280,7 +1322,21 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488694",
+        "channel": "SRF 2 HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24768?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1294,9 +1350,23 @@
         "country": "switzerland",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488710",
+        "channel": "SRF Info",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24769?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1306,13 +1376,69 @@
         "channel": "SRF Info FHD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54789?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
+        "liveliness": "39",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488744",
+        "channel": "SRF Info HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24782?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488742",
+        "channel": "SRF zwei HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24781?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488514",
+        "channel": "SWISS 1 HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24757?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488866",
+        "channel": "Sat 1 CH",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/85061?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland"
         ]
     },
     {
@@ -1322,11 +1448,11 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
-            "switzerland_-_-_"
+            "switzerland"
         ]
     },
     {
@@ -1334,27 +1460,13 @@
         "channel": "Sportal HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54786?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "46",
+        "liveliness": "43",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422027",
-        "channel": "TC Action FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54801?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "switzerland_-_-_"
+            "switzerland"
         ]
     },
     {
@@ -1362,13 +1474,27 @@
         "channel": "TC DISCOVERY CHANNEL HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8883?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
-            "switzerland_-_-_"
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488864",
+        "channel": "TELE M1",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/37960?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland"
         ]
     },
     {
@@ -1376,13 +1502,13 @@
         "channel": "TELE ZURICH",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8905?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "694",
         "URI": [
-            "switzerland_-_-_"
+            "switzerland"
         ]
     },
     {
@@ -1390,13 +1516,13 @@
         "channel": "TELE ZURICH",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54809?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "32",
+        "liveliness": "29",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "switzerland_-_-_"
+            "switzerland"
         ]
     },
     {
@@ -1406,7 +1532,7 @@
         "country": "switzerland",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1418,9 +1544,9 @@
         "channel": "TELECLUB EMOTION",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8903?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1432,9 +1558,9 @@
         "channel": "TELECLUB PRIME",
         "link": "http://ultimateiptv.me:8080/amira/amira123/2731?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1448,7 +1574,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1460,11 +1586,11 @@
         "channel": "TELECLUB SPORT 2 HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8904?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "3758",
         "URI": [
             "switzerland"
         ]
@@ -1476,7 +1602,7 @@
         "country": "switzerland",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1490,7 +1616,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1502,11 +1628,11 @@
         "channel": "TLC HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8886?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland"
         ]
@@ -1516,9 +1642,9 @@
         "channel": "TV 10",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54825?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "39",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1531,10 +1657,10 @@
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54827?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland"
         ]
@@ -1545,8 +1671,22 @@
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54828?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488442",
+        "channel": "TV24 HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24747?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1554,29 +1694,15 @@
         ]
     },
     {
-        "id": "1422052",
-        "channel": "TV4 Film HD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54832?checkedby:iptvcat.com",
+        "id": "1488440",
+        "channel": "TV25 HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24746?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "24",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "switzerland"
-        ]
-    },
-    {
-        "id": "1422056",
-        "channel": "TV4 HD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54834?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "switzerland"
         ]
@@ -1586,9 +1712,9 @@
         "channel": "TV4 KOMEDI",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54835?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "44",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2285",
         "URI": [
@@ -1602,7 +1728,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1614,25 +1740,11 @@
         "channel": "TVM 3",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54838?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "35",
+        "liveliness": "32",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
-        "URI": [
-            "switzerland"
-        ]
-    },
-    {
-        "id": "1422051",
-        "channel": "TVO FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54839?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "switzerland"
         ]
@@ -1642,9 +1754,23 @@
         "channel": "TVO HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8902?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488714",
+        "channel": "TVO HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24770?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1658,9 +1784,23 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488510",
+        "channel": "Tele Basel",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24756?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland"
         ]
@@ -1672,7 +1812,35 @@
         "country": "switzerland",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488836",
+        "channel": "Tele Ticino TV",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/63954?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488460",
+        "channel": "Tele Z",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24749?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1684,11 +1852,25 @@
         "channel": "Tele Z FHD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54808?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "55",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488468",
+        "channel": "TeleB",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24752?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland"
         ]
@@ -1698,9 +1880,9 @@
         "channel": "TeleClub Cinema FHD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54813?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
+        "liveliness": "39",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1712,9 +1894,9 @@
         "channel": "TeleClub Prime HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54815?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1726,9 +1908,9 @@
         "channel": "TeleClub Sport 1 HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54817?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "36",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1742,7 +1924,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1754,9 +1936,9 @@
         "channel": "TeleTicino HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54820?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "62",
+        "liveliness": "58",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1768,9 +1950,51 @@
         "channel": "Telebasel FHD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54810?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "46",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "44",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488748",
+        "channel": "Teleclub Emotion",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24786?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488756",
+        "channel": "Teleclub Zoom",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24792?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488760",
+        "channel": "Teleclub Zoom HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24793?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1782,9 +2006,9 @@
         "channel": "VIASAT FILM PREMIERE HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54845?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1796,9 +2020,9 @@
         "channel": "Viasat Golf HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54847?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "30",
+        "liveliness": "27",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1810,9 +2034,9 @@
         "channel": "Viasat Series HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54852?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1824,9 +2048,9 @@
         "channel": "blue Zoom",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/278312?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1838,13 +2062,55 @@
         "channel": "kunskapskalen",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148047?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "47",
+        "liveliness": "50",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488474",
+        "channel": "tele1",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24753?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488467",
+        "channel": "teleM1",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24751?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland"
+        ]
+    },
+    {
+        "id": "1488571",
+        "channel": "3  HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24761?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "switzerland"
+            "switzerland_-_-_"
         ]
     },
     {
@@ -1852,9 +2118,9 @@
         "channel": "3 HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/14266?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "62",
+        "liveliness": "61",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1867,10 +2133,10 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266463?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "70",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1882,7 +2148,21 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488580",
+        "channel": "3+  HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24762?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1894,11 +2174,11 @@
         "channel": "3+ HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/151508?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "70",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1908,9 +2188,9 @@
         "channel": "4 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/14265?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "54",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1922,9 +2202,9 @@
         "channel": "4+  HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8894?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "92",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1936,9 +2216,9 @@
         "channel": "4+ HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/2809?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "61",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1950,9 +2230,9 @@
         "channel": "5  HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54693?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "52",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1965,8 +2245,8 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/14262?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "59",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1978,11 +2258,11 @@
         "channel": "5+  HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8893?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "97",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1992,11 +2272,25 @@
         "channel": "5+ HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/52424?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "69",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488844",
+        "channel": "6+",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/65838?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2006,9 +2300,9 @@
         "channel": "6+ FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/193766?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "72",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2020,9 +2314,9 @@
         "channel": "Arte HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266460?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -2034,9 +2328,9 @@
         "channel": "Beatz TV",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/165437?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "57",
+        "liveliness": "54",
         "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2048,9 +2342,23 @@
         "channel": "Blue Action",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/225132?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488845",
+        "channel": "Blue Action",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73249?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2062,9 +2370,51 @@
         "channel": "Blue Prime",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266681?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488851",
+        "channel": "Blue Prime HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73251?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488854",
+        "channel": "Blue Sport 1 FHD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73252?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488859",
+        "channel": "Blue Sport 2 FHD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73253?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2076,9 +2426,23 @@
         "channel": "Blue Star",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/245138?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488860",
+        "channel": "Blue Star FHD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/73254?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2090,9 +2454,9 @@
         "channel": "CANAL 9",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24718?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2106,7 +2470,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2120,9 +2484,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188, ...",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2134,7 +2498,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2146,9 +2510,9 @@
         "channel": "COMEDY CENTRAL",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8892?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2162,7 +2526,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2176,7 +2540,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2188,9 +2552,9 @@
         "channel": "Carton Network HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266465?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "64",
+        "liveliness": "60",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2202,9 +2566,9 @@
         "channel": "Comedy Central HD / VIVA HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/169991?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "55",
+        "liveliness": "58",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1488",
         "URI": [
@@ -2216,9 +2580,9 @@
         "channel": "DIE NEUE ZEIT",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24302?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "78",
+        "liveliness": "77",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -2230,11 +2594,11 @@
         "channel": "DISNEY CHANNEL HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8891?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2244,11 +2608,11 @@
         "channel": "Das Erste HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266458?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
+        "liveliness": "69",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2260,21 +2624,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1810",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421959",
-        "channel": "Die Neue Zeit TV",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54714?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -2286,11 +2636,11 @@
         "channel": "Discovery Channel FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/73992?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
+        "liveliness": "66",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2300,9 +2650,9 @@
         "channel": "Discovery WORLD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/151712?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2314,9 +2664,9 @@
         "channel": "Disney Channel",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54719?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "62",
+        "liveliness": "58",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -2328,9 +2678,9 @@
         "channel": "Disney Channel",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/73991?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "69",
+        "liveliness": "74",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2342,11 +2692,11 @@
         "channel": "Disney Cinemagic HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/266466?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
+        "liveliness": "70",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2356,11 +2706,11 @@
         "channel": "Disney Junior HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/83348?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2370,9 +2720,9 @@
         "channel": "KABEL 1",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/173100?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2384,9 +2734,9 @@
         "channel": "KANAL 10 SWEDEN",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54736?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "38",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2398,11 +2748,11 @@
         "channel": "KANAL 10 SWEDEN",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148043?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "47",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2412,9 +2762,9 @@
         "channel": "KANAL 11",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148037?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "58",
+        "liveliness": "59",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2426,9 +2776,9 @@
         "channel": "KANAL 5 HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148032?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2441,8 +2791,8 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/52437?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "48",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2456,7 +2806,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -2470,8 +2820,8 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
             "switzerland_-_-_"
@@ -2482,9 +2832,9 @@
         "channel": "LFM TV",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/23665?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "47",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2498,7 +2848,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2512,7 +2862,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2526,7 +2876,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2539,10 +2889,10 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9658?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2554,7 +2904,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2566,11 +2916,11 @@
         "channel": "MYSPORTS 3 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9656?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2582,7 +2932,7 @@
         "country": "switzerland",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2594,11 +2944,11 @@
         "channel": "MYSPORTS 5 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9654?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "92",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2609,8 +2959,8 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9653?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2622,9 +2972,9 @@
         "channel": "MYSPORTS 7 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9652?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2636,11 +2986,11 @@
         "channel": "MYSPORTS 8 FHD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/9651?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2651,8 +3001,8 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9650?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2665,8 +3015,8 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/9649?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2678,9 +3028,9 @@
         "channel": "MaxTV",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/165429?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2692,9 +3042,9 @@
         "channel": "MySports 2 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/35843?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2706,25 +3056,11 @@
         "channel": "MySports 2/S 2 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148195?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "74",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421979",
-        "channel": "MySports 3 FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54747?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2734,11 +3070,11 @@
         "channel": "MySports 3 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/70853?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "59",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2748,9 +3084,9 @@
         "channel": "MySports 3/S 3 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148196?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "55",
+        "liveliness": "56",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2762,9 +3098,9 @@
         "channel": "MySports 4 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/23838?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "44",
+        "liveliness": "47",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2776,23 +3112,9 @@
         "channel": "MySports 4/S 4 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148194?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "65",
+        "liveliness": "61",
         "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421983",
-        "channel": "MySports 5 FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54750?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2804,9 +3126,9 @@
         "channel": "MySports 6 HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148193?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "53",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2818,25 +3140,11 @@
         "channel": "MySports 7 FHD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/148191?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "73",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "66",
+        "status": "offline",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1421985",
-        "channel": "MySports 8 HD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54752?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2846,9 +3154,9 @@
         "channel": "MySports DE HD",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/198883?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "55",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2860,11 +3168,11 @@
         "channel": "NICKELODEON CH",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8890?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2874,9 +3182,9 @@
         "channel": "PROSIEBEN HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54760?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "44",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -2890,7 +3198,7 @@
         "country": "switzerland",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2902,9 +3210,9 @@
         "channel": "RSI 2 HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8900?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2916,9 +3224,9 @@
         "channel": "RTS 1 HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54773?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "59",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2930,9 +3238,9 @@
         "channel": "RTS 2 HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54774?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "liveliness": "40",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -2944,11 +3252,11 @@
         "channel": "RTS DEUX HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8899?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2958,9 +3266,9 @@
         "channel": "RTS Deux FHD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54776?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "sd",
         "mbps": "2544",
         "URI": [
@@ -2972,11 +3280,11 @@
         "channel": "RTS UN HD",
         "link": "http://ultimateiptv.me:8080/amira/amira123/8897?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "94",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -2986,11 +3294,25 @@
         "channel": "RTS UN HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54777?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488725",
+        "channel": "RTS UN HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24774?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -3002,7 +3324,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3016,7 +3338,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3030,7 +3352,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3044,7 +3366,7 @@
         "country": "switzerland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3058,7 +3380,7 @@
         "country": "switzerland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3070,39 +3392,11 @@
         "channel": "S1 HD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54778?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "36",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422015",
-        "channel": "SAT.1 HD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54780?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422023",
-        "channel": "SRF 1 FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54787?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -3113,10 +3407,10 @@
         "link": "http://ultimateiptv.me:8080/amira/amira123/8910?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -3128,7 +3422,21 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488694",
+        "channel": "SRF 2 HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24768?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3142,9 +3450,23 @@
         "country": "switzerland",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1488710",
+        "channel": "SRF Info",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24769?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-07-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -3154,9 +3476,9 @@
         "channel": "SRF Info FHD",
         "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54789?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "42",
+        "liveliness": "39",
         "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3164,85 +3486,15 @@
         ]
     },
     {
-        "id": "693989",
-        "channel": "Schweiz 5",
-        "link": "https://stream.schweiz5.ch/schweiz52020/stream.m3u8?checkedby:iptvcat.com",
+        "id": "1488744",
+        "channel": "SRF Info HD",
+        "link": "http://albauser.net:2235/antree-iptv/exchange/24782?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422021",
-        "channel": "Sportal HD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54786?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "46",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
+        "lastChecked": "2021-07-06T00:00:00Z",
         "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422027",
-        "channel": "TC Action FHD",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54801?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1400448",
-        "channel": "TC DISCOVERY CHANNEL HD",
-        "link": "http://ultimateiptv.me:8080/amira/amira123/8883?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1400318",
-        "channel": "TELE ZURICH",
-        "link": "http://ultimateiptv.me:8080/amira/amira123/8905?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2021-07-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_"
-        ]
-    },
-    {
-        "id": "1422033",
-        "channel": "TELE ZURICH",
-        "link": "http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/54809?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "32",
-        "status": "offline",
-        "lastChecked": "2021-07-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
