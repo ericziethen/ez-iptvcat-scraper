@@ -6,11 +6,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -20,11 +20,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -32,13 +32,13 @@
         "channel": "ATV 2",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/75593?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "75",
+        "liveliness": "60",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "138",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -48,11 +48,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -60,13 +60,13 @@
         "channel": "ATV FHD",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192593?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -74,13 +74,13 @@
         "channel": "ATV HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74653?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
+        "liveliness": "78",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -88,13 +88,13 @@
         "channel": "ATV HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/75592?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "50",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -104,11 +104,11 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -118,11 +118,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -130,13 +130,13 @@
         "channel": "FS1 Salzburg",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74668?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -146,11 +146,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -160,11 +160,11 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -174,12 +174,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-",
-            "germany_-_-_-_-_-_-_-"
+            "austria_-_-_-_",
+            "germany"
         ]
     },
     {
@@ -187,13 +187,13 @@
         "channel": "K-TV HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74667?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -203,11 +203,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -215,13 +215,13 @@
         "channel": "Krone HIT",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74664?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "50",
+        "liveliness": "57",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -231,11 +231,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -245,11 +245,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -259,11 +259,11 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -271,13 +271,13 @@
         "channel": "L�ndle Tv",
         "link": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -287,11 +287,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -301,11 +301,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
+        "lastChecked": "2021-07-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -315,11 +315,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -329,11 +329,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -341,13 +341,13 @@
         "channel": "ORF 1",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74655?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -357,11 +357,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -371,11 +371,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -385,11 +385,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "lastChecked": "2021-07-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2421",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -397,13 +397,13 @@
         "channel": "ORF 2 HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/75588?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "50",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -411,13 +411,13 @@
         "channel": "ORF 3",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195386?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -427,11 +427,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2021-07-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -439,13 +439,13 @@
         "channel": "ORF 3 HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74657?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "60",
+        "liveliness": "57",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "lastChecked": "2021-07-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -455,11 +455,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2021-07-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -469,11 +469,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -483,11 +483,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -495,13 +495,13 @@
         "channel": "ORF Sport+ HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/75591?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "25",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "136",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -511,11 +511,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -525,11 +525,11 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -537,13 +537,13 @@
         "channel": "PROSIEBEN MAXX FHD",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/241978?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -553,11 +553,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -565,13 +565,13 @@
         "channel": "Puls 4",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74660?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -581,11 +581,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -593,13 +593,13 @@
         "channel": "Puls 4 FHD",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192588?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -607,13 +607,13 @@
         "channel": "R9 HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74671?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "67",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -623,11 +623,11 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -637,11 +637,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -651,11 +651,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "7986",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -665,11 +665,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -679,11 +679,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -691,13 +691,13 @@
         "channel": "SAT.1 terreich HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74674?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "80",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-07-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2421",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -707,11 +707,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -721,11 +721,11 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -735,11 +735,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -749,11 +749,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -761,13 +761,13 @@
         "channel": "Sixx  HD",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74676?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -777,11 +777,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -791,11 +791,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "4715",
+        "lastChecked": "2021-07-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -805,11 +805,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -819,11 +819,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -833,11 +833,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -847,11 +847,11 @@
         "country": "austria",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -861,11 +861,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -875,11 +875,11 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -887,13 +887,13 @@
         "channel": "W24",
         "link": "http://satlok.xyz:8000/EERR07/ERKA0708/74662?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "50",
+        "liveliness": "57",
         "status": "offline",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -903,11 +903,11 @@
         "country": "austria",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-"
+            "austria_-_-_-_"
         ]
     },
     {
@@ -917,12 +917,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-",
-            "germany_-_-_-_-_-_-_-"
+            "austria_-_-_-_",
+            "germany"
         ]
     },
     {
@@ -932,12 +932,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-07T00:00:00Z",
+        "lastChecked": "2021-07-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "austria_-_-_-",
-            "germany_-_-_-_-_-_-_-"
+            "austria_-_-_-_",
+            "germany"
         ]
     }
 ]
