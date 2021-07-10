@@ -6,7 +6,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "india",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2308, ...",
         "URI": [
@@ -62,9 +62,9 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
-        "mbps": "2212",
+        "mbps": "1845",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -76,7 +76,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -146,23 +146,9 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
-        "URI": [
-            "india_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "4489",
-        "channel": "APB, 印度APB",
-        "link": "http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.com",
-        "country": "india",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "724",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -174,7 +160,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -188,9 +174,9 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1008, ...",
+        "mbps": "1357",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -200,9 +186,9 @@
         "channel": "Anjan (720p)",
         "link": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -215,7 +201,7 @@
         "link": "http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "89",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1454",
@@ -230,7 +216,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1677, ...",
         "URI": [
@@ -244,7 +230,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -257,8 +243,8 @@
         "link": "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-07-08T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -272,7 +258,7 @@
         "country": "india",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -285,8 +271,8 @@
         "link": "http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -300,9 +286,9 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1490, ...",
+        "mbps": "209",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -314,7 +300,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2529",
         "URI": [
@@ -328,7 +314,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2529",
         "URI": [
@@ -342,7 +328,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -354,8 +340,8 @@
         "channel": "Channel Win (360p)",
         "link": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -370,7 +356,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -384,7 +370,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -398,7 +384,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -412,7 +398,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -426,7 +412,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -439,7 +425,7 @@
         "link": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "100",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1662",
@@ -454,7 +440,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -468,7 +454,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -482,7 +468,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -496,7 +482,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -510,7 +496,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -524,7 +510,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -538,7 +524,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -552,7 +538,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -566,7 +552,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -580,7 +566,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -594,7 +580,7 @@
         "country": "india",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -606,9 +592,9 @@
         "channel": "FASTWAY NEWS (720p)",
         "link": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2021-07-08T00:00:00Z",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "9556",
         "URI": [
@@ -622,7 +608,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -636,7 +622,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -650,7 +636,7 @@
         "country": "india",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
@@ -664,7 +650,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
@@ -678,7 +664,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -692,7 +678,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -706,7 +692,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -720,7 +706,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -734,7 +720,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -748,7 +734,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -762,7 +748,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -776,7 +762,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -790,7 +776,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -804,7 +790,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "4257",
         "URI": [
@@ -818,7 +804,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "4257",
         "URI": [
@@ -832,7 +818,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -846,7 +832,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -860,7 +846,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -874,7 +860,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -888,9 +874,9 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
-        "mbps": "407, ...",
+        "mbps": "1490, ...",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -902,7 +888,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -916,7 +902,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -930,7 +916,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -944,7 +930,7 @@
         "country": "india",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -958,7 +944,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -972,7 +958,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -986,7 +972,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1299",
         "URI": [
@@ -1000,7 +986,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -1014,7 +1000,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1299",
         "URI": [
@@ -1028,7 +1014,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -1042,7 +1028,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "275",
         "URI": [
@@ -1056,7 +1042,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1299",
         "URI": [
@@ -1070,7 +1056,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -1084,7 +1070,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2529",
         "URI": [
@@ -1098,7 +1084,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1112,7 +1098,7 @@
         "country": "india",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1677",
         "URI": [
@@ -1126,7 +1112,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1140,7 +1126,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1154,7 +1140,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1166,8 +1152,8 @@
         "channel": "News 18 Gujarati",
         "link": "https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -1182,7 +1168,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1196,7 +1182,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1210,7 +1196,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1224,7 +1210,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1238,7 +1224,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1252,7 +1238,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1266,7 +1252,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1280,7 +1266,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -1294,7 +1280,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -1308,7 +1294,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1322,7 +1308,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1336,7 +1322,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1350,7 +1336,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1365,7 +1351,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008, ...",
         "URI": [
@@ -1379,7 +1365,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008, ...",
         "URI": [
@@ -1393,7 +1379,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "521",
         "URI": [
@@ -1407,7 +1393,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1421,7 +1407,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1435,7 +1421,7 @@
         "country": "india",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1449,7 +1435,7 @@
         "country": "india",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1082",
         "URI": [
@@ -1463,7 +1449,7 @@
         "country": "india",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1477,7 +1463,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1491,7 +1477,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1505,7 +1491,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1520,7 +1506,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1534,7 +1520,7 @@
         "country": "india",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1548,7 +1534,7 @@
         "country": "india",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2018",
         "URI": [
@@ -1562,7 +1548,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1576,7 +1562,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1590,7 +1576,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1604,9 +1590,9 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
-        "mbps": "136",
+        "mbps": "1357",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -1618,7 +1604,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1632,7 +1618,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -1647,7 +1633,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1661,7 +1647,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1675,7 +1661,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1689,7 +1675,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2308, ...",
         "URI": [
@@ -1703,7 +1689,7 @@
         "country": "india",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1717,7 +1703,7 @@
         "country": "india",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -1731,7 +1717,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -1745,7 +1731,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1759,7 +1745,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1773,7 +1759,7 @@
         "country": "india",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1787,7 +1773,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2308, ...",
         "URI": [
@@ -1801,9 +1787,9 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
-        "mbps": "2212",
+        "mbps": "1845",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -1815,7 +1801,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1829,7 +1815,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -1843,7 +1829,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -1857,7 +1843,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -1871,7 +1857,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1885,23 +1871,9 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
-        "URI": [
-            "india_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "4489",
-        "channel": "APB, 印度APB",
-        "link": "http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.com",
-        "country": "india",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "724",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -1913,7 +1885,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -1927,9 +1899,9 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1008, ...",
+        "mbps": "1357",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -1939,9 +1911,9 @@
         "channel": "Anjan (720p)",
         "link": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1954,7 +1926,7 @@
         "link": "http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "89",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1454",
@@ -1969,7 +1941,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1677, ...",
         "URI": [
@@ -1983,7 +1955,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1996,8 +1968,8 @@
         "link": "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-07-08T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -2011,7 +1983,7 @@
         "country": "india",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2024,8 +1996,8 @@
         "link": "http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2039,9 +2011,9 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1490, ...",
+        "mbps": "209",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -2053,7 +2025,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2529",
         "URI": [
@@ -2067,7 +2039,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2529",
         "URI": [
@@ -2081,7 +2053,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -2093,8 +2065,8 @@
         "channel": "Channel Win (360p)",
         "link": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -2109,7 +2081,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -2123,7 +2095,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2137,7 +2109,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2151,7 +2123,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2165,7 +2137,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -2178,7 +2150,7 @@
         "link": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "100",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1662",
@@ -2193,7 +2165,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2207,7 +2179,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -2221,7 +2193,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -2235,7 +2207,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -2249,7 +2221,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -2263,7 +2235,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -2277,7 +2249,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -2291,7 +2263,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2305,7 +2277,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2319,7 +2291,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -2333,7 +2305,7 @@
         "country": "india",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -2345,9 +2317,9 @@
         "channel": "FASTWAY NEWS (720p)",
         "link": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2021-07-08T00:00:00Z",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "9556",
         "URI": [
@@ -2361,7 +2333,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -2375,7 +2347,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2389,7 +2361,7 @@
         "country": "india",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
@@ -2403,7 +2375,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
@@ -2417,7 +2389,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2431,7 +2403,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2445,7 +2417,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -2459,7 +2431,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2473,7 +2445,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -2487,7 +2459,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -2501,7 +2473,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2515,7 +2487,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -2529,7 +2501,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -2543,7 +2515,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "4257",
         "URI": [
@@ -2557,7 +2529,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "4257",
         "URI": [
@@ -2571,7 +2543,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2585,7 +2557,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2599,7 +2571,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2613,7 +2585,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1490, ...",
         "URI": [
@@ -2627,9 +2599,9 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
-        "mbps": "407, ...",
+        "mbps": "1490, ...",
         "URI": [
             "india_-_-_-_-_-_-"
         ]
@@ -2641,7 +2613,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
         "URI": [
@@ -2655,7 +2627,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2669,7 +2641,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2683,7 +2655,7 @@
         "country": "india",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2697,7 +2669,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2711,7 +2683,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -2725,7 +2697,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1299",
         "URI": [
@@ -2739,7 +2711,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -2753,7 +2725,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1299",
         "URI": [
@@ -2767,7 +2739,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -2781,7 +2753,7 @@
         "country": "india",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "275",
         "URI": [
@@ -2795,7 +2767,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1299",
         "URI": [
@@ -2809,7 +2781,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -2823,7 +2795,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "2529",
         "URI": [
@@ -2837,7 +2809,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -2851,7 +2823,7 @@
         "country": "india",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1677",
         "URI": [
@@ -2865,7 +2837,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2879,7 +2851,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2893,7 +2865,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2905,8 +2877,8 @@
         "channel": "News 18 Gujarati",
         "link": "https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?checkedby:iptvcat.com",
         "country": "india",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2021-07-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -2921,7 +2893,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2935,7 +2907,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2949,7 +2921,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2963,7 +2935,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2977,7 +2949,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2991,7 +2963,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3005,7 +2977,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3019,7 +2991,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -3033,7 +3005,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -3047,7 +3019,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -3061,7 +3033,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -3075,7 +3047,7 @@
         "country": "india",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3089,7 +3061,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -3104,7 +3076,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008, ...",
         "URI": [
@@ -3118,7 +3090,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "1008, ...",
         "URI": [
@@ -3132,7 +3104,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "sd",
         "mbps": "521",
         "URI": [
@@ -3146,7 +3118,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -3161,7 +3133,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -3176,7 +3148,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -3191,7 +3163,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3206,7 +3178,7 @@
         "country": "india",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3221,7 +3193,7 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-09T00:00:00Z",
+        "lastChecked": "2021-07-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
