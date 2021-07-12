@@ -6,11 +6,11 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     },
     {
@@ -20,11 +20,11 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     },
     {
@@ -34,11 +34,11 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     },
     {
@@ -48,11 +48,11 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     },
     {
@@ -62,11 +62,11 @@
         "country": "ireland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     },
     {
@@ -76,11 +76,11 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     },
     {
@@ -90,11 +90,11 @@
         "country": "ireland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     },
     {
@@ -104,11 +104,11 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-11T00:00:00Z",
+        "lastChecked": "2021-07-12T00:00:00Z",
         "format": "sd",
-        "mbps": "1688, ...",
+        "mbps": "1008",
         "URI": [
-            "ireland_"
+            "ireland_-"
         ]
     }
 ]
