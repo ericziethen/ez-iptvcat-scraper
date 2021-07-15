@@ -6,23 +6,9 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "1760",
-        "URI": [
-            "japan_-_-_"
-        ]
-    },
-    {
-        "id": "1336515",
-        "channel": "Animax",
-        "link": "https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
-        "country": "japan",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-07-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "1051",
         "URI": [
             "japan_-_-_"
         ]
@@ -32,9 +18,9 @@
         "channel": "Animax Japan (Indonesian Subs)",
         "link": "http://210.210.155.35/dr9445/h/h144/01.m3u8?checkedby:iptvcat.com",
         "country": "japan",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -48,7 +34,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -62,7 +48,7 @@
         "country": "japan",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -76,7 +62,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -90,7 +76,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -104,7 +90,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -118,7 +104,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -130,8 +116,8 @@
         "channel": "MX Live (Webcam)",
         "link": "https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:iptvcat.com",
         "country": "japan",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2021-07-14T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -146,9 +132,9 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
-        "mbps": "3799",
+        "mbps": "3795",
         "URI": [
             "japan_-_-_"
         ]
@@ -160,7 +146,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -174,9 +160,9 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "13311, ...",
         "URI": [
             "japan_-_-_"
         ]
@@ -188,12 +174,12 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
             "japan_-_-_",
-            "united_states_of_america"
+            "united_states_of_america_-_-_-_-_-_"
         ]
     },
     {
@@ -203,7 +189,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
         "URI": [
@@ -215,9 +201,9 @@
         "channel": "NTV News24",
         "link": "https://www.news24.jp/livestream/index.m3u8?checkedby:iptvcat.com",
         "country": "japan",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
         "URI": [
@@ -231,7 +217,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -245,7 +231,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -259,7 +245,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -273,7 +259,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -287,7 +273,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -301,7 +287,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -315,7 +301,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -329,7 +315,7 @@
         "country": "japan",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -343,7 +329,7 @@
         "country": "japan",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -357,7 +343,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -371,7 +357,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -385,7 +371,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -399,7 +385,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -413,7 +399,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "2244",
         "URI": [
@@ -427,7 +413,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "1073",
         "URI": [
@@ -441,7 +427,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "512",
         "URI": [
@@ -455,12 +441,12 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
             "japan_-_-_",
-            "united_states_of_america"
+            "united_states_of_america_-_-_-_-_-_"
         ]
     },
     {
@@ -470,12 +456,12 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-14T00:00:00Z",
+        "lastChecked": "2021-07-15T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
             "japan_-_-_",
-            "united_states_of_america"
+            "united_states_of_america_-_-_-_-_-_"
         ]
     }
 ]
