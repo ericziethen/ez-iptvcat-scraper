@@ -6,7 +6,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -35,7 +35,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -49,7 +49,7 @@
         "country": "china",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -62,8 +62,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -77,7 +77,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -91,7 +91,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -104,8 +104,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -119,7 +119,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -133,7 +133,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -145,9 +145,9 @@
         "channel": "CCTV-3FHD",
         "link": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -161,7 +161,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -175,7 +175,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -189,7 +189,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "lastChecked": "2021-07-18T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -203,7 +203,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -217,7 +217,7 @@
         "country": "china",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -231,7 +231,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -245,7 +245,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -259,9 +259,9 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "2334, ...",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -273,7 +273,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -287,7 +287,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -301,7 +301,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -315,7 +315,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -329,7 +329,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -343,7 +343,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -357,7 +357,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -371,7 +371,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -385,10 +385,10 @@
         "link": "http://stream.smntv.cn/smtv1/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -400,7 +400,7 @@
         "country": "china",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -414,7 +414,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -428,7 +428,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -442,7 +442,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -456,7 +456,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -470,7 +470,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -482,9 +482,9 @@
         "channel": "东至影视频道",
         "link": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -498,9 +498,9 @@
         "country": "china",
         "liveliness": "94",
         "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "1783",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -511,8 +511,8 @@
         "link": "http://223.247.33.124:1935/live/zonghe/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -526,7 +526,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6730",
         "URI": [
@@ -539,7 +539,7 @@
         "link": "http://dslive.grtn.cn/zszh/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-18T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
@@ -554,7 +554,7 @@
         "country": "china",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -568,9 +568,9 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "2331",
+        "mbps": "2297",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -582,7 +582,7 @@
         "country": "china",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -596,7 +596,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "868",
         "URI": [
@@ -610,7 +610,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -624,7 +624,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -638,7 +638,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -652,7 +652,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -666,7 +666,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -680,7 +680,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -694,7 +694,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -708,7 +708,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -722,7 +722,7 @@
         "country": "china",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -736,7 +736,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -750,7 +750,7 @@
         "country": "china",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -764,7 +764,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -777,8 +777,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -791,8 +791,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv2hd.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -805,8 +805,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv7.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -820,7 +820,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -833,8 +833,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv8.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -848,7 +848,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -862,7 +862,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -876,7 +876,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -890,7 +890,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -904,7 +904,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -918,7 +918,7 @@
         "country": "china",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "708",
         "URI": [
@@ -931,8 +931,8 @@
         "link": "http://221.5.213.4:30000/2222.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "708",
         "URI": [
@@ -946,9 +946,9 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "5860",
+        "mbps": "1509",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -960,7 +960,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -973,8 +973,8 @@
         "link": "http://stream1.jlntv.cn/shpd/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "5860",
         "URI": [
@@ -988,7 +988,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "5860",
         "URI": [
@@ -1001,8 +1001,8 @@
         "link": "http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1016,7 +1016,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1030,7 +1030,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1044,7 +1044,7 @@
         "country": "china",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1058,7 +1058,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6730",
         "URI": [
@@ -1072,7 +1072,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1090",
         "URI": [
@@ -1086,7 +1086,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1100,7 +1100,7 @@
         "country": "china",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1113,8 +1113,8 @@
         "link": "http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1128,7 +1128,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1142,7 +1142,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1156,7 +1156,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1170,7 +1170,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1183,8 +1183,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/sdhd.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1198,7 +1198,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1212,7 +1212,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1226,7 +1226,7 @@
         "country": "china",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1240,7 +1240,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1254,7 +1254,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1268,7 +1268,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1282,7 +1282,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1296,7 +1296,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1310,7 +1310,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1324,7 +1324,7 @@
         "country": "china",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1338,7 +1338,7 @@
         "country": "china",
         "liveliness": "79",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1351,8 +1351,8 @@
         "link": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1662, ...",
         "URI": [
@@ -1364,9 +1364,9 @@
         "channel": "惠州新闻综合",
         "link": "http://dslive.grtn.cn/hzzh/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "liveliness": "95",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -1380,7 +1380,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2804",
         "URI": [
@@ -1394,7 +1394,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1763",
         "URI": [
@@ -1409,7 +1409,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1724",
         "URI": [
@@ -1423,7 +1423,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "449",
         "URI": [
@@ -1437,7 +1437,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2041",
         "URI": [
@@ -1451,9 +1451,9 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "2291",
+        "mbps": "2285",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -1465,7 +1465,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2804",
         "URI": [
@@ -1479,7 +1479,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -1493,7 +1493,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1764",
         "URI": [
@@ -1507,7 +1507,7 @@
         "country": "china",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1764",
         "URI": [
@@ -1521,7 +1521,7 @@
         "country": "china",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -1535,7 +1535,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1549,7 +1549,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1563,7 +1563,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1577,7 +1577,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1591,7 +1591,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1605,7 +1605,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -1617,9 +1617,9 @@
         "channel": "武进新闻频道",
         "link": "http://live.wjyanghu.com/live/CH1.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "liveliness": "97",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -1633,7 +1633,7 @@
         "country": "china",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -1647,7 +1647,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1661,7 +1661,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1675,7 +1675,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1689,7 +1689,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1703,7 +1703,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1717,7 +1717,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1731,7 +1731,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1745,7 +1745,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1758,8 +1758,8 @@
         "link": "http://117.169.120.140:8080/live/jiangxistv/.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1773,7 +1773,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1787,7 +1787,7 @@
         "country": "china",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1800,8 +1800,8 @@
         "link": "http://dslive.grtn.cn/hyzh/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -1815,7 +1815,7 @@
         "country": "china",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1829,7 +1829,7 @@
         "country": "china",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1328",
         "URI": [
@@ -1842,8 +1842,8 @@
         "link": "http://lives.jnnews.tv/video/s10001-JTV4/index.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1857,7 +1857,7 @@
         "country": "china",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1869,9 +1869,9 @@
         "channel": "海盐新闻频道",
         "link": "http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "liveliness": "98",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1662",
         "URI": [
@@ -1883,9 +1883,9 @@
         "channel": "深圳卫视HD",
         "link": "http://223.82.250.72/live/hdshenzhenstv/1.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1899,7 +1899,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1913,7 +1913,7 @@
         "country": "china",
         "liveliness": "83",
         "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "136",
         "URI": [
@@ -1925,9 +1925,9 @@
         "channel": "湖南都市",
         "link": "http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "liveliness": "94",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1941,7 +1941,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1954,7 +1954,7 @@
         "link": "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -1969,7 +1969,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1328",
         "URI": [
@@ -1983,7 +1983,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1328",
         "URI": [
@@ -1997,7 +1997,7 @@
         "country": "china",
         "liveliness": "95",
         "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1328",
         "URI": [
@@ -2010,8 +2010,8 @@
         "link": "http://sdbz.chinashadt.com:2036/live/1.stream/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2025,7 +2025,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2039,7 +2039,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2053,7 +2053,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2067,7 +2067,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2080,8 +2080,8 @@
         "link": "http://dslive.grtn.cn/czzh/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -2095,7 +2095,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2109,7 +2109,7 @@
         "country": "china",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2123,7 +2123,7 @@
         "country": "china",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1071",
         "URI": [
@@ -2137,7 +2137,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -2151,7 +2151,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -2164,8 +2164,8 @@
         "link": "http://stream.wifizs.cn/xwzh/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -2179,7 +2179,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -2193,7 +2193,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2207,7 +2207,7 @@
         "country": "china",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2221,7 +2221,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1967",
         "URI": [
@@ -2235,7 +2235,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2249,7 +2249,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2261,9 +2261,9 @@
         "channel": "西藏卫视",
         "link": "http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -2276,7 +2276,7 @@
         "link": "http://221.238.209.44:81/hls/live1.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11310",
@@ -2291,7 +2291,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2305,7 +2305,7 @@
         "country": "china",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2319,7 +2319,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2333,7 +2333,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2347,7 +2347,7 @@
         "country": "china",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2361,7 +2361,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2375,7 +2375,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2389,7 +2389,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1764",
         "URI": [
@@ -2403,7 +2403,7 @@
         "country": "china",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2417,7 +2417,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2431,7 +2431,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -2445,7 +2445,7 @@
         "country": "china",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2459,7 +2459,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -2473,7 +2473,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2487,7 +2487,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2501,7 +2501,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2515,7 +2515,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2529,7 +2529,7 @@
         "country": "china",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2543,7 +2543,7 @@
         "country": "china",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2557,7 +2557,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1764",
         "URI": [
@@ -2571,7 +2571,7 @@
         "country": "china",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2585,7 +2585,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2599,7 +2599,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "594",
         "URI": [
@@ -2613,7 +2613,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "594",
         "URI": [
@@ -2627,7 +2627,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2641,7 +2641,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -2656,7 +2656,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -2670,7 +2670,7 @@
         "country": "china",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2683,8 +2683,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2698,7 +2698,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2712,7 +2712,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2725,8 +2725,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2740,7 +2740,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2754,7 +2754,7 @@
         "country": "china",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2766,9 +2766,9 @@
         "channel": "CCTV-3FHD",
         "link": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2782,7 +2782,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2796,7 +2796,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2810,7 +2810,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "lastChecked": "2021-07-18T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2824,7 +2824,7 @@
         "country": "china",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2838,7 +2838,7 @@
         "country": "china",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2852,7 +2852,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2866,7 +2866,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2880,9 +2880,9 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "2334, ...",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -2894,7 +2894,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2908,7 +2908,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2922,7 +2922,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -2936,7 +2936,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2950,7 +2950,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2964,7 +2964,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2978,7 +2978,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -2992,7 +2992,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3006,10 +3006,10 @@
         "link": "http://stream.smntv.cn/smtv1/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -3021,7 +3021,7 @@
         "country": "china",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3035,7 +3035,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -3049,7 +3049,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3063,7 +3063,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3077,7 +3077,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3091,7 +3091,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3103,9 +3103,9 @@
         "channel": "东至影视频道",
         "link": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3119,9 +3119,9 @@
         "country": "china",
         "liveliness": "94",
         "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "1783",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -3132,8 +3132,8 @@
         "link": "http://223.247.33.124:1935/live/zonghe/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3147,7 +3147,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6730",
         "URI": [
@@ -3160,7 +3160,7 @@
         "link": "http://dslive.grtn.cn/zszh/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-07-18T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
@@ -3175,7 +3175,7 @@
         "country": "china",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3189,9 +3189,9 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "2331",
+        "mbps": "2297",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -3203,7 +3203,7 @@
         "country": "china",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3217,7 +3217,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "868",
         "URI": [
@@ -3231,7 +3231,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3245,7 +3245,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3259,7 +3259,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3273,7 +3273,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3287,7 +3287,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3301,7 +3301,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -3315,7 +3315,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3329,7 +3329,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3343,7 +3343,7 @@
         "country": "china",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3357,7 +3357,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3371,7 +3371,7 @@
         "country": "china",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3385,7 +3385,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3398,8 +3398,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-07-17T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3412,8 +3412,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv2hd.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3426,8 +3426,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv7.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -3441,7 +3441,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -3454,8 +3454,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/btv8.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3469,7 +3469,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3483,7 +3483,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3497,7 +3497,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3511,7 +3511,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3525,7 +3525,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3539,7 +3539,7 @@
         "country": "china",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "708",
         "URI": [
@@ -3552,8 +3552,8 @@
         "link": "http://221.5.213.4:30000/2222.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "708",
         "URI": [
@@ -3567,9 +3567,9 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
-        "mbps": "5860",
+        "mbps": "1509",
         "URI": [
             "china_-_-_-_-_-_"
         ]
@@ -3581,7 +3581,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3594,8 +3594,8 @@
         "link": "http://stream1.jlntv.cn/shpd/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "5860",
         "URI": [
@@ -3609,7 +3609,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "5860",
         "URI": [
@@ -3622,8 +3622,8 @@
         "link": "http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3637,7 +3637,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3651,7 +3651,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3665,7 +3665,7 @@
         "country": "china",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3679,7 +3679,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6730",
         "URI": [
@@ -3693,7 +3693,7 @@
         "country": "china",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1090",
         "URI": [
@@ -3707,7 +3707,7 @@
         "country": "china",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3721,7 +3721,7 @@
         "country": "china",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3734,8 +3734,8 @@
         "link": "http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3749,7 +3749,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3763,7 +3763,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3777,7 +3777,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3791,7 +3791,7 @@
         "country": "china",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3804,8 +3804,8 @@
         "link": "http://ivi.bupt.edu.cn/hls/sdhd.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3819,7 +3819,7 @@
         "country": "china",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3833,7 +3833,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3847,7 +3847,7 @@
         "country": "china",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3861,7 +3861,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3875,7 +3875,7 @@
         "country": "china",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3889,7 +3889,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3903,7 +3903,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3917,7 +3917,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3931,7 +3931,7 @@
         "country": "china",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3945,7 +3945,7 @@
         "country": "china",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3959,7 +3959,7 @@
         "country": "china",
         "liveliness": "79",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3972,8 +3972,8 @@
         "link": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?checkedby:iptvcat.com",
         "country": "china",
         "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1662, ...",
         "URI": [
@@ -3985,9 +3985,9 @@
         "channel": "惠州新闻综合",
         "link": "http://dslive.grtn.cn/hzzh/sd/live.m3u8?checkedby:iptvcat.com",
         "country": "china",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "liveliness": "95",
+        "status": "offline",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
         "URI": [
@@ -4001,7 +4001,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2804",
         "URI": [
@@ -4015,7 +4015,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1763",
         "URI": [
@@ -4030,7 +4030,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4045,7 +4045,7 @@
         "country": "china",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "1763",
         "URI": [
@@ -4060,7 +4060,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
@@ -4075,7 +4075,7 @@
         "country": "china",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-18T00:00:00Z",
+        "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "724",
         "URI": [
