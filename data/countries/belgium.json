@@ -6,11 +6,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -20,11 +20,11 @@
         "country": "belgium",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -34,11 +34,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -48,11 +48,11 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
+        "lastChecked": "2021-07-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "1601",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -62,11 +62,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -76,11 +76,11 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "offline",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "2883, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -90,11 +90,11 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -102,13 +102,13 @@
         "channel": "Eén",
         "link": "https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com",
         "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2021-07-19T00:00:00Z",
         "format": "sd",
         "mbps": "2883, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -116,13 +116,13 @@
         "channel": "Ketnet",
         "link": "https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com",
         "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "liveliness": "99",
+        "status": "offline",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "2883, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -132,11 +132,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -146,11 +146,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -160,11 +160,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -174,11 +174,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -188,11 +188,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -202,11 +202,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -216,11 +216,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -230,11 +230,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -244,11 +244,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -258,11 +258,11 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -272,11 +272,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -286,11 +286,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "belgium_-_-_-_-_",
+            "belgium_-_-_-_-_-",
             "france_-_-_-_-_-"
         ]
     },
@@ -301,11 +301,11 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -315,11 +315,11 @@
         "country": "belgium",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -329,11 +329,11 @@
         "country": "belgium",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -343,11 +343,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "belgium_-_-_-_-_"
+            "belgium_-_-_-_-_-"
         ]
     },
     {
@@ -357,11 +357,11 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-19T00:00:00Z",
+        "lastChecked": "2021-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "belgium_-_-_-_-_",
+            "belgium_-_-_-_-_-",
             "france_-_-_-_-_-"
         ]
     }
