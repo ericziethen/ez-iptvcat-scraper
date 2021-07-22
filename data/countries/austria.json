@@ -4,53 +4,11 @@
         "channel": "3+ FHD",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195366?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
+        "liveliness": "84",
         "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491439",
-        "channel": "ATV 1 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195367?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491443",
-        "channel": "ATV 2",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192594?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491441",
-        "channel": "ATV FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192593?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -62,7 +20,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -76,7 +34,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -90,7 +48,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -104,7 +62,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -118,26 +76,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-",
             "germany"
-        ]
-    },
-    {
-        "id": "1491464",
-        "channel": "Kabel 1 Doku",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192589?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-"
         ]
     },
     {
@@ -147,7 +91,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -161,7 +105,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -175,23 +119,9 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491466",
-        "channel": "N24 Doku",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192602?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -201,67 +131,11 @@
         "channel": "Nickelodeon",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195382?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491462",
-        "channel": "OE24.TV FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195383?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "76",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491431",
-        "channel": "ORF 1 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192595?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491432",
-        "channel": "ORF 1 HD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195384?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491433",
-        "channel": "ORF 2 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192596?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -271,51 +145,9 @@
         "channel": "ORF 3",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195386?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "85",
+        "liveliness": "84",
         "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491434",
-        "channel": "ORF 3 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192597?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491436",
-        "channel": "ORF 3 HD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195387?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491471",
-        "channel": "ORF Sport FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192598?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -327,9 +159,9 @@
         "channel": "ORF Sport+",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195388?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "84",
+        "liveliness": "82",
         "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -341,9 +173,9 @@
         "channel": "ORF Sport+ HD",
         "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195389?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -357,51 +189,9 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491457",
-        "channel": "Puls 24 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192592?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491458",
-        "channel": "Puls 4",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192599?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491455",
-        "channel": "Puls 4 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192588?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -413,51 +203,9 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491446",
-        "channel": "RTL 1 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192582?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491448",
-        "channel": "RTL 2 FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192583?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491452",
-        "channel": "RTLPlus",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195379?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -469,23 +217,9 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491460",
-        "channel": "Schau TV",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192600?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -497,37 +231,9 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491476",
-        "channel": "Sport1+ FHD",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/192601?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1491450",
-        "channel": "Super RTL",
-        "link": "http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/195395?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-07-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -539,7 +245,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -553,7 +259,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -567,7 +273,7 @@
         "country": "austria",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -581,7 +287,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -595,7 +301,7 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -609,7 +315,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -624,7 +330,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-07-21T00:00:00Z",
+        "lastChecked": "2021-07-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
