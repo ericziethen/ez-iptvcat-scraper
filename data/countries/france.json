@@ -6,11 +6,11 @@
         "country": "france",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -20,11 +20,11 @@
         "country": "france",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -34,11 +34,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -48,11 +48,11 @@
         "country": "france",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -60,13 +60,13 @@
         "channel": "BEIN SPORT 1",
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/79044?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "92",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -76,11 +76,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -88,13 +88,13 @@
         "channel": "BEIN SPORT 1 HD",
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/78393?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -103,12 +103,12 @@
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/79043?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -118,11 +118,25 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1569555",
+        "channel": "BEIN SPORT 3",
+        "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/78723?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-08-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -131,26 +145,12 @@
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/79042?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "france_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1569555",
-        "channel": "BEIN SPORT 3",
-        "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/78723?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -158,13 +158,13 @@
         "channel": "BEIN SPORT MAX 10 HD",
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/78384?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -174,11 +174,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -186,13 +186,13 @@
         "channel": "BEIN SPORT MAX 6 HD",
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/78388?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "92",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -202,11 +202,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -214,13 +214,13 @@
         "channel": "BEIN SPORT MAX 8 HD",
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/78386?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "82",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-07-31T00:00:00Z",
+        "lastChecked": "2021-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -229,12 +229,12 @@
         "link": "http://ip.mooniptv.cz:80/1564996702/4897034110/78385?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -242,13 +242,13 @@
         "channel": "BEIN SPORTS 1",
         "link": "http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/36071?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "50",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2021-07-31T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -256,13 +256,13 @@
         "channel": "BEIN SPORTS 2",
         "link": "http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/36072?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "50",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2021-07-31T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -270,13 +270,13 @@
         "channel": "BEIN SPORTS 3",
         "link": "http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/36073?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "50",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2021-07-31T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -286,11 +286,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -300,11 +300,11 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -314,11 +314,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -328,11 +328,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -342,11 +342,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1680",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -356,11 +356,11 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1680",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -369,12 +369,12 @@
         "link": "https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -384,11 +384,11 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -398,11 +398,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -412,11 +412,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -425,12 +425,12 @@
         "link": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-07-31T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -440,53 +440,11 @@
         "country": "france",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
-            "france_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "685",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "686",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "france_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "684",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -496,11 +454,11 @@
         "country": "france",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -510,11 +468,53 @@
         "country": "france",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "685",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "684",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "686",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -524,11 +524,11 @@
         "country": "france",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "678",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -538,11 +538,11 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -552,11 +552,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -566,25 +566,11 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "france_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "699",
-        "channel": "France 24 Arabic",
-        "link": "http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -594,39 +580,25 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "51824",
-        "channel": "France 24 English",
-        "link": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8?checkedby:iptvcat.com",
+        "id": "699",
+        "channel": "France 24 Arabic",
+        "link": "http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "france_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "700",
-        "channel": "France 24 English",
-        "link": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -636,11 +608,39 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "700",
+        "channel": "France 24 English",
+        "link": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "france_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "51824",
+        "channel": "France 24 English",
+        "link": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -650,11 +650,11 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -664,11 +664,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -678,11 +678,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7986, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -692,11 +692,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -706,11 +706,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -720,11 +720,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -734,11 +734,11 @@
         "country": "france",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -748,11 +748,11 @@
         "country": "france",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -762,11 +762,11 @@
         "country": "france",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -774,13 +774,13 @@
         "channel": "Monaco Info",
         "link": "https://webtvmonacoinfo.mc/live/prod_720/index.m3u8?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "offline",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -790,11 +790,11 @@
         "country": "france",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "1049",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -804,11 +804,11 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -818,11 +818,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -832,11 +832,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -846,11 +846,11 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "13311, ...",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -860,11 +860,11 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -874,25 +874,11 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "france_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "729",
-        "channel": "TV5Monde Info",
-        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -902,11 +888,25 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "729",
+        "channel": "TV5Monde Info",
+        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-08-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -916,11 +916,11 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -930,11 +930,11 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -944,11 +944,11 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -958,11 +958,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     },
     {
@@ -972,11 +972,11 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-01T00:00:00Z",
+        "lastChecked": "2021-08-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "france_-_-_-_-_-_"
+            "france_-_-_-_-_-_-"
         ]
     }
 ]
