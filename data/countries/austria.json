@@ -14,13 +14,69 @@
         ]
     },
     {
+        "id": "1597298",
+        "channel": "ATV",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/339228?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597106",
+        "channel": "ATV  HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43625?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597112",
+        "channel": "ATV 2 HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43626?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597299",
+        "channel": "ATV 2 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/29994?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
         "id": "1544374",
         "channel": "ATV HD",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjLy3jWL01vZEzMUApy6N3AOevB9qA6OkN12kCUYtG8rr/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -28,15 +84,29 @@
         ]
     },
     {
-        "id": "1544375",
-        "channel": "ATV2",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjEWtfrXNTyejBQ9kjFEmDLmhj0xLEO41vLPW8WEdvhCA/ts?checkedby:iptvcat.com",
+        "id": "1597296",
+        "channel": "ATV HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/29993?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597151",
+        "channel": "Baden TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43630?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -46,9 +116,9 @@
         "channel": "COMEDY CENTRAL/VIVA",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjPm2W0eLu6CkM00-gbBU2cA5u_c4dAVRyEoMsC4220Gt/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -60,11 +130,25 @@
         "channel": "DMAX",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjNU1LY1EvdTP4ZOUYbPdyhTHK-Ne3XSI2kQrYk2I7bS5/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
+        "liveliness": "86",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597230",
+        "channel": "Dmax HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43645?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -76,7 +160,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -90,7 +174,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -102,9 +186,9 @@
         "channel": "Folx TV",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjHIenHc8gH5J4e4kIRj732Cr_hyXT90e-McsrM8-v6Ye/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
+        "liveliness": "86",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -116,9 +200,9 @@
         "channel": "GoTV Neu",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjK7VliJEro4SQ21ilvBX0XE127cdx8H8DPqyo2uQmTh7/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -132,7 +216,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -144,9 +228,9 @@
         "channel": "K-TV",
         "link": "http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -160,26 +244,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-",
-            "germany_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1544459",
-        "channel": "KABEL EINS",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjIXuYXWXGFcmqgmezpHlpOFREOnBxRYGxA6bq7zRmi_A/ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "austria_-_-_-_-"
+            "germany"
         ]
     },
     {
@@ -187,11 +257,53 @@
         "channel": "KABEL EINS DOKU",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjBC2IzA8smNSaelUgwbQRxJxS7ihIC7G4eLVLYPsdjRu/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597164",
+        "channel": "Kabel Eins Docu HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43635?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597223",
+        "channel": "Kabel Eins TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43643?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597235",
+        "channel": "Krone Hit TV HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43647?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -203,7 +315,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -217,7 +329,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -231,7 +343,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -243,9 +355,9 @@
         "channel": "L-TV",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjFPS-I-6mBiHKpD-QPVwxOF2xfI_UKllQ6VqxdKUMd-r/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -257,9 +369,9 @@
         "channel": "LT1-OOE",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjBd8ACn3AxFyhEQ7M_GbN5qV9xQNmAwXZeLHMR_v0vJb/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -281,15 +393,15 @@
         ]
     },
     {
-        "id": "1544193",
-        "channel": "N24 DOKU Austria",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjFFHDpdmUUSYAfVwe-hgLGlzX4N2ql55_RQS3wqbj_-9/ts?checkedby:iptvcat.com",
+        "id": "1597172",
+        "channel": "N24 Doku TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43636?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -299,9 +411,9 @@
         "channel": "NICKELODEON",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjGmzXURbdlRZzoAEIixCxyebvqrxM3huIfjZLCLSaHtp/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -309,29 +421,99 @@
         ]
     },
     {
-        "id": "1544509",
-        "channel": "NITRO",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjNl6Pi-CE6Vf1ZUR1XyOfgxytBYw-on9twYkkn8EsRGo/ts?checkedby:iptvcat.com",
+        "id": "1597239",
+        "channel": "Nickelodeon HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43648?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
         "URI": [
             "austria_-_-_-_-"
         ]
     },
     {
-        "id": "1544358",
+        "id": "1597318",
+        "channel": "OE24 TV HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/253897?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597269",
+        "channel": "ORF 1",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/339225?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597065",
         "channel": "ORF 1 HD",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjONDzuC8V_Z3gqr75llQq-3iawv2Ye_H8tTmKkNEB8nZ/ts?checkedby:iptvcat.com",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43617?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597265",
+        "channel": "ORF 1 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/29995?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597271",
+        "channel": "ORF 2 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/29996?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597091",
+        "channel": "ORF 2 Steirmark",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43622?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -341,11 +523,67 @@
         "channel": "ORF 2 WIEN",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjDZ4yNai3N0-sxg0KELe292qoUgYmmBxyKwTu8dJOlCu/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597282",
+        "channel": "ORF 2O",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/344940?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597288",
+        "channel": "ORF 3",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/339221?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597068",
+        "channel": "ORF 3 HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43619?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597285",
+        "channel": "ORF 3 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/129284?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -355,9 +593,9 @@
         "channel": "ORF I",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjDwIat0D95PI07-qklTWGOi_DDIrccQd_6m0vd0Udifp/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "87",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -369,9 +607,9 @@
         "channel": "ORF II",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjBIFdPTntO-SzDWTokPbBaZyo60i68apRuK3Ghisnj5j/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -383,23 +621,9 @@
         "channel": "ORF II HD",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjHMi7Qyg9Vt9wQcuUH37pBxEpNYDAJaw6KPJoSRwlYaD/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1544369",
-        "channel": "ORF III",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjPAJ0OsCjdtrPhQT9f8yfM0bGY_l9JNlqVMX3pxw_Gol/ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -421,29 +645,99 @@
         ]
     },
     {
-        "id": "1544350",
-        "channel": "ORF SPORT+",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjIGv62sR2BnImx-MCzPUZj0yNHHgnjrHzgcI-LBHtPqn/ts?checkedby:iptvcat.com",
+        "id": "1597333",
+        "channel": "ORF SPORT+ HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/260865?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-"
         ]
     },
     {
-        "id": "1544352",
-        "channel": "ORF SPORT+ HD",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjO2VUXW_j7h35tYYs2aBnwmpdNVsWo3JstqvseJG5rSE/ts?checkedby:iptvcat.com",
+        "id": "1597340",
+        "channel": "ORF SPORTS FHD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/260866?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597104",
+        "channel": "ORF Sport Plus HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43624?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597098",
+        "channel": "ORF2 Karnten",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43623?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597081",
+        "channel": "ORF2 Salzburg",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43621?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597076",
+        "channel": "ORF2 Wien",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43620?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597154",
+        "channel": "Oe24 TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43631?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -455,23 +749,9 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1544490",
-        "channel": "PRO 7 MAXX",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjO1dxsrqId9fWpdP0D2eC4cFlN3Wqru2a2xVoNx8AIUz/ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -481,11 +761,25 @@
         "channel": "PROSIEBEN",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjJFZVREs9kw0E3TEkzp1UZ34-PN6S6RyclhDPNHG5pAf/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597315",
+        "channel": "PULS 24 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/210687?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -505,15 +799,57 @@
         ]
     },
     {
-        "id": "1544377",
-        "channel": "R9 HD",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjGEwAhBu3rQOMQiWFdeCusDLorns2VHRvil5dS6eqNXA/ts?checkedby:iptvcat.com",
+        "id": "1597329",
+        "channel": "PULS 4 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/123006?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "81",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597159",
+        "channel": "Pro 7 Maxx HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43634?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597157",
+        "channel": "Pro Sieben Austria HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43633?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597118",
+        "channel": "Puls 4 HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43628?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -525,9 +861,37 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597155",
+        "channel": "R9 TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43632?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597331",
+        "channel": "R9 ÖSTERREICH HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/295541?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -537,9 +901,9 @@
         "channel": "RTL",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjAYDDgjJix7VtWGUGkzwXBZpeQoJAkjhEhOtZqu8fnzv/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -547,15 +911,29 @@
         ]
     },
     {
-        "id": "1544495",
-        "channel": "RTL 2",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjLoAkJiCDQCmSGn3MpG8xIOcE89pq0Zw5npjsiaSukw5/ts?checkedby:iptvcat.com",
+        "id": "1597201",
+        "channel": "RTL 1 HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43638?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597203",
+        "channel": "RTL 2 HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43639?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -565,11 +943,25 @@
         "channel": "RTL PLUS",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjBmRTYZYmbIxnjPt3jI4jNp-VxyqjjJ-zwUTMmdOHRzU/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
+        "liveliness": "86",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597212",
+        "channel": "RTL Plus HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43640?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -581,7 +973,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -593,9 +985,9 @@
         "channel": "RiC",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjPMbk2ae-elsbWmy3yOWtZ6sq0tt-2Tuw_RF_eq7_Onx/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -607,9 +999,9 @@
         "channel": "SAT 1",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjAD5AoOgNdcQ7NlZ07PzAjxlwrZlWFZ9SGpDd-WvuaEM/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -621,9 +1013,9 @@
         "channel": "SAT 1 GOLD",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjEGuuA3qufUERiXNu5NuUDDoBSV35dbTjx3sIsz81vlV/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -635,9 +1027,9 @@
         "channel": "SCHAU TV HD",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjO4_xoV1CRrW2jJU5B1mRzxEtQDVTP_h5E3-r7b1sqLx/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "85",
+        "liveliness": "83",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -645,15 +1037,29 @@
         ]
     },
     {
-        "id": "1544479",
-        "channel": "SIXX AUSTRIA",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjJhUjETavrSz_JWynStqY_f-u_ahiW14MsEkERUMMbsW/ts?checkedby:iptvcat.com",
+        "id": "1597308",
+        "channel": "SERVUS TV HD ÖSTERREICH",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/260868?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597305",
+        "channel": "SIXX AUSTRIA",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/210689?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -673,6 +1079,20 @@
         ]
     },
     {
+        "id": "1597348",
+        "channel": "SKY SPORT AUSTRIA 1 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/212526?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
         "id": "1544256",
         "channel": "SKY SPORT AUSTRIA 2",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjJQgHi0KI929Itpf-vwsqzc6yf_hVj2vPBUCPglNc48X/ts?checkedby:iptvcat.com",
@@ -687,43 +1107,29 @@
         ]
     },
     {
-        "id": "1544234",
-        "channel": "SKY SPORT AUSTRIA 2 FHD",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjPdZpz4YvO0Jd64daSDGhYzyK83AhhwWq1NdvqOfXnb2/ts?checkedby:iptvcat.com",
+        "id": "1597349",
+        "channel": "SKY SPORT AUSTRIA 2 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/212527?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-"
         ]
     },
     {
-        "id": "1544298",
-        "channel": "SKY SPORT AUSTRIA 3",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjPGdACKvU2V92nPL142JSdxZt6Z0HCP0i9RfzW2kPheU/ts?checkedby:iptvcat.com",
+        "id": "1597353",
+        "channel": "SKY SPORT AUSTRIA 3 HD",
+        "link": "http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/212528?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1544276",
-        "channel": "SKY SPORT AUSTRIA 3 FHD",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjGQK_xiBIs3jZORWMXqKYs9zpZxi0y__o3Epj4CsBxIy/ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -743,15 +1149,29 @@
         ]
     },
     {
-        "id": "1544528",
-        "channel": "SUPER RTL",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjEvdwGQ3omiO-5Wkteasq3z2XK0qYBR9skP0wweYxwI3/ts?checkedby:iptvcat.com",
+        "id": "1597220",
+        "channel": "Sat 1 Gold TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43642?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597218",
+        "channel": "Sat 1 TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43641?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -763,9 +1183,51 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597116",
+        "channel": "Servus TV",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43627?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597234",
+        "channel": "Sixx HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43646?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597244",
+        "channel": "Sky Sport Austria 1  HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43649?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -775,23 +1237,9 @@
         "channel": "TLC",
         "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjOP9-T9fPLruCkyL-wqj1z0jgUPi7_sOGf6Af-Pe6XYT/ts?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "87",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1544548",
-        "channel": "TV1 OOE",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjLKDQQW_BqxZI0uxkHMA630WRtHqLgGgyGXQA3SPXZ2n/ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -805,7 +1253,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -819,7 +1267,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -833,7 +1281,7 @@
         "country": "austria",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -847,9 +1295,23 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
+        "URI": [
+            "austria_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1597228",
+        "channel": "Vox HD",
+        "link": "http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43644?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -861,23 +1323,9 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1544406",
-        "channel": "oe24 TV HD",
-        "link": "http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjBiDHHJbL3VrdgtEBGH_uwe1KqXTTF9mRq7_W7i0zI0X/ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-08-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
         "URI": [
             "austria_-_-_-_-"
         ]
@@ -889,12 +1337,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-",
-            "germany_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     },
     {
@@ -904,12 +1352,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-12T00:00:00Z",
+        "lastChecked": "2021-08-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-",
-            "germany_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     }
 ]
