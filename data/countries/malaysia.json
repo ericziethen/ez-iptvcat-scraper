@@ -6,7 +6,7 @@
         "country": "malaysia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3064",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -62,9 +62,9 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "lastChecked": "2021-08-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -76,7 +76,7 @@
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "2806",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -160,7 +160,7 @@
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -201,8 +201,8 @@
         "link": "http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8?checkedby:iptvcat.com",
         "country": "malaysia",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -216,7 +216,7 @@
         "country": "malaysia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "1765",
         "URI": [
@@ -230,7 +230,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -244,7 +244,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -258,7 +258,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "7986, ...",
         "URI": [
@@ -272,7 +272,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -286,7 +286,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "12145, ...",
         "URI": [
@@ -300,7 +300,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -314,7 +314,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -328,7 +328,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -342,7 +342,7 @@
         "country": "malaysia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -356,7 +356,7 @@
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -369,7 +369,7 @@
         "link": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "malaysia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-08-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
@@ -384,7 +384,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -396,9 +396,9 @@
         "channel": "Olympics 2020 1",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267234?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "75",
+        "liveliness": "69",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -410,9 +410,9 @@
         "channel": "Olympics 2020 2",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267235?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "73",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -424,9 +424,9 @@
         "channel": "Olympics 2020 3",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267236?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "73",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -438,9 +438,9 @@
         "channel": "Olympics 2020 4",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267237?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "67",
+        "liveliness": "62",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -452,9 +452,9 @@
         "channel": "Olympics 2020 5",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267238?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "67",
+        "liveliness": "62",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -466,9 +466,9 @@
         "channel": "Olympics 2020 6",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267239?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "67",
+        "liveliness": "62",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -480,9 +480,9 @@
         "channel": "Olympics 2020 7",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267240?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "67",
+        "liveliness": "62",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -494,9 +494,9 @@
         "channel": "Olympics 2020 8",
         "link": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/267241?checkedby:iptvcat.com",
         "country": "malaysia",
-        "liveliness": "67",
+        "liveliness": "62",
         "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -510,7 +510,7 @@
         "country": "malaysia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -524,7 +524,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -538,7 +538,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
@@ -552,7 +552,7 @@
         "country": "malaysia",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -567,7 +567,7 @@
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986, ...",
         "URI": [
@@ -581,7 +581,7 @@
         "country": "malaysia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -595,7 +595,7 @@
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -608,7 +608,7 @@
         "link": "http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:iptvcat.com",
         "country": "malaysia",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-08-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -622,8 +622,8 @@
         "link": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:iptvcat.com",
         "country": "malaysia",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -637,7 +637,7 @@
         "country": "malaysia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -651,7 +651,7 @@
         "country": "malaysia",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "sd",
         "mbps": "11989",
         "URI": [
@@ -665,7 +665,7 @@
         "country": "malaysia",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-08-21T00:00:00Z",
+        "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
