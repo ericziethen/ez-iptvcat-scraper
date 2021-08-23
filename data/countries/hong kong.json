@@ -6,7 +6,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-22T00:00:00Z",
+        "lastChecked": "2021-08-23T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-22T00:00:00Z",
+        "lastChecked": "2021-08-23T00:00:00Z",
         "format": "sd",
         "mbps": "2293",
         "URI": [
@@ -34,9 +34,9 @@
         "country": "hong kong",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-08-22T00:00:00Z",
+        "lastChecked": "2021-08-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2293, ...",
+        "mbps": "1357, ...",
         "URI": [
             "hong_kong_-_-_-_"
         ]
@@ -48,7 +48,7 @@
         "country": "hong kong",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-08-22T00:00:00Z",
+        "lastChecked": "2021-08-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -61,7 +61,7 @@
         "link": "http://61.238.6.49:8000/bysid/1?checkedby:iptvcat.com",
         "country": "hong kong",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -75,7 +75,7 @@
         "link": "http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com",
         "country": "hong kong",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-08-22T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
@@ -90,7 +90,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-22T00:00:00Z",
+        "lastChecked": "2021-08-23T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
