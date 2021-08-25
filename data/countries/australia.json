@@ -1,12 +1,180 @@
 [
     {
+        "id": "1652884",
+        "channel": "10 Bold HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81782?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652885",
+        "channel": "10 Peach Sydney HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144803?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652887",
+        "channel": "10 Sydney HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81796?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652858",
+        "channel": "7 Flix HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144773?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652859",
+        "channel": "7 Mate HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144774?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652860",
+        "channel": "7 Two HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144760?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652861",
+        "channel": "9 GEM Adelaide HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/266900?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652866",
+        "channel": "9 GEM HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81783?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652878",
+        "channel": "9 GO TV HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81798?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652876",
+        "channel": "9 Go Sydney HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144797?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652880",
+        "channel": "9 Life HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81807?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652882",
+        "channel": "9 Rush Brisbane HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/182411?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
         "id": "693516",
         "channel": "ABC AU",
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "australia",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -20,9 +188,23 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652893",
+        "channel": "ABC Kids NT HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/152369?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -33,10 +215,66 @@
         "link": "https://c.mjh.nz/101002210224/?checkedby:iptvcat.com",
         "country": "australia",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652898",
+        "channel": "ABC Me HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/186985?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652901",
+        "channel": "ABC News HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146815?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652902",
+        "channel": "ABC TV HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/173559?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652903",
+        "channel": "ATV FHD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/82935?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -48,7 +286,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -62,9 +300,37 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652904",
+        "channel": "Australia Channel HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144789?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652905",
+        "channel": "Australian Christian Channel HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146818?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3260",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -76,7 +342,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -90,9 +356,51 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652909",
+        "channel": "Bloomberg TV Australia HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/266904?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652910",
+        "channel": "Channel Nine Sydney",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/266910?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652911",
+        "channel": "EXPO Channel HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/54325?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -104,7 +412,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -118,9 +426,37 @@
         "country": "australia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652923",
+        "channel": "FOX SPORTS News HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/76006?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652917",
+        "channel": "Fox News Channel HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144767?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -132,9 +468,79 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652927",
+        "channel": "God TV Australia HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/158656?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "6134",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652929",
+        "channel": "NITV HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81777?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652932",
+        "channel": "Outdoor Channel HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81799?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652936",
+        "channel": "Pac 12 Network HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/174964?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1601",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652939",
+        "channel": "Racing com HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144781?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -146,7 +552,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -160,9 +566,65 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "899",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652941",
+        "channel": "SBS Food HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/144778?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652942",
+        "channel": "SBS HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/173561?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652945",
+        "channel": "SBS Viceland HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146812?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652949",
+        "channel": "SBS World Movies HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/186984?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -174,7 +636,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -188,7 +650,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -202,9 +664,23 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652950",
+        "channel": "Sky News FHD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/81732?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
         "URI": [
             "australia_-_-_-_-"
         ]
@@ -216,7 +692,21 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1652964",
+        "channel": "TVSN HD",
+        "link": "http://iptvtree.net:8080/fawkes32/adaa5870d5c0/54329?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -230,7 +720,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-24T00:00:00Z",
+        "lastChecked": "2021-08-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
