@@ -6,7 +6,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-27T00:00:00Z",
+        "lastChecked": "2021-08-28T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -20,23 +20,9 @@
         "country": "hong kong",
         "liveliness": "98",
         "status": "offline",
-        "lastChecked": "2021-08-27T00:00:00Z",
+        "lastChecked": "2021-08-28T00:00:00Z",
         "format": "sd",
         "mbps": "2293",
-        "URI": [
-            "hong_kong_-_-_-_"
-        ]
-    },
-    {
-        "id": "52172",
-        "channel": "港台電視32",
-        "link": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?checkedby:iptvcat.com",
-        "country": "hong kong",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-08-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
         "URI": [
             "hong_kong_-_-_-_"
         ]
@@ -48,7 +34,7 @@
         "country": "hong kong",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-08-27T00:00:00Z",
+        "lastChecked": "2021-08-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +48,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-08-27T00:00:00Z",
+        "lastChecked": "2021-08-28T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -76,7 +62,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-08-27T00:00:00Z",
+        "lastChecked": "2021-08-28T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
