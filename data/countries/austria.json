@@ -4,9 +4,9 @@
         "channel": "ATV",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49688?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "74",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -18,9 +18,9 @@
         "channel": "ATV HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49689?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "45",
+        "liveliness": "42",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -32,9 +32,9 @@
         "channel": "COMEDY CENTRAL/VIVA",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49712?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -46,9 +46,9 @@
         "channel": "DMAX",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49710?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -88,9 +88,9 @@
         "channel": "Folx TV",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49697?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -102,9 +102,9 @@
         "channel": "HOPE Channel HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49716?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "74",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -132,12 +132,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "germany"
         ]
     },
     {
@@ -145,25 +145,11 @@
         "channel": "KABEL EINS",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49699?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963464",
-        "channel": "KABEL EINS DOKU",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49700?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "45",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -175,7 +161,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -189,7 +175,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -203,23 +189,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963506",
-        "channel": "NICKELODEON",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49713?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -229,9 +201,9 @@
         "channel": "NITRO",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49709?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -243,53 +215,11 @@
         "channel": "OOE",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49717?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963392",
-        "channel": "ORF 1 HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49685?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963398",
-        "channel": "ORF II HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49686?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963404",
-        "channel": "ORF III HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49687?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -299,9 +229,9 @@
         "channel": "ORF SPORT+",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49725?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "67",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2021-11-02T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -313,9 +243,9 @@
         "channel": "ORF SPORT+ HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49726?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -329,7 +259,7 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -341,9 +271,9 @@
         "channel": "PRO 7 MAXX",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49705?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -355,9 +285,9 @@
         "channel": "PROSIEBEN",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49704?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -369,25 +299,11 @@
         "channel": "PULS 4 AUSTRIA HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49718?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963433",
-        "channel": "R9 HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49692?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -399,7 +315,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -411,25 +327,11 @@
         "channel": "RTL",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49706?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963490",
-        "channel": "RTL PLUS",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49708?checkedby:iptvcat.com",
-        "country": "austria",
         "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2021-11-04T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -441,7 +343,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -453,9 +355,9 @@
         "channel": "SAT 1",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49701?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -467,9 +369,9 @@
         "channel": "SAT 1 GOLD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49702?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "11114",
         "URI": [
@@ -481,9 +383,9 @@
         "channel": "SCHAU TV HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49691?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "68",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -495,9 +397,9 @@
         "channel": "SERVUS TV  HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49693?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -509,9 +411,9 @@
         "channel": "SIXX AUSTRIA",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49703?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -523,39 +425,11 @@
         "channel": "SKY SPORT AUSTRIA 1 HD+",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49721?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "6997",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963548",
-        "channel": "SKY SPORT AUSTRIA 2 HD+",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49722?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963550",
-        "channel": "SKY SPORT AUSTRIA 3 HD+",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49723?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -565,25 +439,11 @@
         "channel": "SKY SPORT AUSTRIA 4 HD+",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49724?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963510",
-        "channel": "SUPER RTL",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49714?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -595,7 +455,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -607,39 +467,11 @@
         "channel": "TLC",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49720?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "74",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "11114",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963500",
-        "channel": "TV",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49711?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963536",
-        "channel": "TV1 OOE",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49719?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -651,7 +483,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -665,7 +497,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -679,23 +511,9 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963457",
-        "channel": "VOX",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49698?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -707,23 +525,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963448",
-        "channel": "oe24 TV HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49694?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -733,9 +537,9 @@
         "channel": "ATV",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49688?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "74",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -747,9 +551,9 @@
         "channel": "ATV HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49689?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "45",
+        "liveliness": "42",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -761,9 +565,9 @@
         "channel": "COMEDY CENTRAL/VIVA",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49712?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -775,9 +579,9 @@
         "channel": "DMAX",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49710?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -791,7 +595,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -805,7 +609,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -817,9 +621,9 @@
         "channel": "Folx TV",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49697?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -831,9 +635,9 @@
         "channel": "HOPE Channel HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49716?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "74",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -847,7 +651,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -861,12 +665,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "germany"
         ]
     },
     {
@@ -874,25 +678,11 @@
         "channel": "KABEL EINS",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49699?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963464",
-        "channel": "KABEL EINS DOKU",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49700?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "45",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -904,7 +694,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -918,7 +708,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -932,23 +722,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963506",
-        "channel": "NICKELODEON",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49713?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -958,9 +734,9 @@
         "channel": "NITRO",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49709?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -972,53 +748,11 @@
         "channel": "OOE",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49717?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963392",
-        "channel": "ORF 1 HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49685?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963398",
-        "channel": "ORF II HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49686?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963404",
-        "channel": "ORF III HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49687?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1028,9 +762,9 @@
         "channel": "ORF SPORT+",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49725?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "67",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2021-11-02T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1042,9 +776,9 @@
         "channel": "ORF SPORT+ HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49726?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1058,7 +792,7 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1070,9 +804,9 @@
         "channel": "PRO 7 MAXX",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49705?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1084,9 +818,9 @@
         "channel": "PROSIEBEN",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49704?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1098,25 +832,11 @@
         "channel": "PULS 4 AUSTRIA HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49718?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963433",
-        "channel": "R9 HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49692?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1128,7 +848,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1140,25 +860,11 @@
         "channel": "RTL",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49706?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963490",
-        "channel": "RTL PLUS",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49708?checkedby:iptvcat.com",
-        "country": "austria",
         "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2021-11-04T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1170,7 +876,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -1182,9 +888,9 @@
         "channel": "SAT 1",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49701?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1196,9 +902,9 @@
         "channel": "SAT 1 GOLD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49702?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "11114",
         "URI": [
@@ -1210,9 +916,9 @@
         "channel": "SCHAU TV HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49691?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "68",
+        "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1224,9 +930,9 @@
         "channel": "SERVUS TV  HD",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49693?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1238,9 +944,9 @@
         "channel": "SIXX AUSTRIA",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49703?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1252,39 +958,11 @@
         "channel": "SKY SPORT AUSTRIA 1 HD+",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49721?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "6997",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963548",
-        "channel": "SKY SPORT AUSTRIA 2 HD+",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49722?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963550",
-        "channel": "SKY SPORT AUSTRIA 3 HD+",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49723?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1294,25 +972,11 @@
         "channel": "SKY SPORT AUSTRIA 4 HD+",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49724?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963510",
-        "channel": "SUPER RTL",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49714?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1324,7 +988,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1336,39 +1000,11 @@
         "channel": "TLC",
         "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49720?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "74",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "sd",
         "mbps": "11114",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963500",
-        "channel": "TV",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49711?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963536",
-        "channel": "TV1 OOE",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49719?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1380,7 +1016,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1394,7 +1030,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1408,23 +1044,9 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963457",
-        "channel": "VOX",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49698?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1436,23 +1058,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1963448",
-        "channel": "oe24 TV HD",
-        "link": "http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/49694?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_"
         ]
@@ -1464,12 +1072,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "germany"
         ]
     },
     {
@@ -1479,12 +1087,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-03T00:00:00Z",
+        "lastChecked": "2021-11-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "germany"
         ]
     }
 ]
