@@ -1,26 +1,12 @@
 [
     {
-        "id": "1030",
-        "channel": "新唐人亚太, 新唐人亚太臺",
-        "link": "https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "hong kong",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1763",
-        "URI": [
-            "hong_kong_-_-_-_"
-        ]
-    },
-    {
         "id": "1037",
         "channel": "澳视葡文",
         "link": "http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8?checkedby:iptvcat.com",
         "country": "hong kong",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
+        "lastChecked": "2021-11-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -34,7 +20,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
+        "lastChecked": "2021-11-06T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -48,23 +34,9 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
+        "lastChecked": "2021-11-06T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
-        "URI": [
-            "hong_kong_-_-_-_"
-        ]
-    },
-    {
-        "id": "1030",
-        "channel": "新唐人亚太, 新唐人亚太臺",
-        "link": "https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "hong kong",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1763",
         "URI": [
             "hong_kong_-_-_-_"
         ]
@@ -76,7 +48,7 @@
         "country": "hong kong",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
+        "lastChecked": "2021-11-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -90,7 +62,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
+        "lastChecked": "2021-11-06T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -104,7 +76,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-05T00:00:00Z",
+        "lastChecked": "2021-11-06T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
