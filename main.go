@@ -153,6 +153,7 @@ func processUrl(url string, domain string) {
 	c := colly.NewCollector(
 		colly.AllowedDomains(domain),
 		colly.URLFilters(urlFilters),
+		colly.Async(true),
 	)
 
 	c.OnResponse(func(r *colly.Response) {
