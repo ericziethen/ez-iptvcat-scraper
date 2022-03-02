@@ -9,6 +9,7 @@ import (
 	"net/http"
 	"os"
 	"regexp"
+	"strconv"
 	"strings"
 
 	app "iptvcat-scraper/pkg"
@@ -75,7 +76,7 @@ func getUrlFromFile(filepath string, origUrl string) (string, error) {
 	return origUrl, err
 }
 
-func checkNestedUrls() {
+func checkNestedUrls(skipOffline bool) {
 	fmt.Println("checkNestedUrls()")
 
 	converted_urls := map[string]string{}
@@ -84,6 +85,23 @@ func checkNestedUrls() {
 
 	for _, stream := range app.Streams.All {
 		url_lower := strings.ToLower(stream.Link)
+
+		// Check if need to skip offline, otherwise too many requests
+		if skipOffline && (strings.ToLower(stream.Status) == "offline") {
+			ignored++
+			fmt.Println(">>> SKIP OFFLINE: ", ignored)
+			continue
+		}
+
+		// Check for Minimum Liveliness, to avoid some extra scrapes
+		minLiveliness := 70
+		if streamLiveliness, err := strconv.Atoi(stream.Liveliness); err == nil {
+			if streamLiveliness < minLiveliness {
+				ignored++
+				fmt.Println(">>> SKIP LIVELINESS, min, found: ", minLiveliness, streamLiveliness)
+				continue
+			}
+		}
 
 		if strings.Contains(url_lower, "list.iptvcat.com") {
 			if _, ok := converted_urls[url_lower]; ok {
@@ -148,7 +166,7 @@ func writeToFile() {
 	}
 }
 
-func processUrl(url string, domain string) {
+func processUrl(url string, domain string, skipOffline bool) {
 	urlFilters := regexp.MustCompile(url + ".*")
 	c := colly.NewCollector(
 		colly.AllowedDomains(domain),
@@ -173,7 +191,7 @@ func processUrl(url string, domain string) {
 
 	c.Visit(url)
 	c.Wait()
-	checkNestedUrls()
+	checkNestedUrls(skipOffline)
 	writeToFile()
 }
 
@@ -183,11 +201,11 @@ func main() {
 	urlList := [...]string{
 		"https://iptvcat.com/australia",
 		"https://iptvcat.com/austria",
-		// "https://iptvcat.com/canada",
+		"https://iptvcat.com/canada",
 		"https://iptvcat.com/germany",
 		"https://iptvcat.com/switzerland",
-		// "https://iptvcat.com/united_kingdom",
-		// "https://iptvcat.com/united_states_of_america",
+		"https://iptvcat.com/united_kingdom",
+		"https://iptvcat.com/united_states_of_america",
 		// "https://iptvcat.com/china",
 		// "https://iptvcat.com/hong_kong",
 		// "https://iptvcat.com/india",
@@ -204,7 +222,7 @@ func main() {
 	}
 
 	for _, element := range urlList {
-		processUrl(element, iptvCatDomain)
+		processUrl(element, iptvCatDomain, true)
 	}
 
 }
