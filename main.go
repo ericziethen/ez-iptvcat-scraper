@@ -156,6 +156,10 @@ func processUrl(url string, domain string) {
 		colly.Async(true),
 	)
 
+	c.OnRequest(func(r *colly.Request) {
+		fmt.Println("Requested", r.URL)
+	})
+
 	c.OnResponse(func(r *colly.Response) {
 		fmt.Println("Visited", r.Request.URL)
 	})
