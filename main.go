@@ -181,12 +181,13 @@ func main() {
 
 	urlList := [...]string{
 		"https://iptvcat.com/australia",
-		"https://iptvcat.com/austria",
-		"https://iptvcat.com/canada",
-		"https://iptvcat.com/germany",
-		"https://iptvcat.com/switzerland",
-		"https://iptvcat.com/united_kingdom",
-		"https://iptvcat.com/united_states_of_america",
+		// "https://iptvcat.com/austria",
+		// "https://iptvcat.com/canada",
+		// "https://iptvcat.com/germany",
+		// "https://iptvcat.com/switzerland",
+		// "https://iptvcat.com/united_kingdom",
+		// "https://iptvcat.com/united_states_of_america",
+
 		// "https://iptvcat.com/china",
 		// "https://iptvcat.com/hong_kong",
 		// "https://iptvcat.com/india",
