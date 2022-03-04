@@ -6,7 +6,7 @@
         "country": "australia",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "australia",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "australia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -75,8 +75,8 @@
         "link": "https://list.iptvcat.com/my_list/s/fdf6f6b75b2efced0880439dca271c73.m3u8",
         "country": "australia",
         "liveliness": "82",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "australia",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "australia",
         "liveliness": "72",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "australia",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "australia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -160,9 +160,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3188, ...",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -174,7 +174,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -216,7 +216,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -228,9 +228,9 @@
         "channel": "DISCOVERY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/f44857f0b1a93a5aa113d56cb9c16d1b.m3u8",
         "country": "australia",
-        "liveliness": "31",
+        "liveliness": "28",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -244,7 +244,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -258,7 +258,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -270,9 +270,9 @@
         "channel": "FOX CRICKET",
         "link": "https://list.iptvcat.com/my_list/s/205876abe350895afc0b6e9cd76ef70b.m3u8",
         "country": "australia",
-        "liveliness": "92",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -284,9 +284,9 @@
         "channel": "FOX SPORTS 501",
         "link": "https://list.iptvcat.com/my_list/s/5bf26cb8d12b554df4e11e73b623a0ee.m3u8",
         "country": "australia",
-        "liveliness": "86",
+        "liveliness": "82",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -298,9 +298,9 @@
         "channel": "FOX SPORTS 506",
         "link": "https://list.iptvcat.com/my_list/s/8970ee840b1f78fe597e91cccf28d30c.m3u8",
         "country": "australia",
-        "liveliness": "87",
+        "liveliness": "83",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -313,8 +313,8 @@
         "link": "https://list.iptvcat.com/my_list/s/51e2f1cb2cfbcf6ec6c0ce5813895ed9.m3u8",
         "country": "australia",
         "liveliness": "45",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -327,8 +327,8 @@
         "link": "https://list.iptvcat.com/my_list/s/b48046317337e0041859b0a18581e021.m3u8",
         "country": "australia",
         "liveliness": "41",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -340,9 +340,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "https://list.iptvcat.com/my_list/s/4261ab09b74526d8100136ec6eb6299f.m3u8",
         "country": "australia",
-        "liveliness": "68",
-        "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "liveliness": "71",
+        "status": "online",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -354,9 +354,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "https://list.iptvcat.com/my_list/s/f28f3e908b90ea7f58bb7c2d5711f09c.m3u8",
         "country": "australia",
-        "liveliness": "75",
+        "liveliness": "79",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -368,9 +368,9 @@
         "channel": "Fox Sports 507 FHD",
         "link": "https://list.iptvcat.com/my_list/s/1547772d5f5b354b89451742f7bf8303.m3u8",
         "country": "australia",
-        "liveliness": "33",
+        "liveliness": "40",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -384,7 +384,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -398,7 +398,7 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -412,7 +412,7 @@
         "country": "australia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -426,7 +426,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -439,8 +439,8 @@
         "link": "https://list.iptvcat.com/my_list/s/998e44bc99cb5ef761108554010289bb.m3u8",
         "country": "australia",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -454,7 +454,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -466,11 +466,11 @@
         "channel": "Sky Thoroughbred Central (360p)",
         "link": "https://list.iptvcat.com/my_list/s/1eaecc313d4529ad52aa0d811e125be9.m3u8",
         "country": "australia",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853, ...",
+        "lastChecked": "2022-03-04T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -482,7 +482,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -496,7 +496,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -510,7 +510,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -524,7 +524,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -538,7 +538,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -552,7 +552,7 @@
         "country": "australia",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -566,7 +566,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -580,7 +580,7 @@
         "country": "australia",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -594,7 +594,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -608,7 +608,7 @@
         "country": "australia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -621,8 +621,8 @@
         "link": "https://list.iptvcat.com/my_list/s/fdf6f6b75b2efced0880439dca271c73.m3u8",
         "country": "australia",
         "liveliness": "82",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -636,7 +636,7 @@
         "country": "australia",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -650,7 +650,7 @@
         "country": "australia",
         "liveliness": "72",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -664,7 +664,7 @@
         "country": "australia",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -678,7 +678,7 @@
         "country": "australia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -692,7 +692,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -706,9 +706,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3188, ...",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -720,7 +720,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -734,7 +734,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -748,7 +748,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -762,7 +762,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -774,9 +774,9 @@
         "channel": "DISCOVERY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/f44857f0b1a93a5aa113d56cb9c16d1b.m3u8",
         "country": "australia",
-        "liveliness": "31",
+        "liveliness": "28",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -790,7 +790,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -804,7 +804,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -816,9 +816,9 @@
         "channel": "FOX CRICKET",
         "link": "https://list.iptvcat.com/my_list/s/205876abe350895afc0b6e9cd76ef70b.m3u8",
         "country": "australia",
-        "liveliness": "92",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -830,9 +830,9 @@
         "channel": "FOX SPORTS 501",
         "link": "https://list.iptvcat.com/my_list/s/5bf26cb8d12b554df4e11e73b623a0ee.m3u8",
         "country": "australia",
-        "liveliness": "86",
+        "liveliness": "82",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -844,9 +844,9 @@
         "channel": "FOX SPORTS 506",
         "link": "https://list.iptvcat.com/my_list/s/8970ee840b1f78fe597e91cccf28d30c.m3u8",
         "country": "australia",
-        "liveliness": "87",
+        "liveliness": "83",
         "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -859,8 +859,8 @@
         "link": "https://list.iptvcat.com/my_list/s/51e2f1cb2cfbcf6ec6c0ce5813895ed9.m3u8",
         "country": "australia",
         "liveliness": "45",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -873,8 +873,8 @@
         "link": "https://list.iptvcat.com/my_list/s/b48046317337e0041859b0a18581e021.m3u8",
         "country": "australia",
         "liveliness": "41",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -886,9 +886,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "https://list.iptvcat.com/my_list/s/4261ab09b74526d8100136ec6eb6299f.m3u8",
         "country": "australia",
-        "liveliness": "68",
-        "status": "offline",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "liveliness": "71",
+        "status": "online",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -900,9 +900,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "https://list.iptvcat.com/my_list/s/f28f3e908b90ea7f58bb7c2d5711f09c.m3u8",
         "country": "australia",
-        "liveliness": "75",
+        "liveliness": "79",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -914,9 +914,9 @@
         "channel": "Fox Sports 507 FHD",
         "link": "https://list.iptvcat.com/my_list/s/1547772d5f5b354b89451742f7bf8303.m3u8",
         "country": "australia",
-        "liveliness": "33",
+        "liveliness": "40",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -930,7 +930,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -944,7 +944,7 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -958,7 +958,7 @@
         "country": "australia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -972,7 +972,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -985,8 +985,8 @@
         "link": "https://list.iptvcat.com/my_list/s/998e44bc99cb5ef761108554010289bb.m3u8",
         "country": "australia",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -1000,7 +1000,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -1012,11 +1012,11 @@
         "channel": "Sky Thoroughbred Central (360p)",
         "link": "https://list.iptvcat.com/my_list/s/1eaecc313d4529ad52aa0d811e125be9.m3u8",
         "country": "australia",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853, ...",
+        "lastChecked": "2022-03-04T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -1028,7 +1028,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1042,7 +1042,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1056,7 +1056,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -1070,7 +1070,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -1084,7 +1084,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-03T00:00:00Z",
+        "lastChecked": "2022-03-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
