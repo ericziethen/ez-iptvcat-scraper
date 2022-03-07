@@ -94,7 +94,7 @@ func checkNestedUrls(skipOffline bool) {
 		}
 
 		// Check for Minimum Liveliness, to avoid some extra scrapes
-		minLiveliness := 70
+		minLiveliness := 80
 		if streamLiveliness, err := strconv.Atoi(stream.Liveliness); err == nil {
 			if streamLiveliness < minLiveliness {
 				ignored++
@@ -201,7 +201,7 @@ func main() {
 	urlList := [...]string{
 		"https://iptvcat.com/australia",
 		"https://iptvcat.com/austria",
-		"https://iptvcat.com/canada",
+		// "https://iptvcat.com/canada",
 		"https://iptvcat.com/germany",
 		"https://iptvcat.com/switzerland",
 		"https://iptvcat.com/united_kingdom",
