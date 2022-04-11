@@ -6,7 +6,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -18,9 +18,9 @@
         "channel": "10 Peach Sydney HD",
         "link": "https://list.iptvcat.com/my_list/s/60a9e6be5b8bf508e275f422a9c8abdf.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1696",
         "URI": [
@@ -46,11 +46,11 @@
         "channel": "7 Flix HD",
         "link": "https://list.iptvcat.com/my_list/s/318cfda1f29d419d478dbd525978e502.m3u8",
         "country": "australia",
-        "liveliness": "88",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -62,9 +62,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -74,9 +74,9 @@
         "channel": "7 TV HD",
         "link": "https://list.iptvcat.com/my_list/s/a1c3ce255fc2e96afe8d0de5dae6a9ae.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "917",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -118,1393 +118,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693516",
-        "channel": "ABC AU",
-        "link": "https://list.iptvcat.com/my_list/s/132388eab1345415f1ed734445fe2615.m3u8",
-        "country": "australia",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492396",
-        "channel": "ABC Australia HD",
-        "link": "https://list.iptvcat.com/my_list/s/e39e4d8df1becac3f185441c3d7b57b4.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1424",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492407",
-        "channel": "ABC COMEDY HD",
-        "link": "https://list.iptvcat.com/my_list/s/2d31dce4c429719794cc753b6ed114d5.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693517",
-        "channel": "ABC Kids",
-        "link": "https://list.iptvcat.com/my_list/s/7748fa7d6e0f9e9d9012c1bf0cd5a513.m3u8",
-        "country": "australia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492410",
-        "channel": "ABC Kids NT HD",
-        "link": "https://list.iptvcat.com/my_list/s/60c66a7649dcb1afdb9651077aceb83b.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693518",
-        "channel": "ABC Me",
-        "link": "https://list.iptvcat.com/my_list/s/72c3c055af2c6e96fd6524a3c40765f0.m3u8",
-        "country": "australia",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492416",
-        "channel": "ABC Me HD",
-        "link": "https://list.iptvcat.com/my_list/s/2e66b97ed3ff4d75fc2e09fd432ca7ac.m3u8",
-        "country": "australia",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2265676",
-        "channel": "ABC News (720p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/3ce95730087a98e302c36ad79df89b6a.m3u8",
-        "country": "australia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492418",
-        "channel": "ABC News HD",
-        "link": "https://list.iptvcat.com/my_list/s/785aabdbb5369b044d7c613321e3ea49.m3u8",
-        "country": "australia",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2265764",
-        "channel": "ABC TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/51804087a9d8a992cf8ba8c14b30ea78.m3u8",
-        "country": "australia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2265846",
-        "channel": "ABC TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/fdf6f6b75b2efced0880439dca271c73.m3u8",
-        "country": "australia",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266041",
-        "channel": "ABC TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/70a7a5b80edcb2ffadf787152878de7f.m3u8",
-        "country": "australia",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266138",
-        "channel": "ABC TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/fa0e37f3794e38f1a8d7c5f1a2d846e6.m3u8",
-        "country": "australia",
-        "liveliness": "81",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492421",
-        "channel": "ABC TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/11d8d586a7ea840efe10d3d27f13a81b.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266210",
-        "channel": "ABC TV Plus (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/5bfeca518fe9e8fc956a58083987d663.m3u8",
-        "country": "australia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492425",
-        "channel": "ACC TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/04836f26bd2d1a9cd97ea369c89f8ac7.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "3260",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492427",
-        "channel": "ATV FHD",
-        "link": "https://list.iptvcat.com/my_list/s/33e1fae60d213eb18c41a9f29c0ce50d.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2493735",
-        "channel": "AU 10 Bold Melbourne (D)",
-        "link": "https://list.iptvcat.com/my_list/s/43f2572f8de157dd27c14573560df608.m3u8",
-        "country": "australia",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2493796",
-        "channel": "AU 10 Peach Hobart  (D)",
-        "link": "https://list.iptvcat.com/my_list/s/ae4e995c54b0f68fb0837a4d4d44eb7e.m3u8",
-        "country": "australia",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2493517",
-        "channel": "AU 10 Peach Perth (D)",
-        "link": "https://list.iptvcat.com/my_list/s/87d8553127906d68d818cb4fde3a9966.m3u8",
-        "country": "australia",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2494030",
-        "channel": "AU 7TWO Sydney (D)",
-        "link": "https://list.iptvcat.com/my_list/s/6d52fd51b40e9f4b4027b860036a83dc.m3u8",
-        "country": "australia",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2494190",
-        "channel": "AU 7flix Canberra (D)",
-        "link": "https://list.iptvcat.com/my_list/s/8034a548b3152f558958f87d0bf79126.m3u8",
-        "country": "australia",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2494094",
-        "channel": "AU 7flix Perth (D)",
-        "link": "https://list.iptvcat.com/my_list/s/3a6fe599f4a706e1ba35f8948d3cacd5.m3u8",
-        "country": "australia",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2494166",
-        "channel": "AU 7mate Hobart (D)",
-        "link": "https://list.iptvcat.com/my_list/s/6aec5806a195838222fbfcdd390f2926.m3u8",
-        "country": "australia",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2494196",
-        "channel": "AU 9Gem Brisbane (D)",
-        "link": "https://list.iptvcat.com/my_list/s/1e8c566e765df0baff85ffc74c609556.m3u8",
-        "country": "australia",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2493485",
-        "channel": "AU ABC_ME Perth (D)",
-        "link": "https://list.iptvcat.com/my_list/s/51841f131e99780815ee262bb9581c22.m3u8",
-        "country": "australia",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2493698",
-        "channel": "AU C31 Melbourne (D)",
-        "link": "https://list.iptvcat.com/my_list/s/04ddbdd57b1f79d5031c06ef5382ca49.m3u8",
-        "country": "australia",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1632",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2493971",
-        "channel": "AU Fuel TV Sydney (D)",
-        "link": "https://list.iptvcat.com/my_list/s/ec5390775cefab0096f673f1295bdb04.m3u8",
-        "country": "australia",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2493917",
-        "channel": "AU SBS_Food Canberra (D)",
-        "link": "https://list.iptvcat.com/my_list/s/ca1b70a015a9f3906940030a0ef75466.m3u8",
-        "country": "australia",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266211",
-        "channel": "Aflam Mohtrama (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/fcdd75ba62a9a49f9b352a88ddf91779.m3u8",
-        "country": "australia",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693519",
-        "channel": "Ausbiz TV",
-        "link": "https://list.iptvcat.com/my_list/s/c9a1a34b783e6a37da6ab91460b146f5.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "51310",
-        "channel": "Australia Channel",
-        "link": "https://list.iptvcat.com/my_list/s/5e54d1514a48e47919f106397ccfd2db.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492437",
-        "channel": "Australia Channel HD",
-        "link": "https://list.iptvcat.com/my_list/s/3e863d91d06149dd04af20ae49ac1819.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492439",
-        "channel": "Australian Christian Channel HD",
-        "link": "https://list.iptvcat.com/my_list/s/5b444647c824cc6b399e86a2f58c913f.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "3260",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492459",
-        "channel": "Bloomberg TV Asia HD",
-        "link": "https://list.iptvcat.com/my_list/s/357878b4102196cabe291888afab2f66.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492469",
-        "channel": "Bloomberg TV Asia Live Event HD",
-        "link": "https://list.iptvcat.com/my_list/s/a0ea340a5af0092980d89f189af0f9a7.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266214",
-        "channel": "C31 Melbourne (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/7bfed8f8ddc83583aea100f64236510e.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266215",
-        "channel": "Channel 44 (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c15e46815db7d8c219e91ee70660431c.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492479",
-        "channel": "ESPN 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/06084e1a33fed9303df96bb6516fe931.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492486",
-        "channel": "ESPN HD",
-        "link": "https://list.iptvcat.com/my_list/s/e2e6e1c9dcde30890329382f26cb1ba4.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492488",
-        "channel": "EXPO Channel HD",
-        "link": "https://list.iptvcat.com/my_list/s/0542fe1cb9af4f57e80f741560daff6a.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "138",
-        "channel": "Expo Channel",
-        "link": "https://list.iptvcat.com/my_list/s/2a55852bfc5acab39285059d5e343bee.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "51313",
-        "channel": "Expo Channel",
-        "link": "https://list.iptvcat.com/my_list/s/c35ba42814db38cbc65d62b5df6e452a.m3u8",
-        "country": "australia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492503",
-        "channel": "FOX SPORTS 501 HD",
-        "link": "https://list.iptvcat.com/my_list/s/ca1f7e0ef77a9b0e5c0eb31e976d3791.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492511",
-        "channel": "FOX SPORTS 502 HD",
-        "link": "https://list.iptvcat.com/my_list/s/0d3e43d8f6ee979e0263ad0a304c1b56.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492513",
-        "channel": "FOX SPORTS 503 HD",
-        "link": "https://list.iptvcat.com/my_list/s/22f0edf60aef45b75b8c7c761c85bf34.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492516",
-        "channel": "FOX SPORTS 504 HD",
-        "link": "https://list.iptvcat.com/my_list/s/5a89dff729641f6c3696c5839f685852.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492525",
-        "channel": "FOX SPORTS 505 HD",
-        "link": "https://list.iptvcat.com/my_list/s/386c0246f4e39b897af9240414c282a5.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492532",
-        "channel": "FOX SPORTS 506 HD",
-        "link": "https://list.iptvcat.com/my_list/s/286f6c65c83d096ac85453eac95750d2.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492534",
-        "channel": "FOX SPORTS News HD",
-        "link": "https://list.iptvcat.com/my_list/s/b39f500fcccede334eab6d0d20f927ac.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2371457",
-        "channel": "Fox Sports 502 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/51e2f1cb2cfbcf6ec6c0ce5813895ed9.m3u8",
-        "country": "australia",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2371479",
-        "channel": "Fox Sports 504 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/b48046317337e0041859b0a18581e021.m3u8",
-        "country": "australia",
-        "liveliness": "46",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2371530",
-        "channel": "Fox Sports 507 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/1547772d5f5b354b89451742f7bf8303.m3u8",
-        "country": "australia",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "51314",
-        "channel": "Fox Sports News",
-        "link": "https://list.iptvcat.com/my_list/s/1e05d6741ce1e9408f8f990f77f39f92.m3u8",
-        "country": "australia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492536",
-        "channel": "Fuel TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/4b93d5cb92637117ef4a84d065398cc6.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492538",
-        "channel": "God TV Australia HD",
-        "link": "https://list.iptvcat.com/my_list/s/83e6e2c2306c8b629a4f8cef5418cffe.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "6134",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492544",
-        "channel": "Gusto TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/49db80797a42a0b623f6be78b6972766.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492547",
-        "channel": "Horse \u0026 Country TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/b8f80f51fe24f1e291896a2702bcc296.m3u8",
-        "country": "australia",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492549",
-        "channel": "Insight TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/8a6bfaadff7b6bebfff39a7c3ab4fb8c.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492551",
-        "channel": "Introuble TV FHD",
-        "link": "https://list.iptvcat.com/my_list/s/b721ac3ce6675984f3b0ce3aa3322f58.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492553",
-        "channel": "Inwild TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/6d0f074cd6fcb1e77306d5df4f811f63.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492559",
-        "channel": "Inwonder TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/b28aaf729216ed41be6e04decbe12368.m3u8",
-        "country": "australia",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266216",
-        "channel": "JonmoBhumi TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/2ada24285b57d26e0eaa344eff1d0385.m3u8",
-        "country": "australia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492563",
-        "channel": "Juice TV FHD",
-        "link": "https://list.iptvcat.com/my_list/s/299d20b5f569c6ac05b8d8436d014fc2.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266217",
-        "channel": "M4TV Malayalam (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/092e4bf7945051f6ce34e584651ae673.m3u8",
-        "country": "australia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492570",
-        "channel": "NITV HD",
-        "link": "https://list.iptvcat.com/my_list/s/6bf750439610fc853f89f475b143c9c3.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492578",
-        "channel": "Outdoor Channel FHD",
-        "link": "https://list.iptvcat.com/my_list/s/ec249bd98fa0afc9aaf9f73ea121071a.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492585",
-        "channel": "Pac 12 Network HD",
-        "link": "https://list.iptvcat.com/my_list/s/b02dbb39da3611b81a2d87bbb7a64f41.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492589",
-        "channel": "Racing com HD",
-        "link": "https://list.iptvcat.com/my_list/s/be29582ad269ff2b3827dab852801e18.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492591",
-        "channel": "Real Stories HD",
-        "link": "https://list.iptvcat.com/my_list/s/48ac9df3173a136854be3c1ab9390cff.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492597",
-        "channel": "Rialto FHD",
-        "link": "https://list.iptvcat.com/my_list/s/78b99a174bedfcc28e03f22b332927c2.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492605",
-        "channel": "SBS Food HD",
-        "link": "https://list.iptvcat.com/my_list/s/8d6475696fe493cd05245d3ef90bb1a5.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492609",
-        "channel": "SBS HD",
-        "link": "https://list.iptvcat.com/my_list/s/25210c951137bdd4ab56da8aa61a7785.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "4825",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492611",
-        "channel": "SBS Viceland HD",
-        "link": "https://list.iptvcat.com/my_list/s/986c4a7c6a46274110072feced6d7156.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492612",
-        "channel": "SBS World Movies HD",
-        "link": "https://list.iptvcat.com/my_list/s/8aa2c9b5cbf3a06a1bbcbf73b9aab2e1.m3u8",
-        "country": "australia",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "144",
-        "channel": "Sky News Extra 1",
-        "link": "https://list.iptvcat.com/my_list/s/6a9911d619a36dd726c908e203b21cc8.m3u8",
-        "country": "australia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492613",
-        "channel": "Sky News Extra 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/75b5874dfa6322f28d6f529ea383c85b.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492616",
-        "channel": "Sky News Extra 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/7f21bc799358dd83914fe55546aad59f.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "146",
-        "channel": "Sky News Extra 3",
-        "link": "https://list.iptvcat.com/my_list/s/f35e32d4c55144e80014b8badbddfbf6.m3u8",
-        "country": "australia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492621",
-        "channel": "Sky News Extra 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/3e132f9c9466334541c5bf6553bc5bd7.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492625",
-        "channel": "Sky News FHD",
-        "link": "https://list.iptvcat.com/my_list/s/b5f4b3d0fd3057f3b26e4d1858164afe.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492636",
-        "channel": "Sky Racing 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/c1ba041febbeef333a435b1154efa416.m3u8",
-        "country": "australia",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "565",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266279",
-        "channel": "Sky Thoroughbred Central (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/1eaecc313d4529ad52aa0d811e125be9.m3u8",
-        "country": "australia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492647",
-        "channel": "Smithsonian Channel FHD",
-        "link": "https://list.iptvcat.com/my_list/s/2de9b466d8999c56e10cb355bf71d713.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492648",
-        "channel": "Snowy Mountains Television FHD",
-        "link": "https://list.iptvcat.com/my_list/s/ce412bb87efe8fc7fc73436fe2f0e377.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492650",
-        "channel": "TEN HD",
-        "link": "https://list.iptvcat.com/my_list/s/9fa6fac61bb3ea3e76d982a8f318683c.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693523",
-        "channel": "TVSN",
-        "link": "https://list.iptvcat.com/my_list/s/3bd7c9770d42b87af2c6d0d2514d9b03.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492658",
-        "channel": "TVSN HD",
-        "link": "https://list.iptvcat.com/my_list/s/5760de575f059c9f38ed441eef15566e.m3u8",
-        "country": "australia",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492654",
-        "channel": "Time Line Australia HD",
-        "link": "https://list.iptvcat.com/my_list/s/556634b3b623af2834b0d99005159cc5.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492661",
-        "channel": "VENN FHD",
-        "link": "https://list.iptvcat.com/my_list/s/c1e90e2d42b2c4fc6a8d0bdbcd3aa859.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492665",
-        "channel": "Wonder HD",
-        "link": "https://list.iptvcat.com/my_list/s/74443bd72195bd5fc9515ea9861ff2b7.m3u8",
-        "country": "australia",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492391",
-        "channel": "10 Bold HD",
-        "link": "https://list.iptvcat.com/my_list/s/bf2a7bbb21383536443a4549c5042e25.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492393",
-        "channel": "10 Peach Sydney HD",
-        "link": "https://list.iptvcat.com/my_list/s/60a9e6be5b8bf508e275f422a9c8abdf.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492394",
-        "channel": "3AW Melburne HD",
-        "link": "https://list.iptvcat.com/my_list/s/0460dd0333b21fad237ed5527265e71b.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1696",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492373",
-        "channel": "7 Flix HD",
-        "link": "https://list.iptvcat.com/my_list/s/318cfda1f29d419d478dbd525978e502.m3u8",
-        "country": "australia",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492374",
-        "channel": "7 Mate HD",
-        "link": "https://list.iptvcat.com/my_list/s/778c76b1437d0010ab29b38374fdeac7.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492376",
-        "channel": "7 TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/a1c3ce255fc2e96afe8d0de5dae6a9ae.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492380",
-        "channel": "7 Two HD",
-        "link": "https://list.iptvcat.com/my_list/s/eef84ecf564510c0a76c3045a58970af.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2492383",
-        "channel": "9 GEM HD",
-        "link": "https://list.iptvcat.com/my_list/s/0cdd17b46b3817a6a02b6b4f4c192596.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -1512,27 +126,13 @@
         ]
     },
     {
-        "id": "2492389",
-        "channel": "9 Life HD",
-        "link": "https://list.iptvcat.com/my_list/s/70f52a926b27aa4ecc7d37f162497de0.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
         "id": "693516",
         "channel": "ABC AU",
         "link": "https://list.iptvcat.com/my_list/s/132388eab1345415f1ed734445fe2615.m3u8",
         "country": "australia",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1546,9 +146,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1424",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -1558,9 +158,9 @@
         "channel": "ABC COMEDY HD",
         "link": "https://list.iptvcat.com/my_list/s/2d31dce4c429719794cc753b6ed114d5.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1574,7 +174,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1588,7 +188,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1602,7 +202,7 @@
         "country": "australia",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1614,9 +214,9 @@
         "channel": "ABC Me HD",
         "link": "https://list.iptvcat.com/my_list/s/2e66b97ed3ff4d75fc2e09fd432ca7ac.m3u8",
         "country": "australia",
-        "liveliness": "88",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1630,7 +230,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1642,11 +242,11 @@
         "channel": "ABC News HD",
         "link": "https://list.iptvcat.com/my_list/s/785aabdbb5369b044d7c613321e3ea49.m3u8",
         "country": "australia",
-        "liveliness": "88",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5991",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -1658,7 +258,7 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1670,9 +270,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/fdf6f6b75b2efced0880439dca271c73.m3u8",
         "country": "australia",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1686,7 +286,7 @@
         "country": "australia",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1700,7 +300,7 @@
         "country": "australia",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1712,9 +312,9 @@
         "channel": "ABC TV HD",
         "link": "https://list.iptvcat.com/my_list/s/11d8d586a7ea840efe10d3d27f13a81b.m3u8",
         "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1728,7 +328,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1742,7 +342,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3260",
         "URI": [
@@ -1756,7 +356,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1768,9 +368,9 @@
         "channel": "AU 10 Bold Melbourne (D)",
         "link": "https://list.iptvcat.com/my_list/s/43f2572f8de157dd27c14573560df608.m3u8",
         "country": "australia",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1782,9 +382,9 @@
         "channel": "AU 10 Peach Hobart  (D)",
         "link": "https://list.iptvcat.com/my_list/s/ae4e995c54b0f68fb0837a4d4d44eb7e.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "18",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1796,9 +396,9 @@
         "channel": "AU 10 Peach Perth (D)",
         "link": "https://list.iptvcat.com/my_list/s/87d8553127906d68d818cb4fde3a9966.m3u8",
         "country": "australia",
-        "liveliness": "57",
+        "liveliness": "45",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1810,9 +410,9 @@
         "channel": "AU 7TWO Sydney (D)",
         "link": "https://list.iptvcat.com/my_list/s/6d52fd51b40e9f4b4027b860036a83dc.m3u8",
         "country": "australia",
-        "liveliness": "38",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1824,9 +424,9 @@
         "channel": "AU 7flix Canberra (D)",
         "link": "https://list.iptvcat.com/my_list/s/8034a548b3152f558958f87d0bf79126.m3u8",
         "country": "australia",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "27",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1838,9 +438,9 @@
         "channel": "AU 7flix Perth (D)",
         "link": "https://list.iptvcat.com/my_list/s/3a6fe599f4a706e1ba35f8948d3cacd5.m3u8",
         "country": "australia",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "36",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1852,9 +452,9 @@
         "channel": "AU 7mate Hobart (D)",
         "link": "https://list.iptvcat.com/my_list/s/6aec5806a195838222fbfcdd390f2926.m3u8",
         "country": "australia",
-        "liveliness": "57",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1866,9 +466,9 @@
         "channel": "AU 9Gem Brisbane (D)",
         "link": "https://list.iptvcat.com/my_list/s/1e8c566e765df0baff85ffc74c609556.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "27",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1880,9 +480,9 @@
         "channel": "AU ABC_ME Perth (D)",
         "link": "https://list.iptvcat.com/my_list/s/51841f131e99780815ee262bb9581c22.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "18",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1894,9 +494,9 @@
         "channel": "AU C31 Melbourne (D)",
         "link": "https://list.iptvcat.com/my_list/s/04ddbdd57b1f79d5031c06ef5382ca49.m3u8",
         "country": "australia",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "18",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1632",
         "URI": [
@@ -1908,9 +508,9 @@
         "channel": "AU Fuel TV Sydney (D)",
         "link": "https://list.iptvcat.com/my_list/s/ec5390775cefab0096f673f1295bdb04.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "18",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1922,9 +522,9 @@
         "channel": "AU SBS_Food Canberra (D)",
         "link": "https://list.iptvcat.com/my_list/s/ca1b70a015a9f3906940030a0ef75466.m3u8",
         "country": "australia",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "18",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1938,7 +538,7 @@
         "country": "australia",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -1952,7 +552,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1966,7 +566,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1980,9 +580,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -1994,7 +594,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3260",
         "URI": [
@@ -2008,7 +608,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -2022,7 +622,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -2036,7 +636,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -2050,7 +650,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -2064,9 +664,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2078,7 +678,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2090,9 +690,9 @@
         "channel": "EXPO Channel HD",
         "link": "https://list.iptvcat.com/my_list/s/0542fe1cb9af4f57e80f741560daff6a.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2106,7 +706,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2120,7 +720,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2134,9 +734,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2146,11 +746,11 @@
         "channel": "FOX SPORTS 502 HD",
         "link": "https://list.iptvcat.com/my_list/s/0d3e43d8f6ee979e0263ad0a304c1b56.m3u8",
         "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2162,7 +762,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2176,9 +776,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2190,7 +790,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2204,9 +804,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2216,25 +816,11 @@
         "channel": "FOX SPORTS News HD",
         "link": "https://list.iptvcat.com/my_list/s/b39f500fcccede334eab6d0d20f927ac.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2371457",
-        "channel": "Fox Sports 502 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/51e2f1cb2cfbcf6ec6c0ce5813895ed9.m3u8",
-        "country": "australia",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2244,23 +830,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "https://list.iptvcat.com/my_list/s/b48046317337e0041859b0a18581e021.m3u8",
         "country": "australia",
-        "liveliness": "46",
+        "liveliness": "45",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2371530",
-        "channel": "Fox Sports 507 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/1547772d5f5b354b89451742f7bf8303.m3u8",
-        "country": "australia",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2274,7 +846,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2286,9 +858,9 @@
         "channel": "Fuel TV HD",
         "link": "https://list.iptvcat.com/my_list/s/4b93d5cb92637117ef4a84d065398cc6.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2302,7 +874,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "6134",
         "URI": [
@@ -2316,7 +888,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -2328,11 +900,11 @@
         "channel": "Horse \u0026 Country TV HD",
         "link": "https://list.iptvcat.com/my_list/s/b8f80f51fe24f1e291896a2702bcc296.m3u8",
         "country": "australia",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2344,7 +916,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2358,7 +930,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2372,7 +944,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2384,11 +956,11 @@
         "channel": "Inwonder TV HD",
         "link": "https://list.iptvcat.com/my_list/s/b28aaf729216ed41be6e04decbe12368.m3u8",
         "country": "australia",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2400,7 +972,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -2414,7 +986,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2428,7 +1000,7 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -2442,7 +1014,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -2456,7 +1028,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2468,9 +1040,9 @@
         "channel": "Pac 12 Network HD",
         "link": "https://list.iptvcat.com/my_list/s/b02dbb39da3611b81a2d87bbb7a64f41.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2482,9 +1054,9 @@
         "channel": "Racing com HD",
         "link": "https://list.iptvcat.com/my_list/s/be29582ad269ff2b3827dab852801e18.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "917",
         "URI": [
@@ -2498,7 +1070,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2510,9 +1082,9 @@
         "channel": "Rialto FHD",
         "link": "https://list.iptvcat.com/my_list/s/78b99a174bedfcc28e03f22b332927c2.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2524,9 +1096,9 @@
         "channel": "SBS Food HD",
         "link": "https://list.iptvcat.com/my_list/s/8d6475696fe493cd05245d3ef90bb1a5.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -2538,9 +1110,9 @@
         "channel": "SBS HD",
         "link": "https://list.iptvcat.com/my_list/s/25210c951137bdd4ab56da8aa61a7785.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
         "URI": [
@@ -2552,9 +1124,9 @@
         "channel": "SBS Viceland HD",
         "link": "https://list.iptvcat.com/my_list/s/986c4a7c6a46274110072feced6d7156.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -2566,9 +1138,9 @@
         "channel": "SBS World Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/8aa2c9b5cbf3a06a1bbcbf73b9aab2e1.m3u8",
         "country": "australia",
-        "liveliness": "57",
+        "liveliness": "67",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -2582,7 +1154,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -2596,7 +1168,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -2610,7 +1182,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -2624,9 +1196,9 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004, ...",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2638,7 +1210,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2652,7 +1224,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -2664,9 +1236,9 @@
         "channel": "Sky Racing 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/c1ba041febbeef333a435b1154efa416.m3u8",
         "country": "australia",
-        "liveliness": "86",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "565",
         "URI": [
@@ -2680,9 +1252,9 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2694,7 +1266,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2708,7 +1280,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2722,9 +1294,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1764",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2736,7 +1308,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2748,9 +1320,9 @@
         "channel": "TVSN HD",
         "link": "https://list.iptvcat.com/my_list/s/5760de575f059c9f38ed441eef15566e.m3u8",
         "country": "australia",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2764,7 +1336,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2778,7 +1350,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "5020",
         "URI": [
@@ -2790,9 +1362,9 @@
         "channel": "Wonder HD",
         "link": "https://list.iptvcat.com/my_list/s/74443bd72195bd5fc9515ea9861ff2b7.m3u8",
         "country": "australia",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2806,11 +1378,11 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
-            "australia"
+            "australia_-_-_-_-_"
         ]
     },
     {
@@ -2820,95 +1392,11 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "australia"
-        ]
-    },
-    {
-        "id": "2492442",
-        "channel": "beIN Sports 1 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/3f2bb0344db6bf5a0fff1190deac6924.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "australia"
-        ]
-    },
-    {
-        "id": "2062028",
-        "channel": "beIN Sports 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/c1b93096616fe807ea4317414c00feb1.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "australia"
-        ]
-    },
-    {
-        "id": "2062030",
-        "channel": "beIN Sports 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/4d2949a6990155b6aaef37949eeff148.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "australia"
-        ]
-    },
-    {
-        "id": "2492445",
-        "channel": "beIN Sports 3 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/d6ae6185625734e08e15edbac8ed93b8.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "australia"
-        ]
-    },
-    {
-        "id": "2062032",
-        "channel": "beIN Sports 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/42412f445d7b448f57efb275c0b7d92c.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "australia"
-        ]
-    },
-    {
-        "id": "2492456",
-        "channel": "beIN Sports HD",
-        "link": "https://list.iptvcat.com/my_list/s/97435d893a55ccd7e7d2d8d26938d33e.m3u8",
-        "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "australia"
+            "australia_-_-_-_-_"
         ]
     },
     {
@@ -2918,7 +1406,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2930,9 +1418,9 @@
         "channel": "10 Peach Sydney HD",
         "link": "https://list.iptvcat.com/my_list/s/60a9e6be5b8bf508e275f422a9c8abdf.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2946,7 +1434,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1696",
         "URI": [
@@ -2958,11 +1446,11 @@
         "channel": "7 Flix HD",
         "link": "https://list.iptvcat.com/my_list/s/318cfda1f29d419d478dbd525978e502.m3u8",
         "country": "australia",
-        "liveliness": "88",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2974,9 +1462,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -2986,9 +1474,9 @@
         "channel": "7 TV HD",
         "link": "https://list.iptvcat.com/my_list/s/a1c3ce255fc2e96afe8d0de5dae6a9ae.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "917",
         "URI": [
@@ -3002,7 +1490,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3016,7 +1504,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -3030,9 +1518,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
-        "mbps": "1853",
+        "mbps": "823",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3044,7 +1532,7 @@
         "country": "australia",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3058,9 +1546,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1424",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3070,9 +1558,9 @@
         "channel": "ABC COMEDY HD",
         "link": "https://list.iptvcat.com/my_list/s/2d31dce4c429719794cc753b6ed114d5.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -3086,7 +1574,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3100,7 +1588,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3114,7 +1602,7 @@
         "country": "australia",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3126,9 +1614,9 @@
         "channel": "ABC Me HD",
         "link": "https://list.iptvcat.com/my_list/s/2e66b97ed3ff4d75fc2e09fd432ca7ac.m3u8",
         "country": "australia",
-        "liveliness": "88",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -3142,7 +1630,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3154,11 +1642,11 @@
         "channel": "ABC News HD",
         "link": "https://list.iptvcat.com/my_list/s/785aabdbb5369b044d7c613321e3ea49.m3u8",
         "country": "australia",
-        "liveliness": "88",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5991",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3170,7 +1658,7 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3182,9 +1670,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/fdf6f6b75b2efced0880439dca271c73.m3u8",
         "country": "australia",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3198,7 +1686,7 @@
         "country": "australia",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3212,7 +1700,7 @@
         "country": "australia",
         "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3224,9 +1712,9 @@
         "channel": "ABC TV HD",
         "link": "https://list.iptvcat.com/my_list/s/11d8d586a7ea840efe10d3d27f13a81b.m3u8",
         "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3240,7 +1728,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3254,7 +1742,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3260",
         "URI": [
@@ -3268,7 +1756,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3280,9 +1768,9 @@
         "channel": "AU 10 Bold Melbourne (D)",
         "link": "https://list.iptvcat.com/my_list/s/43f2572f8de157dd27c14573560df608.m3u8",
         "country": "australia",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -3294,9 +1782,9 @@
         "channel": "AU 10 Peach Hobart  (D)",
         "link": "https://list.iptvcat.com/my_list/s/ae4e995c54b0f68fb0837a4d4d44eb7e.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "18",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -3308,9 +1796,9 @@
         "channel": "AU 10 Peach Perth (D)",
         "link": "https://list.iptvcat.com/my_list/s/87d8553127906d68d818cb4fde3a9966.m3u8",
         "country": "australia",
-        "liveliness": "57",
+        "liveliness": "45",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -3322,9 +1810,9 @@
         "channel": "AU 7TWO Sydney (D)",
         "link": "https://list.iptvcat.com/my_list/s/6d52fd51b40e9f4b4027b860036a83dc.m3u8",
         "country": "australia",
-        "liveliness": "38",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3336,9 +1824,9 @@
         "channel": "AU 7flix Canberra (D)",
         "link": "https://list.iptvcat.com/my_list/s/8034a548b3152f558958f87d0bf79126.m3u8",
         "country": "australia",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "27",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3350,9 +1838,9 @@
         "channel": "AU 7flix Perth (D)",
         "link": "https://list.iptvcat.com/my_list/s/3a6fe599f4a706e1ba35f8948d3cacd5.m3u8",
         "country": "australia",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "36",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3364,9 +1852,9 @@
         "channel": "AU 7mate Hobart (D)",
         "link": "https://list.iptvcat.com/my_list/s/6aec5806a195838222fbfcdd390f2926.m3u8",
         "country": "australia",
-        "liveliness": "57",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3378,9 +1866,9 @@
         "channel": "AU 9Gem Brisbane (D)",
         "link": "https://list.iptvcat.com/my_list/s/1e8c566e765df0baff85ffc74c609556.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "27",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3392,9 +1880,9 @@
         "channel": "AU ABC_ME Perth (D)",
         "link": "https://list.iptvcat.com/my_list/s/51841f131e99780815ee262bb9581c22.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "18",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3406,9 +1894,9 @@
         "channel": "AU C31 Melbourne (D)",
         "link": "https://list.iptvcat.com/my_list/s/04ddbdd57b1f79d5031c06ef5382ca49.m3u8",
         "country": "australia",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "18",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1632",
         "URI": [
@@ -3420,9 +1908,9 @@
         "channel": "AU Fuel TV Sydney (D)",
         "link": "https://list.iptvcat.com/my_list/s/ec5390775cefab0096f673f1295bdb04.m3u8",
         "country": "australia",
-        "liveliness": "29",
+        "liveliness": "18",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3434,9 +1922,9 @@
         "channel": "AU SBS_Food Canberra (D)",
         "link": "https://list.iptvcat.com/my_list/s/ca1b70a015a9f3906940030a0ef75466.m3u8",
         "country": "australia",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "18",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -3450,7 +1938,7 @@
         "country": "australia",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -3464,7 +1952,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3478,7 +1966,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -3492,9 +1980,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3506,7 +1994,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "3260",
         "URI": [
@@ -3520,7 +2008,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -3534,7 +2022,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -3548,7 +2036,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -3562,7 +2050,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -3576,9 +2064,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3590,7 +2078,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -3602,9 +2090,9 @@
         "channel": "EXPO Channel HD",
         "link": "https://list.iptvcat.com/my_list/s/0542fe1cb9af4f57e80f741560daff6a.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3618,7 +2106,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3632,7 +2120,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3646,9 +2134,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3658,11 +2146,11 @@
         "channel": "FOX SPORTS 502 HD",
         "link": "https://list.iptvcat.com/my_list/s/0d3e43d8f6ee979e0263ad0a304c1b56.m3u8",
         "country": "australia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3674,7 +2162,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3688,9 +2176,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3702,7 +2190,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3716,9 +2204,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3728,25 +2216,11 @@
         "channel": "FOX SPORTS News HD",
         "link": "https://list.iptvcat.com/my_list/s/b39f500fcccede334eab6d0d20f927ac.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2371457",
-        "channel": "Fox Sports 502 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/51e2f1cb2cfbcf6ec6c0ce5813895ed9.m3u8",
-        "country": "australia",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3756,23 +2230,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "https://list.iptvcat.com/my_list/s/b48046317337e0041859b0a18581e021.m3u8",
         "country": "australia",
-        "liveliness": "46",
+        "liveliness": "45",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "australia_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2371530",
-        "channel": "Fox Sports 507 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/1547772d5f5b354b89451742f7bf8303.m3u8",
-        "country": "australia",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3786,7 +2246,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -3798,9 +2258,9 @@
         "channel": "Fuel TV HD",
         "link": "https://list.iptvcat.com/my_list/s/4b93d5cb92637117ef4a84d065398cc6.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3814,7 +2274,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "6134",
         "URI": [
@@ -3828,7 +2288,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -3840,11 +2300,11 @@
         "channel": "Horse \u0026 Country TV HD",
         "link": "https://list.iptvcat.com/my_list/s/b8f80f51fe24f1e291896a2702bcc296.m3u8",
         "country": "australia",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3856,7 +2316,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3870,7 +2330,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3884,7 +2344,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3896,11 +2356,11 @@
         "channel": "Inwonder TV HD",
         "link": "https://list.iptvcat.com/my_list/s/b28aaf729216ed41be6e04decbe12368.m3u8",
         "country": "australia",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -3912,7 +2372,7 @@
         "country": "australia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -3926,7 +2386,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3940,7 +2400,7 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -3954,7 +2414,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -3968,7 +2428,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3980,9 +2440,9 @@
         "channel": "Pac 12 Network HD",
         "link": "https://list.iptvcat.com/my_list/s/b02dbb39da3611b81a2d87bbb7a64f41.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3994,9 +2454,9 @@
         "channel": "Racing com HD",
         "link": "https://list.iptvcat.com/my_list/s/be29582ad269ff2b3827dab852801e18.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "917",
         "URI": [
@@ -4010,7 +2470,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4022,9 +2482,9 @@
         "channel": "Rialto FHD",
         "link": "https://list.iptvcat.com/my_list/s/78b99a174bedfcc28e03f22b332927c2.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4036,9 +2496,9 @@
         "channel": "SBS Food HD",
         "link": "https://list.iptvcat.com/my_list/s/8d6475696fe493cd05245d3ef90bb1a5.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -4050,9 +2510,9 @@
         "channel": "SBS HD",
         "link": "https://list.iptvcat.com/my_list/s/25210c951137bdd4ab56da8aa61a7785.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
         "URI": [
@@ -4064,9 +2524,9 @@
         "channel": "SBS Viceland HD",
         "link": "https://list.iptvcat.com/my_list/s/986c4a7c6a46274110072feced6d7156.m3u8",
         "country": "australia",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -4078,9 +2538,9 @@
         "channel": "SBS World Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/8aa2c9b5cbf3a06a1bbcbf73b9aab2e1.m3u8",
         "country": "australia",
-        "liveliness": "57",
+        "liveliness": "67",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -4094,7 +2554,7 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -4108,7 +2568,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -4122,7 +2582,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -4136,9 +2596,9 @@
         "country": "australia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004, ...",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -4150,7 +2610,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4164,7 +2624,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -4176,9 +2636,9 @@
         "channel": "Sky Racing 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/c1ba041febbeef333a435b1154efa416.m3u8",
         "country": "australia",
-        "liveliness": "86",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "565",
         "URI": [
@@ -4192,9 +2652,9 @@
         "country": "australia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -4206,7 +2666,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -4220,7 +2680,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4234,9 +2694,9 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1764",
         "URI": [
             "australia_-_-_-_-_"
         ]
@@ -4248,7 +2708,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4260,9 +2720,9 @@
         "channel": "TVSN HD",
         "link": "https://list.iptvcat.com/my_list/s/5760de575f059c9f38ed441eef15566e.m3u8",
         "country": "australia",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4276,7 +2736,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4290,7 +2750,7 @@
         "country": "australia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "sd",
         "mbps": "5020",
         "URI": [
@@ -4302,9 +2762,1521 @@
         "channel": "Wonder HD",
         "link": "https://list.iptvcat.com/my_list/s/74443bd72195bd5fc9515ea9861ff2b7.m3u8",
         "country": "australia",
-        "liveliness": "89",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1335001",
+        "channel": "ausbiz TV (720p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/46c954b16e6af5ae31ce253fe9083657.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492431",
+        "channel": "ausbiz TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/a529521fd6916de3352a9b732edb1b57.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492442",
+        "channel": "beIN Sports 1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/3f2bb0344db6bf5a0fff1190deac6924.m3u8",
+        "country": "australia",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia"
+        ]
+    },
+    {
+        "id": "2062028",
+        "channel": "beIN Sports 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/c1b93096616fe807ea4317414c00feb1.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia"
+        ]
+    },
+    {
+        "id": "2062030",
+        "channel": "beIN Sports 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/4d2949a6990155b6aaef37949eeff148.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia"
+        ]
+    },
+    {
+        "id": "2492445",
+        "channel": "beIN Sports 3 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/d6ae6185625734e08e15edbac8ed93b8.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "australia"
+        ]
+    },
+    {
+        "id": "2062032",
+        "channel": "beIN Sports 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/42412f445d7b448f57efb275c0b7d92c.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia"
+        ]
+    },
+    {
+        "id": "2492456",
+        "channel": "beIN Sports HD",
+        "link": "https://list.iptvcat.com/my_list/s/97435d893a55ccd7e7d2d8d26938d33e.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia"
+        ]
+    },
+    {
+        "id": "2492391",
+        "channel": "10 Bold HD",
+        "link": "https://list.iptvcat.com/my_list/s/bf2a7bbb21383536443a4549c5042e25.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492393",
+        "channel": "10 Peach Sydney HD",
+        "link": "https://list.iptvcat.com/my_list/s/60a9e6be5b8bf508e275f422a9c8abdf.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492394",
+        "channel": "3AW Melburne HD",
+        "link": "https://list.iptvcat.com/my_list/s/0460dd0333b21fad237ed5527265e71b.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1696",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492373",
+        "channel": "7 Flix HD",
+        "link": "https://list.iptvcat.com/my_list/s/318cfda1f29d419d478dbd525978e502.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492374",
+        "channel": "7 Mate HD",
+        "link": "https://list.iptvcat.com/my_list/s/778c76b1437d0010ab29b38374fdeac7.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492376",
+        "channel": "7 TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/a1c3ce255fc2e96afe8d0de5dae6a9ae.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492380",
+        "channel": "7 Two HD",
+        "link": "https://list.iptvcat.com/my_list/s/eef84ecf564510c0a76c3045a58970af.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492383",
+        "channel": "9 GEM HD",
+        "link": "https://list.iptvcat.com/my_list/s/0cdd17b46b3817a6a02b6b4f4c192596.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492389",
+        "channel": "9 Life HD",
+        "link": "https://list.iptvcat.com/my_list/s/70f52a926b27aa4ecc7d37f162497de0.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693516",
+        "channel": "ABC AU",
+        "link": "https://list.iptvcat.com/my_list/s/132388eab1345415f1ed734445fe2615.m3u8",
+        "country": "australia",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492396",
+        "channel": "ABC Australia HD",
+        "link": "https://list.iptvcat.com/my_list/s/e39e4d8df1becac3f185441c3d7b57b4.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492407",
+        "channel": "ABC COMEDY HD",
+        "link": "https://list.iptvcat.com/my_list/s/2d31dce4c429719794cc753b6ed114d5.m3u8",
+        "country": "australia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693517",
+        "channel": "ABC Kids",
+        "link": "https://list.iptvcat.com/my_list/s/7748fa7d6e0f9e9d9012c1bf0cd5a513.m3u8",
+        "country": "australia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492410",
+        "channel": "ABC Kids NT HD",
+        "link": "https://list.iptvcat.com/my_list/s/60c66a7649dcb1afdb9651077aceb83b.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693518",
+        "channel": "ABC Me",
+        "link": "https://list.iptvcat.com/my_list/s/72c3c055af2c6e96fd6524a3c40765f0.m3u8",
+        "country": "australia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492416",
+        "channel": "ABC Me HD",
+        "link": "https://list.iptvcat.com/my_list/s/2e66b97ed3ff4d75fc2e09fd432ca7ac.m3u8",
+        "country": "australia",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265676",
+        "channel": "ABC News (720p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/3ce95730087a98e302c36ad79df89b6a.m3u8",
+        "country": "australia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492418",
+        "channel": "ABC News HD",
+        "link": "https://list.iptvcat.com/my_list/s/785aabdbb5369b044d7c613321e3ea49.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265764",
+        "channel": "ABC TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/51804087a9d8a992cf8ba8c14b30ea78.m3u8",
+        "country": "australia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265846",
+        "channel": "ABC TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/fdf6f6b75b2efced0880439dca271c73.m3u8",
+        "country": "australia",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266041",
+        "channel": "ABC TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/70a7a5b80edcb2ffadf787152878de7f.m3u8",
+        "country": "australia",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266138",
+        "channel": "ABC TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/fa0e37f3794e38f1a8d7c5f1a2d846e6.m3u8",
+        "country": "australia",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492421",
+        "channel": "ABC TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/11d8d586a7ea840efe10d3d27f13a81b.m3u8",
+        "country": "australia",
+        "liveliness": "83",
         "status": "offline",
-        "lastChecked": "2022-04-10T00:00:00Z",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266210",
+        "channel": "ABC TV Plus (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/5bfeca518fe9e8fc956a58083987d663.m3u8",
+        "country": "australia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492425",
+        "channel": "ACC TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/04836f26bd2d1a9cd97ea369c89f8ac7.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "3260",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492427",
+        "channel": "ATV FHD",
+        "link": "https://list.iptvcat.com/my_list/s/33e1fae60d213eb18c41a9f29c0ce50d.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2493735",
+        "channel": "AU 10 Bold Melbourne (D)",
+        "link": "https://list.iptvcat.com/my_list/s/43f2572f8de157dd27c14573560df608.m3u8",
+        "country": "australia",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2493796",
+        "channel": "AU 10 Peach Hobart  (D)",
+        "link": "https://list.iptvcat.com/my_list/s/ae4e995c54b0f68fb0837a4d4d44eb7e.m3u8",
+        "country": "australia",
+        "liveliness": "18",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2493517",
+        "channel": "AU 10 Peach Perth (D)",
+        "link": "https://list.iptvcat.com/my_list/s/87d8553127906d68d818cb4fde3a9966.m3u8",
+        "country": "australia",
+        "liveliness": "45",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2494030",
+        "channel": "AU 7TWO Sydney (D)",
+        "link": "https://list.iptvcat.com/my_list/s/6d52fd51b40e9f4b4027b860036a83dc.m3u8",
+        "country": "australia",
+        "liveliness": "25",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2494190",
+        "channel": "AU 7flix Canberra (D)",
+        "link": "https://list.iptvcat.com/my_list/s/8034a548b3152f558958f87d0bf79126.m3u8",
+        "country": "australia",
+        "liveliness": "27",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2494094",
+        "channel": "AU 7flix Perth (D)",
+        "link": "https://list.iptvcat.com/my_list/s/3a6fe599f4a706e1ba35f8948d3cacd5.m3u8",
+        "country": "australia",
+        "liveliness": "36",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2494166",
+        "channel": "AU 7mate Hobart (D)",
+        "link": "https://list.iptvcat.com/my_list/s/6aec5806a195838222fbfcdd390f2926.m3u8",
+        "country": "australia",
+        "liveliness": "40",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2494196",
+        "channel": "AU 9Gem Brisbane (D)",
+        "link": "https://list.iptvcat.com/my_list/s/1e8c566e765df0baff85ffc74c609556.m3u8",
+        "country": "australia",
+        "liveliness": "27",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2493485",
+        "channel": "AU ABC_ME Perth (D)",
+        "link": "https://list.iptvcat.com/my_list/s/51841f131e99780815ee262bb9581c22.m3u8",
+        "country": "australia",
+        "liveliness": "18",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2493698",
+        "channel": "AU C31 Melbourne (D)",
+        "link": "https://list.iptvcat.com/my_list/s/04ddbdd57b1f79d5031c06ef5382ca49.m3u8",
+        "country": "australia",
+        "liveliness": "18",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1632",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2493971",
+        "channel": "AU Fuel TV Sydney (D)",
+        "link": "https://list.iptvcat.com/my_list/s/ec5390775cefab0096f673f1295bdb04.m3u8",
+        "country": "australia",
+        "liveliness": "18",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2493917",
+        "channel": "AU SBS_Food Canberra (D)",
+        "link": "https://list.iptvcat.com/my_list/s/ca1b70a015a9f3906940030a0ef75466.m3u8",
+        "country": "australia",
+        "liveliness": "18",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266211",
+        "channel": "Aflam Mohtrama (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/fcdd75ba62a9a49f9b352a88ddf91779.m3u8",
+        "country": "australia",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693519",
+        "channel": "Ausbiz TV",
+        "link": "https://list.iptvcat.com/my_list/s/c9a1a34b783e6a37da6ab91460b146f5.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51310",
+        "channel": "Australia Channel",
+        "link": "https://list.iptvcat.com/my_list/s/5e54d1514a48e47919f106397ccfd2db.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492437",
+        "channel": "Australia Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/3e863d91d06149dd04af20ae49ac1819.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492439",
+        "channel": "Australian Christian Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/5b444647c824cc6b399e86a2f58c913f.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "3260",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492459",
+        "channel": "Bloomberg TV Asia HD",
+        "link": "https://list.iptvcat.com/my_list/s/357878b4102196cabe291888afab2f66.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492469",
+        "channel": "Bloomberg TV Asia Live Event HD",
+        "link": "https://list.iptvcat.com/my_list/s/a0ea340a5af0092980d89f189af0f9a7.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266214",
+        "channel": "C31 Melbourne (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/7bfed8f8ddc83583aea100f64236510e.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266215",
+        "channel": "Channel 44 (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c15e46815db7d8c219e91ee70660431c.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492479",
+        "channel": "ESPN 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/06084e1a33fed9303df96bb6516fe931.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492486",
+        "channel": "ESPN HD",
+        "link": "https://list.iptvcat.com/my_list/s/e2e6e1c9dcde30890329382f26cb1ba4.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492488",
+        "channel": "EXPO Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/0542fe1cb9af4f57e80f741560daff6a.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "138",
+        "channel": "Expo Channel",
+        "link": "https://list.iptvcat.com/my_list/s/2a55852bfc5acab39285059d5e343bee.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51313",
+        "channel": "Expo Channel",
+        "link": "https://list.iptvcat.com/my_list/s/c35ba42814db38cbc65d62b5df6e452a.m3u8",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492503",
+        "channel": "FOX SPORTS 501 HD",
+        "link": "https://list.iptvcat.com/my_list/s/ca1f7e0ef77a9b0e5c0eb31e976d3791.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492511",
+        "channel": "FOX SPORTS 502 HD",
+        "link": "https://list.iptvcat.com/my_list/s/0d3e43d8f6ee979e0263ad0a304c1b56.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492513",
+        "channel": "FOX SPORTS 503 HD",
+        "link": "https://list.iptvcat.com/my_list/s/22f0edf60aef45b75b8c7c761c85bf34.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492516",
+        "channel": "FOX SPORTS 504 HD",
+        "link": "https://list.iptvcat.com/my_list/s/5a89dff729641f6c3696c5839f685852.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492525",
+        "channel": "FOX SPORTS 505 HD",
+        "link": "https://list.iptvcat.com/my_list/s/386c0246f4e39b897af9240414c282a5.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492532",
+        "channel": "FOX SPORTS 506 HD",
+        "link": "https://list.iptvcat.com/my_list/s/286f6c65c83d096ac85453eac95750d2.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492534",
+        "channel": "FOX SPORTS News HD",
+        "link": "https://list.iptvcat.com/my_list/s/b39f500fcccede334eab6d0d20f927ac.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2371479",
+        "channel": "Fox Sports 504 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/b48046317337e0041859b0a18581e021.m3u8",
+        "country": "australia",
+        "liveliness": "45",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51314",
+        "channel": "Fox Sports News",
+        "link": "https://list.iptvcat.com/my_list/s/1e05d6741ce1e9408f8f990f77f39f92.m3u8",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492536",
+        "channel": "Fuel TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/4b93d5cb92637117ef4a84d065398cc6.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492538",
+        "channel": "God TV Australia HD",
+        "link": "https://list.iptvcat.com/my_list/s/83e6e2c2306c8b629a4f8cef5418cffe.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "6134",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492544",
+        "channel": "Gusto TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/49db80797a42a0b623f6be78b6972766.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492547",
+        "channel": "Horse \u0026 Country TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/b8f80f51fe24f1e291896a2702bcc296.m3u8",
+        "country": "australia",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492549",
+        "channel": "Insight TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/8a6bfaadff7b6bebfff39a7c3ab4fb8c.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492551",
+        "channel": "Introuble TV FHD",
+        "link": "https://list.iptvcat.com/my_list/s/b721ac3ce6675984f3b0ce3aa3322f58.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492553",
+        "channel": "Inwild TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/6d0f074cd6fcb1e77306d5df4f811f63.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492559",
+        "channel": "Inwonder TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/b28aaf729216ed41be6e04decbe12368.m3u8",
+        "country": "australia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266216",
+        "channel": "JonmoBhumi TV (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/2ada24285b57d26e0eaa344eff1d0385.m3u8",
+        "country": "australia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492563",
+        "channel": "Juice TV FHD",
+        "link": "https://list.iptvcat.com/my_list/s/299d20b5f569c6ac05b8d8436d014fc2.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266217",
+        "channel": "M4TV Malayalam (1080p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/092e4bf7945051f6ce34e584651ae673.m3u8",
+        "country": "australia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492570",
+        "channel": "NITV HD",
+        "link": "https://list.iptvcat.com/my_list/s/6bf750439610fc853f89f475b143c9c3.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492578",
+        "channel": "Outdoor Channel FHD",
+        "link": "https://list.iptvcat.com/my_list/s/ec249bd98fa0afc9aaf9f73ea121071a.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492585",
+        "channel": "Pac 12 Network HD",
+        "link": "https://list.iptvcat.com/my_list/s/b02dbb39da3611b81a2d87bbb7a64f41.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492589",
+        "channel": "Racing com HD",
+        "link": "https://list.iptvcat.com/my_list/s/be29582ad269ff2b3827dab852801e18.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492591",
+        "channel": "Real Stories HD",
+        "link": "https://list.iptvcat.com/my_list/s/48ac9df3173a136854be3c1ab9390cff.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492597",
+        "channel": "Rialto FHD",
+        "link": "https://list.iptvcat.com/my_list/s/78b99a174bedfcc28e03f22b332927c2.m3u8",
+        "country": "australia",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492605",
+        "channel": "SBS Food HD",
+        "link": "https://list.iptvcat.com/my_list/s/8d6475696fe493cd05245d3ef90bb1a5.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492609",
+        "channel": "SBS HD",
+        "link": "https://list.iptvcat.com/my_list/s/25210c951137bdd4ab56da8aa61a7785.m3u8",
+        "country": "australia",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4825",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492611",
+        "channel": "SBS Viceland HD",
+        "link": "https://list.iptvcat.com/my_list/s/986c4a7c6a46274110072feced6d7156.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492612",
+        "channel": "SBS World Movies HD",
+        "link": "https://list.iptvcat.com/my_list/s/8aa2c9b5cbf3a06a1bbcbf73b9aab2e1.m3u8",
+        "country": "australia",
+        "liveliness": "67",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "144",
+        "channel": "Sky News Extra 1",
+        "link": "https://list.iptvcat.com/my_list/s/6a9911d619a36dd726c908e203b21cc8.m3u8",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492613",
+        "channel": "Sky News Extra 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/75b5874dfa6322f28d6f529ea383c85b.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492616",
+        "channel": "Sky News Extra 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/7f21bc799358dd83914fe55546aad59f.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "146",
+        "channel": "Sky News Extra 3",
+        "link": "https://list.iptvcat.com/my_list/s/f35e32d4c55144e80014b8badbddfbf6.m3u8",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492621",
+        "channel": "Sky News Extra 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/3e132f9c9466334541c5bf6553bc5bd7.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492625",
+        "channel": "Sky News FHD",
+        "link": "https://list.iptvcat.com/my_list/s/b5f4b3d0fd3057f3b26e4d1858164afe.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492636",
+        "channel": "Sky Racing 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/c1ba041febbeef333a435b1154efa416.m3u8",
+        "country": "australia",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "565",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266279",
+        "channel": "Sky Thoroughbred Central (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/1eaecc313d4529ad52aa0d811e125be9.m3u8",
+        "country": "australia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492647",
+        "channel": "Smithsonian Channel FHD",
+        "link": "https://list.iptvcat.com/my_list/s/2de9b466d8999c56e10cb355bf71d713.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492648",
+        "channel": "Snowy Mountains Television FHD",
+        "link": "https://list.iptvcat.com/my_list/s/ce412bb87efe8fc7fc73436fe2f0e377.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492650",
+        "channel": "TEN HD",
+        "link": "https://list.iptvcat.com/my_list/s/9fa6fac61bb3ea3e76d982a8f318683c.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1764",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693523",
+        "channel": "TVSN",
+        "link": "https://list.iptvcat.com/my_list/s/3bd7c9770d42b87af2c6d0d2514d9b03.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492658",
+        "channel": "TVSN HD",
+        "link": "https://list.iptvcat.com/my_list/s/5760de575f059c9f38ed441eef15566e.m3u8",
+        "country": "australia",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492654",
+        "channel": "Time Line Australia HD",
+        "link": "https://list.iptvcat.com/my_list/s/556634b3b623af2834b0d99005159cc5.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492661",
+        "channel": "VENN FHD",
+        "link": "https://list.iptvcat.com/my_list/s/c1e90e2d42b2c4fc6a8d0bdbcd3aa859.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492665",
+        "channel": "Wonder HD",
+        "link": "https://list.iptvcat.com/my_list/s/74443bd72195bd5fc9515ea9861ff2b7.m3u8",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1335001",
+        "channel": "ausbiz TV (720p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/46c954b16e6af5ae31ce253fe9083657.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2492431",
+        "channel": "ausbiz TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/a529521fd6916de3352a9b732edb1b57.m3u8",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
