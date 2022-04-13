@@ -6,7 +6,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -20,9 +20,9 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "sd",
-        "mbps": "2089, ...",
+        "mbps": "2089",
         "URI": [
             "austria_-_-_-_-_-_-_-_-"
         ]
@@ -34,7 +34,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -91,7 +91,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -105,7 +105,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -119,23 +119,9 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2478004",
-        "channel": "ORF 3",
-        "link": "https://list.iptvcat.com/my_list/s/09ccb84eb8a3e470d6e01f8f70c710a6.m3u8",
-        "country": "austria",
-        "liveliness": "19",
-        "status": "offline",
-        "lastChecked": "2022-04-12T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-_-"
         ]
@@ -147,23 +133,9 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2477996",
-        "channel": "Plus 4",
-        "link": "https://list.iptvcat.com/my_list/s/9edf2562c7b61c1bedffdfca89f594ac.m3u8",
-        "country": "austria",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2022-04-12T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_-"
         ]
@@ -175,7 +147,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -189,7 +161,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -203,7 +175,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -217,7 +189,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -231,7 +203,7 @@
         "country": "austria",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -245,7 +217,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -259,9 +231,9 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "sd",
-        "mbps": "2089, ...",
+        "mbps": "2089",
         "URI": [
             "austria_-_-_-_-_-_-_-_-"
         ]
@@ -273,7 +245,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -287,7 +259,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -301,7 +273,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -315,7 +287,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -330,7 +302,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -344,7 +316,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -358,23 +330,9 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2478004",
-        "channel": "ORF 3",
-        "link": "https://list.iptvcat.com/my_list/s/09ccb84eb8a3e470d6e01f8f70c710a6.m3u8",
-        "country": "austria",
-        "liveliness": "19",
-        "status": "offline",
-        "lastChecked": "2022-04-12T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-_-"
         ]
@@ -386,23 +344,9 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2477996",
-        "channel": "Plus 4",
-        "link": "https://list.iptvcat.com/my_list/s/9edf2562c7b61c1bedffdfca89f594ac.m3u8",
-        "country": "austria",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2022-04-12T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_-"
         ]
@@ -414,7 +358,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -428,7 +372,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -442,7 +386,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -456,7 +400,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -470,7 +414,7 @@
         "country": "austria",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -484,7 +428,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -499,7 +443,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-12T00:00:00Z",
+        "lastChecked": "2022-04-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
