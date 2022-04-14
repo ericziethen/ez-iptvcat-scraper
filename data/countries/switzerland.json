@@ -6,9 +6,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -20,7 +20,7 @@
         "country": "switzerland",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -32,9 +32,9 @@
         "channel": "4+ FHD",
         "link": "https://list.iptvcat.com/my_list/s/0b1e628d1420c98b11d4d4ebda454785.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -46,11 +46,11 @@
         "channel": "5+ HD",
         "link": "https://list.iptvcat.com/my_list/s/0f5944bacef41a421874d5aaa255fd7d.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -60,9 +60,9 @@
         "channel": "6+ FHD",
         "link": "https://list.iptvcat.com/my_list/s/fe8a95ae6b0f370900c13ec10388cc47.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -74,11 +74,11 @@
         "channel": "ANIMAL PLANET FHD",
         "link": "https://list.iptvcat.com/my_list/s/7804c755f931186c97cfc915960f1237.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13873",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -88,11 +88,11 @@
         "channel": "Blue Action FHD",
         "link": "https://list.iptvcat.com/my_list/s/7019eb59dce3f42a4392efd8e60a989f.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -102,9 +102,9 @@
         "channel": "Blue Prime FHD",
         "link": "https://list.iptvcat.com/my_list/s/8fedf939880e5c0a496fb1d50f9acf71.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -130,9 +130,9 @@
         "channel": "Blue Sport 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/707756ff4fe59e58a28cb4c310289178.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -144,11 +144,11 @@
         "channel": "Blue Sport Event 1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/6fae42348d827b1a298d2f26b4e0b29e.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -160,7 +160,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -216,7 +216,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -228,9 +228,9 @@
         "channel": "Blue Stars FHD",
         "link": "https://list.iptvcat.com/my_list/s/6aa2a63fbc56007b4b392cac7d554014.m3u8",
         "country": "switzerland",
-        "liveliness": "82",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -242,9 +242,9 @@
         "channel": "Blue Zoom D HD",
         "link": "https://list.iptvcat.com/my_list/s/f9c4958cb04ad8577f5dec0204a7ad75.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -258,7 +258,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -272,7 +272,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -286,7 +286,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -299,8 +299,8 @@
         "link": "https://list.iptvcat.com/my_list/s/748acf13bf83b7f8d59a05554fc21258.m3u8",
         "country": "switzerland",
         "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "1487, ...",
         "URI": [
@@ -312,9 +312,9 @@
         "channel": "Canal Alpha Jura FHD",
         "link": "https://list.iptvcat.com/my_list/s/e8c0e353d00ce2293877a127b681c092.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -326,9 +326,9 @@
         "channel": "Canal Alpha Lundi FHD",
         "link": "https://list.iptvcat.com/my_list/s/4d1d1ed029d378f505f3778be4f7438b.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -342,7 +342,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -354,11 +354,11 @@
         "channel": "Comedy Central HD",
         "link": "https://list.iptvcat.com/my_list/s/e357c66b7d8583c987c777d87b060ad9.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -370,7 +370,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -384,7 +384,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -396,9 +396,9 @@
         "channel": "Die Neue Zeit TV HD",
         "link": "https://list.iptvcat.com/my_list/s/b8e8c823ecd54215717d61c75a13b666.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -410,9 +410,9 @@
         "channel": "Discovery World HD",
         "link": "https://list.iptvcat.com/my_list/s/646115b53c021a4b463308ca4824c5ab.m3u8",
         "country": "switzerland",
-        "liveliness": "75",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -424,11 +424,11 @@
         "channel": "Disney Channel HD",
         "link": "https://list.iptvcat.com/my_list/s/22f3502fcd5bd610d9b8549bc6181b17.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -438,11 +438,11 @@
         "channel": "EUROSPORT 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/becbddd31a88593ee5cf46d9dc4e4027.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -452,11 +452,11 @@
         "channel": "Kanal 5 HD",
         "link": "https://list.iptvcat.com/my_list/s/cd6a4d0b2a49ebcd2af84cdd31b45535.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -466,9 +466,9 @@
         "channel": "Kanal 9 (FR) FHD",
         "link": "https://list.iptvcat.com/my_list/s/bf3129f8b4632dda90f96df4e69f1660.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -480,11 +480,11 @@
         "channel": "Kanal 9 FHD",
         "link": "https://list.iptvcat.com/my_list/s/8912c7e0047abe3543bfc4c3f2aa44f7.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -495,8 +495,8 @@
         "link": "https://list.iptvcat.com/my_list/s/8f066b759b3308d305b38a03a36df3bb.m3u8",
         "country": "switzerland",
         "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "7986, ...",
         "URI": [
@@ -510,7 +510,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "7986, ...",
         "URI": [
@@ -524,7 +524,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -538,7 +538,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -550,9 +550,9 @@
         "channel": "LA TELE FHD",
         "link": "https://list.iptvcat.com/my_list/s/88f762e1a44756183fa4190b82569a74.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "93",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -566,7 +566,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -580,9 +580,9 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -593,8 +593,8 @@
         "link": "https://list.iptvcat.com/my_list/s/8f02f82ab53931c7974043d379263661.m3u8",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -606,9 +606,9 @@
         "channel": "LFM TV HD",
         "link": "https://list.iptvcat.com/my_list/s/5b7f9f4a64b03e5131abd06d7884a569.m3u8",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -622,7 +622,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -636,7 +636,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -649,8 +649,8 @@
         "link": "https://list.iptvcat.com/my_list/s/d4fe447b5e05d8c15ab1723a6277eff9.m3u8",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -664,7 +664,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -678,7 +678,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -692,7 +692,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -706,7 +706,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -718,9 +718,9 @@
         "channel": "MySports 2 FHD",
         "link": "https://list.iptvcat.com/my_list/s/3459912f27ec482679311d63155814bc.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -734,7 +734,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -746,9 +746,9 @@
         "channel": "MySports 4 FHD",
         "link": "https://list.iptvcat.com/my_list/s/9dcccc66c9220c1abc6f8185740d9e46.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -762,7 +762,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -774,9 +774,9 @@
         "channel": "MySports 5 FHD",
         "link": "https://list.iptvcat.com/my_list/s/e08f261781f7e460d6116833ee0d7d3f.m3u8",
         "country": "switzerland",
-        "liveliness": "87",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -790,7 +790,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -802,9 +802,9 @@
         "channel": "MySports 6 FHD",
         "link": "https://list.iptvcat.com/my_list/s/b505242f0180e5d18dc3fa92d093b387.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -818,7 +818,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -832,7 +832,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -846,7 +846,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -860,7 +860,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -874,7 +874,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -886,9 +886,9 @@
         "channel": "MySports 9 FHD",
         "link": "https://list.iptvcat.com/my_list/s/79a40c1aca424f72a3b58c36a227776f.m3u8",
         "country": "switzerland",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -902,7 +902,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -916,7 +916,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -930,9 +930,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -942,9 +942,9 @@
         "channel": "NAT GEO Wild FHD",
         "link": "https://list.iptvcat.com/my_list/s/9c35bf2b7890601f7572ed4d6cfcf2a0.m3u8",
         "country": "switzerland",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -956,9 +956,9 @@
         "channel": "Nick Junior HD",
         "link": "https://list.iptvcat.com/my_list/s/b8ae508c1f6747649b85b36d0fa4e417.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -972,7 +972,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -986,7 +986,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1000,7 +1000,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1014,7 +1014,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1028,7 +1028,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -1040,9 +1040,9 @@
         "channel": "Puls Acht FHD",
         "link": "https://list.iptvcat.com/my_list/s/477c102117c077fcdd162ecdb9cc549b.m3u8",
         "country": "switzerland",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1056,9 +1056,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -1068,11 +1068,11 @@
         "channel": "RSI La 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/b5cdd7ecb3278c400bb0348142b9517d.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -1082,9 +1082,9 @@
         "channel": "RTL FHD",
         "link": "https://list.iptvcat.com/my_list/s/d732585220ac0bbc26cca4723ed86da2.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1096,11 +1096,11 @@
         "channel": "RTS 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/86a6a585fa61cfad5a0038ee6b0cd6e4.m3u8",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -1110,9 +1110,9 @@
         "channel": "RTS 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/f62e2e3da319852d5eefdd10601be552.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1126,7 +1126,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1139,8 +1139,8 @@
         "link": "https://list.iptvcat.com/my_list/s/248dc364f4208082a128f707aed488e4.m3u8",
         "country": "switzerland",
         "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1154,7 +1154,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1168,7 +1168,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1180,9 +1180,9 @@
         "channel": "Radio Pilatus FHD",
         "link": "https://list.iptvcat.com/my_list/s/60ddf8226e165a71690d0b5f6c82274c.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1196,7 +1196,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1210,7 +1210,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1224,7 +1224,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1238,7 +1238,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1251,8 +1251,8 @@
         "link": "https://list.iptvcat.com/my_list/s/624c91a08bc19ee66ff2543930d4cba3.m3u8",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1266,7 +1266,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1278,9 +1278,9 @@
         "channel": "S1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/1d04323960c04a06ed17b9d499f93440.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1294,7 +1294,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1306,11 +1306,11 @@
         "channel": "SKY ATLANTIC FHD",
         "link": "https://list.iptvcat.com/my_list/s/416abda95865f912c6ec1339ec89e4ab.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -1322,23 +1322,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2447383",
-        "channel": "SRF 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/7d63b09c72b09a31e988bda22dbe5466.m3u8",
-        "country": "switzerland",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -1348,11 +1334,11 @@
         "channel": "SRF 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/4c2009d2c552123807ad810154a8d971.m3u8",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "52",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -1364,23 +1350,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2447384",
-        "channel": "SRF 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/25d8d74866fe229ef2fcfd9146ae5d04.m3u8",
-        "country": "switzerland",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -1392,1407 +1364,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495628",
-        "channel": "3+ FHD",
-        "link": "https://list.iptvcat.com/my_list/s/9d1faea9de92628f578866dd02111565.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113745",
-        "channel": "3+ HD",
-        "link": "https://list.iptvcat.com/my_list/s/b86e59099a4dc301e26cadeebaf744e1.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495632",
-        "channel": "4+ FHD",
-        "link": "https://list.iptvcat.com/my_list/s/0b1e628d1420c98b11d4d4ebda454785.m3u8",
-        "country": "switzerland",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495636",
-        "channel": "5+ HD",
-        "link": "https://list.iptvcat.com/my_list/s/0f5944bacef41a421874d5aaa255fd7d.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495637",
-        "channel": "6+ FHD",
-        "link": "https://list.iptvcat.com/my_list/s/fe8a95ae6b0f370900c13ec10388cc47.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495638",
-        "channel": "ANIMAL PLANET FHD",
-        "link": "https://list.iptvcat.com/my_list/s/7804c755f931186c97cfc915960f1237.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495639",
-        "channel": "Blue Action FHD",
-        "link": "https://list.iptvcat.com/my_list/s/7019eb59dce3f42a4392efd8e60a989f.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495642",
-        "channel": "Blue Prime FHD",
-        "link": "https://list.iptvcat.com/my_list/s/8fedf939880e5c0a496fb1d50f9acf71.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495647",
-        "channel": "Blue Sport 1 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/f411ab9113d499051567b3e026a00638.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495650",
-        "channel": "Blue Sport 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/707756ff4fe59e58a28cb4c310289178.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495656",
-        "channel": "Blue Sport Event 1 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/6fae42348d827b1a298d2f26b4e0b29e.m3u8",
-        "country": "switzerland",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495664",
-        "channel": "Blue Sport Event 2 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/b65d834dd5e8c661ed633904a09cebfb.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113773",
-        "channel": "Blue Sport Event 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/2598ec04134602e1d4ff35f1f1052928.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113774",
-        "channel": "Blue Sport Event 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/827d70afb8eddac6d07ce1b65001fb50.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113775",
-        "channel": "Blue Sport Event 4 HD",
-        "link": "https://list.iptvcat.com/my_list/s/01c69b2369ce213124825253537b1351.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113776",
-        "channel": "Blue Sport Event 5 HD",
-        "link": "https://list.iptvcat.com/my_list/s/1874ba5c00241e98e8b66bab9b7a7d77.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495673",
-        "channel": "Blue Stars FHD",
-        "link": "https://list.iptvcat.com/my_list/s/6aa2a63fbc56007b4b392cac7d554014.m3u8",
-        "country": "switzerland",
-        "liveliness": "82",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495674",
-        "channel": "Blue Zoom D HD",
-        "link": "https://list.iptvcat.com/my_list/s/f9c4958cb04ad8577f5dec0204a7ad75.m3u8",
-        "country": "switzerland",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "10621",
-        "channel": "CH | TVM3, TVM3",
-        "link": "https://list.iptvcat.com/my_list/s/4ca1e021fb7ff90ddc4b75280a34e9a8.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2772",
-        "channel": "Canal Alpha Jura",
-        "link": "https://list.iptvcat.com/my_list/s/139ea211ebbd5f5faeb59f55cc209740.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "133237",
-        "channel": "Canal Alpha Jura",
-        "link": "https://list.iptvcat.com/my_list/s/ae9aaac092646558ab2e58569fcab6c6.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266745",
-        "channel": "Canal Alpha Jura (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/748acf13bf83b7f8d59a05554fc21258.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "1487, ...",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495682",
-        "channel": "Canal Alpha Jura FHD",
-        "link": "https://list.iptvcat.com/my_list/s/e8c0e353d00ce2293877a127b681c092.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495686",
-        "channel": "Canal Alpha Lundi FHD",
-        "link": "https://list.iptvcat.com/my_list/s/4d1d1ed029d378f505f3778be4f7438b.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266746",
-        "channel": "Canal Alpha Neuchatel (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/978f9507c89c3e9ce6e54b775f6c77d3.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495688",
-        "channel": "Comedy Central HD",
-        "link": "https://list.iptvcat.com/my_list/s/e357c66b7d8583c987c777d87b060ad9.m3u8",
-        "country": "switzerland",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2773",
-        "channel": "Die Neue Zeit",
-        "link": "https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2369",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266747",
-        "channel": "Die Neue Zeit (576p)",
-        "link": "https://list.iptvcat.com/my_list/s/95ebb1a7e8de27b7890ad80586038f55.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495690",
-        "channel": "Die Neue Zeit TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/b8e8c823ecd54215717d61c75a13b666.m3u8",
-        "country": "switzerland",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2369",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495692",
-        "channel": "Discovery World HD",
-        "link": "https://list.iptvcat.com/my_list/s/646115b53c021a4b463308ca4824c5ab.m3u8",
-        "country": "switzerland",
-        "liveliness": "75",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495693",
-        "channel": "Disney Channel HD",
-        "link": "https://list.iptvcat.com/my_list/s/22f3502fcd5bd610d9b8549bc6181b17.m3u8",
-        "country": "switzerland",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495697",
-        "channel": "EUROSPORT 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/becbddd31a88593ee5cf46d9dc4e4027.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495702",
-        "channel": "Kanal 5 HD",
-        "link": "https://list.iptvcat.com/my_list/s/cd6a4d0b2a49ebcd2af84cdd31b45535.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495712",
-        "channel": "Kanal 9 (FR) FHD",
-        "link": "https://list.iptvcat.com/my_list/s/bf3129f8b4632dda90f96df4e69f1660.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495724",
-        "channel": "Kanal 9 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/8912c7e0047abe3543bfc4c3f2aa44f7.m3u8",
-        "country": "switzerland",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266748",
-        "channel": "Kanal 9 auf Deutsch (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/8f066b759b3308d305b38a03a36df3bb.m3u8",
-        "country": "switzerland",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "7986, ...",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266749",
-        "channel": "Kanal 9 auf Deutsch (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/d1c01c0266df207bef210ba1432342d2.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "7986, ...",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266750",
-        "channel": "Kanal 9 en Français (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ca6014b04d981c3132da356f844f3877.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266753",
-        "channel": "Kanal 9 en Français (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/bdc3bd2cc9783d79c8a72f4f21e86901.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495732",
-        "channel": "LA TELE FHD",
-        "link": "https://list.iptvcat.com/my_list/s/88f762e1a44756183fa4190b82569a74.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266755",
-        "channel": "LFM TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/968d7777d13f3173fa1e224db4edc33d.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266756",
-        "channel": "LFM TV (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/fd55a39bac711f3236ee57dee6df04cc.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266757",
-        "channel": "LFM TV (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/8f02f82ab53931c7974043d379263661.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495738",
-        "channel": "LFM TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/5b7f9f4a64b03e5131abd06d7884a569.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "14120",
-        "channel": "La Tele",
-        "link": "https://list.iptvcat.com/my_list/s/42e633925d7b0da08921a718027efc96.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "14121",
-        "channel": "La Tele",
-        "link": "https://list.iptvcat.com/my_list/s/0fecaacba5d16cdf6bb20b34b9b29be6.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "133238",
-        "channel": "La Tele",
-        "link": "https://list.iptvcat.com/my_list/s/d4fe447b5e05d8c15ab1723a6277eff9.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266754",
-        "channel": "La Télé (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/d100e495a1d2a357d72731d8bc3921d3.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495740",
-        "channel": "Meteonews FHD",
-        "link": "https://list.iptvcat.com/my_list/s/aaea4259ea9e73416503febc6ec5a198.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495742",
-        "channel": "MySports 1 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/2973d97cf4e1e610bf22aacae851bfe6.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113754",
-        "channel": "MySports 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/047db92f3eceb31c581688289c3fd28e.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495748",
-        "channel": "MySports 2 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/3459912f27ec482679311d63155814bc.m3u8",
-        "country": "switzerland",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113755",
-        "channel": "MySports 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/88c5e3bdebf99dcd4e3048a95c6f657c.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495754",
-        "channel": "MySports 4 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/9dcccc66c9220c1abc6f8185740d9e46.m3u8",
-        "country": "switzerland",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113757",
-        "channel": "MySports 4 HD",
-        "link": "https://list.iptvcat.com/my_list/s/1e2c9d5f85906d7703db2164c3352a69.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495758",
-        "channel": "MySports 5 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/e08f261781f7e460d6116833ee0d7d3f.m3u8",
-        "country": "switzerland",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113758",
-        "channel": "MySports 5 HD",
-        "link": "https://list.iptvcat.com/my_list/s/0c2a6933372a991de42d3a2996f21a11.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495762",
-        "channel": "MySports 6 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/b505242f0180e5d18dc3fa92d093b387.m3u8",
-        "country": "switzerland",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113759",
-        "channel": "MySports 6 HD",
-        "link": "https://list.iptvcat.com/my_list/s/474aa44dd0864e4328279583357e7ca0.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495766",
-        "channel": "MySports 7 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/818917178a8a4436f2cac1cf46626fa4.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113760",
-        "channel": "MySports 7 HD",
-        "link": "https://list.iptvcat.com/my_list/s/b9c7da366c0169866b818d310a616405.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495772",
-        "channel": "MySports 8 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/8a646a3d9a25fd55a5b37b697774cdd8.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113761",
-        "channel": "MySports 8 HD",
-        "link": "https://list.iptvcat.com/my_list/s/9b735302488958fdbc1707870e47257d.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495776",
-        "channel": "MySports 9 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/79a40c1aca424f72a3b58c36a227776f.m3u8",
-        "country": "switzerland",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113763",
-        "channel": "MySports 9 HD",
-        "link": "https://list.iptvcat.com/my_list/s/c058039c9108dfe2fb987b0d9a7387cc.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113756",
-        "channel": "Mysports 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/0831d1bebc3b653063217b3920e33b72.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495778",
-        "channel": "NAT GEO HD",
-        "link": "https://list.iptvcat.com/my_list/s/e290557b0cd51cb3091b939e2c616502.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495804",
-        "channel": "NAT GEO Wild FHD",
-        "link": "https://list.iptvcat.com/my_list/s/9c35bf2b7890601f7572ed4d6cfcf2a0.m3u8",
-        "country": "switzerland",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495810",
-        "channel": "Nick Junior HD",
-        "link": "https://list.iptvcat.com/my_list/s/b8ae508c1f6747649b85b36d0fa4e417.m3u8",
-        "country": "switzerland",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2491486",
-        "channel": "NourSat",
-        "link": "https://list.iptvcat.com/my_list/s/eb5e7996ea856fc9a6ce2ebb296d9d60.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2491487",
-        "channel": "Noursat Alchabab",
-        "link": "https://list.iptvcat.com/my_list/s/c48cb4f60fe0717ad46bce2b28964013.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266758",
-        "channel": "One TV (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/cd47432294fdb49f979eff63fa122d52.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495846",
-        "channel": "One TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/723a4ac157167e66a1def6713091516c.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113750",
-        "channel": "Puls 8 HD",
-        "link": "https://list.iptvcat.com/my_list/s/d591f9e77818fd5ad512065920e984a1.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495852",
-        "channel": "Puls Acht FHD",
-        "link": "https://list.iptvcat.com/my_list/s/477c102117c077fcdd162ecdb9cc549b.m3u8",
-        "country": "switzerland",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495866",
-        "channel": "RSI La 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/5164a5acb10e7f31605e0791121053a2.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495868",
-        "channel": "RSI La 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/b5cdd7ecb3278c400bb0348142b9517d.m3u8",
-        "country": "switzerland",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495890",
-        "channel": "RTL FHD",
-        "link": "https://list.iptvcat.com/my_list/s/d732585220ac0bbc26cca4723ed86da2.m3u8",
-        "country": "switzerland",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495897",
-        "channel": "RTS 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/86a6a585fa61cfad5a0038ee6b0cd6e4.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495904",
-        "channel": "RTS 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/f62e2e3da319852d5eefdd10601be552.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495910",
-        "channel": "RTS Couleur 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/58f61519b5a5925caf54fb12382930f4.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2496079",
-        "channel": "RTS UN HD",
-        "link": "https://list.iptvcat.com/my_list/s/248dc364f4208082a128f707aed488e4.m3u8",
-        "country": "switzerland",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693988",
-        "channel": "Radio 3i (Webradio)",
-        "link": "https://list.iptvcat.com/my_list/s/812912bfcd3317332df7c820acbd8a2d.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266760",
-        "channel": "Radio Pilatus (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/79c936f1ee73414649b966596a8efcf8.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495856",
-        "channel": "Radio Pilatus FHD",
-        "link": "https://list.iptvcat.com/my_list/s/60ddf8226e165a71690d0b5f6c82274c.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2779",
-        "channel": "Radio Pilatus TV",
-        "link": "https://list.iptvcat.com/my_list/s/a5626d83c8814ec24d2e9d41f4694af0.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2266762",
-        "channel": "Radio Pilatus TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/717f3ada4dad33febdd8a34843902c7d.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2780",
-        "channel": "Rouge TV",
-        "link": "https://list.iptvcat.com/my_list/s/526a98440165934aa484d984f0ca2725.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "133240",
-        "channel": "Rouge TV",
-        "link": "https://list.iptvcat.com/my_list/s/1689793c4d431d128ea0b7e0080a662f.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "5776",
-        "channel": "Rouge TV (Opt-2)",
-        "link": "https://list.iptvcat.com/my_list/s/624c91a08bc19ee66ff2543930d4cba3.m3u8",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495862",
-        "channel": "Rouge TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/926713880b1c7b4041e854fcb20d3e3b.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495918",
-        "channel": "S1 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/1d04323960c04a06ed17b9d499f93440.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2491485",
-        "channel": "SAT 7 ARABIC",
-        "link": "https://list.iptvcat.com/my_list/s/c2e745f99d934d40c7b712d4d53e2984.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495924",
-        "channel": "SKY ATLANTIC FHD",
-        "link": "https://list.iptvcat.com/my_list/s/416abda95865f912c6ec1339ec89e4ab.m3u8",
-        "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113764",
-        "channel": "SRF 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/e8289db24242d2f7d8db13b70ff48690.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2447383",
-        "channel": "SRF 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/7d63b09c72b09a31e988bda22dbe5466.m3u8",
-        "country": "switzerland",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2495930",
-        "channel": "SRF 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/4c2009d2c552123807ad810154a8d971.m3u8",
-        "country": "switzerland",
-        "liveliness": "56",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113765",
-        "channel": "SRF 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/2ea52c4a11f4d26bf8c62647e1e9dbf2.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2447384",
-        "channel": "SRF 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/25d8d74866fe229ef2fcfd9146ae5d04.m3u8",
-        "country": "switzerland",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113752",
-        "channel": "SRF Info HD",
-        "link": "https://list.iptvcat.com/my_list/s/00898e9551565a8a1fcbbf67bba6cafa.m3u8",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2804,13 +1376,13 @@
         "channel": "SRF Info HD",
         "link": "https://list.iptvcat.com/my_list/s/82d1c4cd746b7c7feb18e002904b5c40.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "switzerland"
+            "switzerland_-_-_-_-_"
         ]
     },
     {
@@ -2818,13 +1390,1413 @@
         "channel": "SRF Sport HD",
         "link": "https://list.iptvcat.com/my_list/s/8ac08158bc4b293a5443030a074aeb5d.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "switzerland"
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495628",
+        "channel": "3+ FHD",
+        "link": "https://list.iptvcat.com/my_list/s/9d1faea9de92628f578866dd02111565.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113745",
+        "channel": "3+ HD",
+        "link": "https://list.iptvcat.com/my_list/s/b86e59099a4dc301e26cadeebaf744e1.m3u8",
+        "country": "switzerland",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495632",
+        "channel": "4+ FHD",
+        "link": "https://list.iptvcat.com/my_list/s/0b1e628d1420c98b11d4d4ebda454785.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495636",
+        "channel": "5+ HD",
+        "link": "https://list.iptvcat.com/my_list/s/0f5944bacef41a421874d5aaa255fd7d.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495637",
+        "channel": "6+ FHD",
+        "link": "https://list.iptvcat.com/my_list/s/fe8a95ae6b0f370900c13ec10388cc47.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495638",
+        "channel": "ANIMAL PLANET FHD",
+        "link": "https://list.iptvcat.com/my_list/s/7804c755f931186c97cfc915960f1237.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495639",
+        "channel": "Blue Action FHD",
+        "link": "https://list.iptvcat.com/my_list/s/7019eb59dce3f42a4392efd8e60a989f.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495642",
+        "channel": "Blue Prime FHD",
+        "link": "https://list.iptvcat.com/my_list/s/8fedf939880e5c0a496fb1d50f9acf71.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495647",
+        "channel": "Blue Sport 1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/f411ab9113d499051567b3e026a00638.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495650",
+        "channel": "Blue Sport 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/707756ff4fe59e58a28cb4c310289178.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495656",
+        "channel": "Blue Sport Event 1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/6fae42348d827b1a298d2f26b4e0b29e.m3u8",
+        "country": "switzerland",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495664",
+        "channel": "Blue Sport Event 2 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/b65d834dd5e8c661ed633904a09cebfb.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113773",
+        "channel": "Blue Sport Event 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/2598ec04134602e1d4ff35f1f1052928.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113774",
+        "channel": "Blue Sport Event 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/827d70afb8eddac6d07ce1b65001fb50.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113775",
+        "channel": "Blue Sport Event 4 HD",
+        "link": "https://list.iptvcat.com/my_list/s/01c69b2369ce213124825253537b1351.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113776",
+        "channel": "Blue Sport Event 5 HD",
+        "link": "https://list.iptvcat.com/my_list/s/1874ba5c00241e98e8b66bab9b7a7d77.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495673",
+        "channel": "Blue Stars FHD",
+        "link": "https://list.iptvcat.com/my_list/s/6aa2a63fbc56007b4b392cac7d554014.m3u8",
+        "country": "switzerland",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495674",
+        "channel": "Blue Zoom D HD",
+        "link": "https://list.iptvcat.com/my_list/s/f9c4958cb04ad8577f5dec0204a7ad75.m3u8",
+        "country": "switzerland",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "10621",
+        "channel": "CH | TVM3, TVM3",
+        "link": "https://list.iptvcat.com/my_list/s/4ca1e021fb7ff90ddc4b75280a34e9a8.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2772",
+        "channel": "Canal Alpha Jura",
+        "link": "https://list.iptvcat.com/my_list/s/139ea211ebbd5f5faeb59f55cc209740.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "133237",
+        "channel": "Canal Alpha Jura",
+        "link": "https://list.iptvcat.com/my_list/s/ae9aaac092646558ab2e58569fcab6c6.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266745",
+        "channel": "Canal Alpha Jura (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/748acf13bf83b7f8d59a05554fc21258.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "1487, ...",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495682",
+        "channel": "Canal Alpha Jura FHD",
+        "link": "https://list.iptvcat.com/my_list/s/e8c0e353d00ce2293877a127b681c092.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495686",
+        "channel": "Canal Alpha Lundi FHD",
+        "link": "https://list.iptvcat.com/my_list/s/4d1d1ed029d378f505f3778be4f7438b.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266746",
+        "channel": "Canal Alpha Neuchatel (1080p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/978f9507c89c3e9ce6e54b775f6c77d3.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495688",
+        "channel": "Comedy Central HD",
+        "link": "https://list.iptvcat.com/my_list/s/e357c66b7d8583c987c777d87b060ad9.m3u8",
+        "country": "switzerland",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2773",
+        "channel": "Die Neue Zeit",
+        "link": "https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266747",
+        "channel": "Die Neue Zeit (576p)",
+        "link": "https://list.iptvcat.com/my_list/s/95ebb1a7e8de27b7890ad80586038f55.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495690",
+        "channel": "Die Neue Zeit TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/b8e8c823ecd54215717d61c75a13b666.m3u8",
+        "country": "switzerland",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495692",
+        "channel": "Discovery World HD",
+        "link": "https://list.iptvcat.com/my_list/s/646115b53c021a4b463308ca4824c5ab.m3u8",
+        "country": "switzerland",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495693",
+        "channel": "Disney Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/22f3502fcd5bd610d9b8549bc6181b17.m3u8",
+        "country": "switzerland",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495697",
+        "channel": "EUROSPORT 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/becbddd31a88593ee5cf46d9dc4e4027.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495702",
+        "channel": "Kanal 5 HD",
+        "link": "https://list.iptvcat.com/my_list/s/cd6a4d0b2a49ebcd2af84cdd31b45535.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495712",
+        "channel": "Kanal 9 (FR) FHD",
+        "link": "https://list.iptvcat.com/my_list/s/bf3129f8b4632dda90f96df4e69f1660.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495724",
+        "channel": "Kanal 9 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/8912c7e0047abe3543bfc4c3f2aa44f7.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266748",
+        "channel": "Kanal 9 auf Deutsch (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/8f066b759b3308d305b38a03a36df3bb.m3u8",
+        "country": "switzerland",
+        "liveliness": "98",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "7986, ...",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266749",
+        "channel": "Kanal 9 auf Deutsch (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/d1c01c0266df207bef210ba1432342d2.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "7986, ...",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266750",
+        "channel": "Kanal 9 en Français (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/ca6014b04d981c3132da356f844f3877.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266753",
+        "channel": "Kanal 9 en Français (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/bdc3bd2cc9783d79c8a72f4f21e86901.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495732",
+        "channel": "LA TELE FHD",
+        "link": "https://list.iptvcat.com/my_list/s/88f762e1a44756183fa4190b82569a74.m3u8",
+        "country": "switzerland",
+        "liveliness": "93",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266755",
+        "channel": "LFM TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/968d7777d13f3173fa1e224db4edc33d.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266756",
+        "channel": "LFM TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/fd55a39bac711f3236ee57dee6df04cc.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266757",
+        "channel": "LFM TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/8f02f82ab53931c7974043d379263661.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495738",
+        "channel": "LFM TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/5b7f9f4a64b03e5131abd06d7884a569.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "14120",
+        "channel": "La Tele",
+        "link": "https://list.iptvcat.com/my_list/s/42e633925d7b0da08921a718027efc96.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "14121",
+        "channel": "La Tele",
+        "link": "https://list.iptvcat.com/my_list/s/0fecaacba5d16cdf6bb20b34b9b29be6.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "133238",
+        "channel": "La Tele",
+        "link": "https://list.iptvcat.com/my_list/s/d4fe447b5e05d8c15ab1723a6277eff9.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266754",
+        "channel": "La Télé (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/d100e495a1d2a357d72731d8bc3921d3.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495740",
+        "channel": "Meteonews FHD",
+        "link": "https://list.iptvcat.com/my_list/s/aaea4259ea9e73416503febc6ec5a198.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495742",
+        "channel": "MySports 1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/2973d97cf4e1e610bf22aacae851bfe6.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113754",
+        "channel": "MySports 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/047db92f3eceb31c581688289c3fd28e.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495748",
+        "channel": "MySports 2 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/3459912f27ec482679311d63155814bc.m3u8",
+        "country": "switzerland",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113755",
+        "channel": "MySports 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/88c5e3bdebf99dcd4e3048a95c6f657c.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495754",
+        "channel": "MySports 4 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/9dcccc66c9220c1abc6f8185740d9e46.m3u8",
+        "country": "switzerland",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113757",
+        "channel": "MySports 4 HD",
+        "link": "https://list.iptvcat.com/my_list/s/1e2c9d5f85906d7703db2164c3352a69.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495758",
+        "channel": "MySports 5 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/e08f261781f7e460d6116833ee0d7d3f.m3u8",
+        "country": "switzerland",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113758",
+        "channel": "MySports 5 HD",
+        "link": "https://list.iptvcat.com/my_list/s/0c2a6933372a991de42d3a2996f21a11.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495762",
+        "channel": "MySports 6 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/b505242f0180e5d18dc3fa92d093b387.m3u8",
+        "country": "switzerland",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113759",
+        "channel": "MySports 6 HD",
+        "link": "https://list.iptvcat.com/my_list/s/474aa44dd0864e4328279583357e7ca0.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495766",
+        "channel": "MySports 7 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/818917178a8a4436f2cac1cf46626fa4.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113760",
+        "channel": "MySports 7 HD",
+        "link": "https://list.iptvcat.com/my_list/s/b9c7da366c0169866b818d310a616405.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495772",
+        "channel": "MySports 8 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/8a646a3d9a25fd55a5b37b697774cdd8.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113761",
+        "channel": "MySports 8 HD",
+        "link": "https://list.iptvcat.com/my_list/s/9b735302488958fdbc1707870e47257d.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495776",
+        "channel": "MySports 9 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/79a40c1aca424f72a3b58c36a227776f.m3u8",
+        "country": "switzerland",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113763",
+        "channel": "MySports 9 HD",
+        "link": "https://list.iptvcat.com/my_list/s/c058039c9108dfe2fb987b0d9a7387cc.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113756",
+        "channel": "Mysports 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/0831d1bebc3b653063217b3920e33b72.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495778",
+        "channel": "NAT GEO HD",
+        "link": "https://list.iptvcat.com/my_list/s/e290557b0cd51cb3091b939e2c616502.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495804",
+        "channel": "NAT GEO Wild FHD",
+        "link": "https://list.iptvcat.com/my_list/s/9c35bf2b7890601f7572ed4d6cfcf2a0.m3u8",
+        "country": "switzerland",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495810",
+        "channel": "Nick Junior HD",
+        "link": "https://list.iptvcat.com/my_list/s/b8ae508c1f6747649b85b36d0fa4e417.m3u8",
+        "country": "switzerland",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2491486",
+        "channel": "NourSat",
+        "link": "https://list.iptvcat.com/my_list/s/eb5e7996ea856fc9a6ce2ebb296d9d60.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2491487",
+        "channel": "Noursat Alchabab",
+        "link": "https://list.iptvcat.com/my_list/s/c48cb4f60fe0717ad46bce2b28964013.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266758",
+        "channel": "One TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/cd47432294fdb49f979eff63fa122d52.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495846",
+        "channel": "One TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/723a4ac157167e66a1def6713091516c.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113750",
+        "channel": "Puls 8 HD",
+        "link": "https://list.iptvcat.com/my_list/s/d591f9e77818fd5ad512065920e984a1.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495852",
+        "channel": "Puls Acht FHD",
+        "link": "https://list.iptvcat.com/my_list/s/477c102117c077fcdd162ecdb9cc549b.m3u8",
+        "country": "switzerland",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495866",
+        "channel": "RSI La 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/5164a5acb10e7f31605e0791121053a2.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495868",
+        "channel": "RSI La 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/b5cdd7ecb3278c400bb0348142b9517d.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495890",
+        "channel": "RTL FHD",
+        "link": "https://list.iptvcat.com/my_list/s/d732585220ac0bbc26cca4723ed86da2.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495897",
+        "channel": "RTS 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/86a6a585fa61cfad5a0038ee6b0cd6e4.m3u8",
+        "country": "switzerland",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495904",
+        "channel": "RTS 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/f62e2e3da319852d5eefdd10601be552.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495910",
+        "channel": "RTS Couleur 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/58f61519b5a5925caf54fb12382930f4.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2496079",
+        "channel": "RTS UN HD",
+        "link": "https://list.iptvcat.com/my_list/s/248dc364f4208082a128f707aed488e4.m3u8",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693988",
+        "channel": "Radio 3i (Webradio)",
+        "link": "https://list.iptvcat.com/my_list/s/812912bfcd3317332df7c820acbd8a2d.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266760",
+        "channel": "Radio Pilatus (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/79c936f1ee73414649b966596a8efcf8.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495856",
+        "channel": "Radio Pilatus FHD",
+        "link": "https://list.iptvcat.com/my_list/s/60ddf8226e165a71690d0b5f6c82274c.m3u8",
+        "country": "switzerland",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2779",
+        "channel": "Radio Pilatus TV",
+        "link": "https://list.iptvcat.com/my_list/s/a5626d83c8814ec24d2e9d41f4694af0.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266762",
+        "channel": "Radio Pilatus TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/717f3ada4dad33febdd8a34843902c7d.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2780",
+        "channel": "Rouge TV",
+        "link": "https://list.iptvcat.com/my_list/s/526a98440165934aa484d984f0ca2725.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "133240",
+        "channel": "Rouge TV",
+        "link": "https://list.iptvcat.com/my_list/s/1689793c4d431d128ea0b7e0080a662f.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "5776",
+        "channel": "Rouge TV (Opt-2)",
+        "link": "https://list.iptvcat.com/my_list/s/624c91a08bc19ee66ff2543930d4cba3.m3u8",
+        "country": "switzerland",
+        "liveliness": "99",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495862",
+        "channel": "Rouge TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/926713880b1c7b4041e854fcb20d3e3b.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495918",
+        "channel": "S1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/1d04323960c04a06ed17b9d499f93440.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2491485",
+        "channel": "SAT 7 ARABIC",
+        "link": "https://list.iptvcat.com/my_list/s/c2e745f99d934d40c7b712d4d53e2984.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495924",
+        "channel": "SKY ATLANTIC FHD",
+        "link": "https://list.iptvcat.com/my_list/s/416abda95865f912c6ec1339ec89e4ab.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113764",
+        "channel": "SRF 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/e8289db24242d2f7d8db13b70ff48690.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495930",
+        "channel": "SRF 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/4c2009d2c552123807ad810154a8d971.m3u8",
+        "country": "switzerland",
+        "liveliness": "52",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113765",
+        "channel": "SRF 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/2ea52c4a11f4d26bf8c62647e1e9dbf2.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113752",
+        "channel": "SRF Info HD",
+        "link": "https://list.iptvcat.com/my_list/s/00898e9551565a8a1fcbbf67bba6cafa.m3u8",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495948",
+        "channel": "SRF Info HD",
+        "link": "https://list.iptvcat.com/my_list/s/82d1c4cd746b7c7feb18e002904b5c40.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495964",
+        "channel": "SRF Sport HD",
+        "link": "https://list.iptvcat.com/my_list/s/8ac08158bc4b293a5443030a074aeb5d.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_-_-_"
         ]
     },
     {
@@ -2832,9 +2804,9 @@
         "channel": "SRF Zwei HD",
         "link": "https://list.iptvcat.com/my_list/s/c31a755eeb276fbf65bbed2cb35c03a2.m3u8",
         "country": "switzerland",
-        "liveliness": "85",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2846,9 +2818,9 @@
         "channel": "SYFY FHD",
         "link": "https://list.iptvcat.com/my_list/s/6eef0c61b82a3ecb0c72cf330c705e7e.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2860,11 +2832,11 @@
         "channel": "Sat 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/1179baf759a13a9fafaf13bdc6d3ccb3.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "switzerland"
         ]
@@ -2874,9 +2846,9 @@
         "channel": "Swiss Chalenge FHD",
         "link": "https://list.iptvcat.com/my_list/s/24aa7625241fb66584533dd0fbd7309f.m3u8",
         "country": "switzerland",
-        "liveliness": "79",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2888,9 +2860,9 @@
         "channel": "THE SWIZZ HD",
         "link": "https://list.iptvcat.com/my_list/s/22c001696305ae68e40cd0ea443d3d5d.m3u8",
         "country": "switzerland",
-        "liveliness": "56",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "55",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2902,9 +2874,9 @@
         "channel": "TLC HD",
         "link": "https://list.iptvcat.com/my_list/s/1a23b97582245f176cc0bea19bb78d56.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -2916,9 +2888,9 @@
         "channel": "TV 24 FHD",
         "link": "https://list.iptvcat.com/my_list/s/277e12184ae17f1d9da67f4daf174660.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2930,9 +2902,9 @@
         "channel": "TV 25 FHD",
         "link": "https://list.iptvcat.com/my_list/s/cb359e7f27545df7f39da7c9942dd4f6.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2946,7 +2918,7 @@
         "country": "switzerland",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2960,7 +2932,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2974,7 +2946,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2986,9 +2958,9 @@
         "channel": "TVM 3 FHD",
         "link": "https://list.iptvcat.com/my_list/s/facdc4cad497dc7ae5b6cbe339558b06.m3u8",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -3002,7 +2974,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -3016,7 +2988,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3028,9 +3000,9 @@
         "channel": "Tele 1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/e55839283f69e17a16016ce0e7c6592a.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3044,7 +3016,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3058,7 +3030,7 @@
         "country": "switzerland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3070,9 +3042,9 @@
         "channel": "Tele M1 HD",
         "link": "https://list.iptvcat.com/my_list/s/beec6017b3ef7156cdbef38c6e11b9ec.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3084,11 +3056,11 @@
         "channel": "Tele Z HD",
         "link": "https://list.iptvcat.com/my_list/s/ef1b8bbc6fb19811dc29b19ebbc0edd3.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland"
         ]
@@ -3098,9 +3070,9 @@
         "channel": "TeleBielingue (720p)",
         "link": "https://list.iptvcat.com/my_list/s/0139246b17ba37820e653114ee4b048a.m3u8",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "99",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3114,7 +3086,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3126,9 +3098,9 @@
         "channel": "TeleTicino HD",
         "link": "https://list.iptvcat.com/my_list/s/155c4b4127527722b957fde0accbb8b9.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3142,7 +3114,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3156,7 +3128,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "1392",
         "URI": [
@@ -3168,9 +3140,9 @@
         "channel": "Telebasel HD",
         "link": "https://list.iptvcat.com/my_list/s/89dfece07244a13705969e07c0037098.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "1392",
         "URI": [
@@ -3182,25 +3154,11 @@
         "channel": "Telebielingue HD",
         "link": "https://list.iptvcat.com/my_list/s/34d81cdfba1bc807d4e2f1ad9074973b.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "switzerland"
-        ]
-    },
-    {
-        "id": "2447386",
-        "channel": "Teleclub Action",
-        "link": "https://list.iptvcat.com/my_list/s/d61aa6c4bbda9d770195a603852e866c.m3u8",
-        "country": "switzerland",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "switzerland"
         ]
@@ -3210,9 +3168,9 @@
         "channel": "Teletop FHD",
         "link": "https://list.iptvcat.com/my_list/s/40b84041b62ff5e05afc4213c5b9fbe6.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3226,7 +3184,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3240,7 +3198,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3254,9 +3212,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "switzerland"
         ]
@@ -3268,7 +3226,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3282,7 +3240,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3296,7 +3254,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3310,7 +3268,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3324,7 +3282,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3338,7 +3296,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3352,7 +3310,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3366,7 +3324,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3380,7 +3338,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3394,9 +3352,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "switzerland"
         ]
@@ -3408,7 +3366,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3422,9 +3380,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3436,7 +3394,7 @@
         "country": "switzerland",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3448,9 +3406,9 @@
         "channel": "4+ FHD",
         "link": "https://list.iptvcat.com/my_list/s/0b1e628d1420c98b11d4d4ebda454785.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3462,11 +3420,11 @@
         "channel": "5+ HD",
         "link": "https://list.iptvcat.com/my_list/s/0f5944bacef41a421874d5aaa255fd7d.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3476,9 +3434,9 @@
         "channel": "6+ FHD",
         "link": "https://list.iptvcat.com/my_list/s/fe8a95ae6b0f370900c13ec10388cc47.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3490,11 +3448,11 @@
         "channel": "ANIMAL PLANET FHD",
         "link": "https://list.iptvcat.com/my_list/s/7804c755f931186c97cfc915960f1237.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13873",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3504,11 +3462,11 @@
         "channel": "Blue Action FHD",
         "link": "https://list.iptvcat.com/my_list/s/7019eb59dce3f42a4392efd8e60a989f.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3518,9 +3476,9 @@
         "channel": "Blue Prime FHD",
         "link": "https://list.iptvcat.com/my_list/s/8fedf939880e5c0a496fb1d50f9acf71.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3534,7 +3492,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3546,9 +3504,9 @@
         "channel": "Blue Sport 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/707756ff4fe59e58a28cb4c310289178.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3560,11 +3518,11 @@
         "channel": "Blue Sport Event 1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/6fae42348d827b1a298d2f26b4e0b29e.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3576,7 +3534,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3590,7 +3548,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3604,7 +3562,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3618,7 +3576,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3632,7 +3590,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -3644,9 +3602,9 @@
         "channel": "Blue Stars FHD",
         "link": "https://list.iptvcat.com/my_list/s/6aa2a63fbc56007b4b392cac7d554014.m3u8",
         "country": "switzerland",
-        "liveliness": "82",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3658,9 +3616,9 @@
         "channel": "Blue Zoom D HD",
         "link": "https://list.iptvcat.com/my_list/s/f9c4958cb04ad8577f5dec0204a7ad75.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3674,7 +3632,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -3688,7 +3646,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3702,7 +3660,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3715,8 +3673,8 @@
         "link": "https://list.iptvcat.com/my_list/s/748acf13bf83b7f8d59a05554fc21258.m3u8",
         "country": "switzerland",
         "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "1487, ...",
         "URI": [
@@ -3728,9 +3686,9 @@
         "channel": "Canal Alpha Jura FHD",
         "link": "https://list.iptvcat.com/my_list/s/e8c0e353d00ce2293877a127b681c092.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3742,9 +3700,9 @@
         "channel": "Canal Alpha Lundi FHD",
         "link": "https://list.iptvcat.com/my_list/s/4d1d1ed029d378f505f3778be4f7438b.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3758,7 +3716,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3770,11 +3728,11 @@
         "channel": "Comedy Central HD",
         "link": "https://list.iptvcat.com/my_list/s/e357c66b7d8583c987c777d87b060ad9.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3786,7 +3744,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -3800,7 +3758,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3812,9 +3770,9 @@
         "channel": "Die Neue Zeit TV HD",
         "link": "https://list.iptvcat.com/my_list/s/b8e8c823ecd54215717d61c75a13b666.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -3826,9 +3784,9 @@
         "channel": "Discovery World HD",
         "link": "https://list.iptvcat.com/my_list/s/646115b53c021a4b463308ca4824c5ab.m3u8",
         "country": "switzerland",
-        "liveliness": "75",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3840,11 +3798,11 @@
         "channel": "Disney Channel HD",
         "link": "https://list.iptvcat.com/my_list/s/22f3502fcd5bd610d9b8549bc6181b17.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3854,11 +3812,11 @@
         "channel": "EUROSPORT 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/becbddd31a88593ee5cf46d9dc4e4027.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3868,11 +3826,11 @@
         "channel": "Kanal 5 HD",
         "link": "https://list.iptvcat.com/my_list/s/cd6a4d0b2a49ebcd2af84cdd31b45535.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3882,9 +3840,9 @@
         "channel": "Kanal 9 (FR) FHD",
         "link": "https://list.iptvcat.com/my_list/s/bf3129f8b4632dda90f96df4e69f1660.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -3896,11 +3854,11 @@
         "channel": "Kanal 9 FHD",
         "link": "https://list.iptvcat.com/my_list/s/8912c7e0047abe3543bfc4c3f2aa44f7.m3u8",
         "country": "switzerland",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -3911,8 +3869,8 @@
         "link": "https://list.iptvcat.com/my_list/s/8f066b759b3308d305b38a03a36df3bb.m3u8",
         "country": "switzerland",
         "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "7986, ...",
         "URI": [
@@ -3926,7 +3884,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "7986, ...",
         "URI": [
@@ -3940,7 +3898,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -3954,7 +3912,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -3966,9 +3924,9 @@
         "channel": "LA TELE FHD",
         "link": "https://list.iptvcat.com/my_list/s/88f762e1a44756183fa4190b82569a74.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "93",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3982,7 +3940,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3996,9 +3954,9 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4009,8 +3967,8 @@
         "link": "https://list.iptvcat.com/my_list/s/8f02f82ab53931c7974043d379263661.m3u8",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -4022,9 +3980,9 @@
         "channel": "LFM TV HD",
         "link": "https://list.iptvcat.com/my_list/s/5b7f9f4a64b03e5131abd06d7884a569.m3u8",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4038,7 +3996,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4052,7 +4010,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4065,8 +4023,8 @@
         "link": "https://list.iptvcat.com/my_list/s/d4fe447b5e05d8c15ab1723a6277eff9.m3u8",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4080,7 +4038,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4094,7 +4052,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -4108,7 +4066,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4122,7 +4080,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4134,9 +4092,9 @@
         "channel": "MySports 2 FHD",
         "link": "https://list.iptvcat.com/my_list/s/3459912f27ec482679311d63155814bc.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4150,7 +4108,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4162,9 +4120,9 @@
         "channel": "MySports 4 FHD",
         "link": "https://list.iptvcat.com/my_list/s/9dcccc66c9220c1abc6f8185740d9e46.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4178,7 +4136,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4190,9 +4148,9 @@
         "channel": "MySports 5 FHD",
         "link": "https://list.iptvcat.com/my_list/s/e08f261781f7e460d6116833ee0d7d3f.m3u8",
         "country": "switzerland",
-        "liveliness": "87",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4206,7 +4164,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4218,9 +4176,9 @@
         "channel": "MySports 6 FHD",
         "link": "https://list.iptvcat.com/my_list/s/b505242f0180e5d18dc3fa92d093b387.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4234,7 +4192,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4248,7 +4206,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4262,7 +4220,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4276,7 +4234,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4290,7 +4248,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4302,9 +4260,9 @@
         "channel": "MySports 9 FHD",
         "link": "https://list.iptvcat.com/my_list/s/79a40c1aca424f72a3b58c36a227776f.m3u8",
         "country": "switzerland",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4318,7 +4276,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4332,7 +4290,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4346,9 +4304,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4358,9 +4316,9 @@
         "channel": "NAT GEO Wild FHD",
         "link": "https://list.iptvcat.com/my_list/s/9c35bf2b7890601f7572ed4d6cfcf2a0.m3u8",
         "country": "switzerland",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4372,9 +4330,9 @@
         "channel": "Nick Junior HD",
         "link": "https://list.iptvcat.com/my_list/s/b8ae508c1f6747649b85b36d0fa4e417.m3u8",
         "country": "switzerland",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -4388,7 +4346,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -4402,7 +4360,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4416,7 +4374,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -4430,7 +4388,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4444,7 +4402,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -4456,9 +4414,9 @@
         "channel": "Puls Acht FHD",
         "link": "https://list.iptvcat.com/my_list/s/477c102117c077fcdd162ecdb9cc549b.m3u8",
         "country": "switzerland",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4472,9 +4430,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4484,11 +4442,11 @@
         "channel": "RSI La 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/b5cdd7ecb3278c400bb0348142b9517d.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4498,9 +4456,9 @@
         "channel": "RTL FHD",
         "link": "https://list.iptvcat.com/my_list/s/d732585220ac0bbc26cca4723ed86da2.m3u8",
         "country": "switzerland",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4512,11 +4470,11 @@
         "channel": "RTS 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/86a6a585fa61cfad5a0038ee6b0cd6e4.m3u8",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4526,9 +4484,9 @@
         "channel": "RTS 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/f62e2e3da319852d5eefdd10601be552.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4542,7 +4500,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4555,8 +4513,8 @@
         "link": "https://list.iptvcat.com/my_list/s/248dc364f4208082a128f707aed488e4.m3u8",
         "country": "switzerland",
         "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -4570,7 +4528,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -4584,7 +4542,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4596,9 +4554,9 @@
         "channel": "Radio Pilatus FHD",
         "link": "https://list.iptvcat.com/my_list/s/60ddf8226e165a71690d0b5f6c82274c.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4612,7 +4570,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4626,7 +4584,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4640,7 +4598,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4654,7 +4612,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4667,8 +4625,8 @@
         "link": "https://list.iptvcat.com/my_list/s/624c91a08bc19ee66ff2543930d4cba3.m3u8",
         "country": "switzerland",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4682,7 +4640,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4694,9 +4652,9 @@
         "channel": "S1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/1d04323960c04a06ed17b9d499f93440.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4710,7 +4668,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4722,11 +4680,11 @@
         "channel": "SKY ATLANTIC FHD",
         "link": "https://list.iptvcat.com/my_list/s/416abda95865f912c6ec1339ec89e4ab.m3u8",
         "country": "switzerland",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4738,23 +4696,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2447383",
-        "channel": "SRF 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/7d63b09c72b09a31e988bda22dbe5466.m3u8",
-        "country": "switzerland",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4764,11 +4708,11 @@
         "channel": "SRF 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/4c2009d2c552123807ad810154a8d971.m3u8",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "52",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4780,23 +4724,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
-        "URI": [
-            "switzerland_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2447384",
-        "channel": "SRF 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/25d8d74866fe229ef2fcfd9146ae5d04.m3u8",
-        "country": "switzerland",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2022-04-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
@@ -4808,9 +4738,37 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-04-13T00:00:00Z",
+        "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495948",
+        "channel": "SRF Info HD",
+        "link": "https://list.iptvcat.com/my_list/s/82d1c4cd746b7c7feb18e002904b5c40.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2495964",
+        "channel": "SRF Sport HD",
+        "link": "https://list.iptvcat.com/my_list/s/8ac08158bc4b293a5443030a074aeb5d.m3u8",
+        "country": "switzerland",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_-_-_"
         ]
